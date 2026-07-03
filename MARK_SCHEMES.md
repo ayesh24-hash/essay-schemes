@@ -120,3 +120,89 @@ calibration: Must-have safety points — antibiotics within 1 hour, blood cultur
 ---
 
 *End of scheme M01-Q1 (schemeVersion 1.1). Next scheme to be appended below this line as PASS 2 continues.*
+## SCHEME_ID: M01-Q2
+- topic: Heavy menstrual bleeding — medical and surgical management across reproductive life
+- subject: GYN
+- questionType: SAQ
+- totalMarks: 20
+- rawMarks: 100
+- schemeVersion: 1.0
+
+### QUESTION
+Critically evaluate the medical and surgical management options available for a woman presenting with heavy menstrual bleeding throughout her reproductive life. (100 marks)
+
+### SECTION 1 — Definition, classification & initial assessment (15 raw → 3.0 scaled)
+model: Heavy menstrual bleeding (HMB) is defined pragmatically as excessive blood loss that interferes with a woman's quality of life. Causes are structured using the FIGO PALM-COEIN classification into structural and non-structural categories. Baseline assessment (full blood count, targeted further tests, transvaginal ultrasound and, where indicated, hysteroscopy with endometrial biopsy) determines which management pathway is appropriate, and the plan must be individualised to the woman's age, fertility wishes and findings.
+points:
+- [1] HMB defined pragmatically as excessive menstrual blood loss affecting physical, social, emotional or material quality of life | NICE NG88 (2018, updated 2021)
+- [1] Affects approximately 1 in 3 women at some point in reproductive life | NICE NG88 (2018, updated 2021)
+- [2] FIGO PALM-COEIN system used to structure the differential diagnosis | FIGO classification (Munro et al., 2018 revision)
+- [1] Structural causes: Polyp, Adenomyosis, Leiomyoma, Malignancy/hyperplasia | FIGO PALM-COEIN
+- [1] Non-structural causes: Coagulopathy, Ovulatory dysfunction, Endometrial, Iatrogenic, Not-yet-classified | FIGO PALM-COEIN
+- [2] Full blood count offered to all women presenting with HMB | NICE NG88
+- [1] Coagulation screen, ferritin, thyroid function only if history suggests an underlying disorder | NICE NG88
+- [2] Transvaginal ultrasound first-line imaging when structural abnormality suspected, uterus palpable abdominally, or medical treatment has failed | NICE NG88
+- [2] Outpatient hysteroscopy with endometrial biopsy where suspected endometrial pathology, persistent intermenstrual bleeding, or risk factors for malignancy are present | NICE NG88
+- [2] Management must be individualised by age, fertility wishes, fibroid presence/size, comorbidity and patient preference | NICE NG88
+
+### SECTION 2 — Medical management: critical evaluation (35 raw → 7.0 scaled)
+model: Medical management is first-line when there is no significant structural pathology. The levonorgestrel intrauterine system is the most effective option and is recommended first if long-term use is acceptable, followed by non-hormonal (tranexamic acid, NSAIDs) or other hormonal options. GnRH analogues are reserved as a third-line/pre-operative measure because of hypo-oestrogenic side effects. Choice should balance efficacy, contraceptive need, fertility wishes and patient preference, with treatment failure prompting escalation to surgery.
+points:
+- [4] LNG-IUS (52 mg) recommended as first-line medical treatment when no fibroids >3 cm or other significant pathology, and long-term use (≥12 months) is anticipated | NICE NG88
+- [3] LNG-IUS reduces menstrual blood loss by up to ~90% by 12 months, more effective than oral agents | Cochrane review; NICE NG88
+- [2] Disadvantages: irregular bleeding/spotting especially in first 3–6 months, requires counselling and an insertion procedure | NICE NG88
+- [3] Tranexamic acid (antifibrinolytic) taken only during menstruation, reduces blood loss by approximately 40–50% | NICE NG88
+- [2] Tranexamic acid suitable when contraception is not required; caution advised with personal VTE risk | NICE NG88
+- [2] NSAIDs (e.g. mefenamic acid) reduce blood loss and treat dysmenorrhoea but are less effective than tranexamic acid | NICE NG88
+- [3] Combined hormonal contraception can be offered if no contraindications, with the added benefit of contraception | NICE NG88
+- [2] Cyclical oral progestogens (e.g. norethisterone days 5–26) can reduce HMB but are less effective than LNG-IUS | NICE NG88
+- [2] Long-acting injectable progestogens may be considered though evidence base is more limited | NICE NG88
+- [3] GnRH analogues are third-line, used for pre-operative fibroid shrinkage or when other options fail/are contraindicated; add-back HRT needed to limit bone loss beyond 6 months | NICE NG88
+- [2] Choice of medical therapy must account for fertility wishes, contraceptive need, fibroid size/presence and patient preference | NICE NG88
+- [2] Efficacy of medical treatment typically reviewed at around 3 months before deciding to continue or escalate | NICE NG88 [VERIFY]
+- [3] Failure of, contraindication to, or patient preference against medical management are indications to consider surgery | NICE NG88
+- [2] Significant underlying structural pathology (e.g. large fibroids, polyps) may limit the efficacy of medical treatment alone | NICE NG88
+
+### SECTION 3 — Surgical management: critical evaluation (35 raw → 7.0 scaled)
+model: Surgical options range from fertility-conserving procedures (hysteroscopic resection, myomectomy, uterine artery embolisation) to definitive treatments (endometrial ablation, hysterectomy). Second-generation endometrial ablation is preferred over first-generation techniques for its speed and safety, but is unsuitable for women wishing future fertility. Hysterectomy provides guaranteed amenorrhoea but carries the greatest surgical morbidity and should not be offered as a first-line option; route of hysterectomy and pre-operative work-up must be individualised.
+points:
+- [3] Surgery considered after failed or declined medical management, significant structural pathology, or informed patient choice | NICE NG88
+- [3] Hysteroscopic polypectomy or myomectomy for submucosal fibroids/polyps causing HMB, fertility-preserving | NICE NG88
+- [4] Second-generation endometrial ablation techniques preferred over first-generation — shorter procedure time, comparable efficacy, improved safety profile | NICE NG88
+- [2] Ablation unsuitable for women wishing future fertility; effective contraception still required afterwards as it is not sterilisation | NICE NG88
+- [3] Uterine artery embolisation is a fertility-conserving option for fibroid-related HMB avoiding major surgery, though evidence on fertility/pregnancy outcomes after UAE remains limited | RCOG Scientific Impact Paper — Uterine Artery Embolisation, latest edition [VERIFY]
+- [3] Myomectomy (open/laparoscopic/hysteroscopic) for women with fibroids wishing to preserve the uterus/fertility, with a recognised risk of fibroid recurrence | NICE NG88
+- [4] Hysterectomy is the only guaranteed definitive treatment but should not be used as a first-line option given the morbidity of major surgery | NICE NG88
+- [3] Choice of hysterectomy route (vaginal, laparoscopic, abdominal) individualised by uterine size/mobility, associated pathology and surgeon expertise, with vaginal/laparoscopic preferred over open where feasible | RCOG guidance, latest edition [VERIFY]
+- [2] Risks of hysterectomy include haemorrhage, infection, visceral (bladder/bowel/ureteric) injury, VTE, anaesthetic risk and permanent loss of fertility | NICE NG88
+- [2] Risks of ablation include uterine perforation and, with fluid-distension systems, fluid overload; post-ablation tubal sterilisation syndrome recognised in sterilised women | NICE NG88 [VERIFY]
+- [2] Shared decision-making required, with risks, benefits and alternatives discussed and fertility wishes documented before any surgery | NICE NG88; GMC consent guidance
+- [2] Pre-operative optimisation: correction of anaemia, thromboprophylaxis assessment, cross-matching as per local protocol | Local unit protocol [SLCOG-CHECK]
+- [2] Histological exclusion of endometrial malignancy before ablation or hysterectomy where indicated | NICE NG88
+
+### SECTION 4 — Tailoring across reproductive life-stages & follow-up (15 raw → 3.0 scaled)
+model: Management must be tailored to the woman's life stage. Adolescents need screening for bleeding disorders and are managed medically wherever possible; women still wishing to conceive should avoid ablation and hysterectomy; perimenopausal women need a lower threshold for endometrial assessment and may reasonably progress to definitive surgery sooner. Regular follow-up ensures treatment efficacy is reviewed and anaemia is corrected regardless of the option chosen.
+points:
+- [2] Adolescents with HMB since menarche should be screened for underlying bleeding disorders (e.g. von Willebrand disease) | NICE NG88; RCOG guidance
+- [2] In adolescents, medical management is first-line and surgery avoided; LNG-IUS/COCP appropriate, tranexamic acid/NSAIDs for milder presentations | NICE NG88
+- [2] Women wishing to conceive should avoid ablation/hysterectomy; tranexamic acid, NSAIDs, or myomectomy/hysteroscopic resection for structural causes preferred | NICE NG88
+- [2] Perimenopausal women carry a higher risk of endometrial pathology, warranting a lower threshold for endometrial biopsy/hysteroscopy before treatment | NICE NG88
+- [2] LNG-IUS can be used to bridge to menopause and provides endometrial protection if HRT is subsequently needed | NICE NG88
+- [2] Women who have completed their family and are approaching menopause with persistent symptoms may reasonably choose definitive surgery earlier | NICE NG88
+- [2] Efficacy and side-effects of medical treatment reviewed at 3–6 months, with reassessment if response is inadequate or new symptoms (e.g. intermenstrual bleeding) develop | NICE NG88
+- [1] Ongoing correction of iron-deficiency anaemia alongside whichever definitive treatment is chosen | NICE NG88
+
+### GUIDELINES USED
+- NICE NG88 — Heavy menstrual bleeding: assessment and management | 2018, updated 2021 [VERIFY exact update date]
+- FIGO PALM-COEIN classification system for causes of abnormal uterine bleeding | Munro et al., 2018 revision
+- RCOG Scientific Impact Paper — Uterine Artery Embolisation in the management of fibroids | latest edition [VERIFY]
+- RCOG guidance on choice of hysterectomy route | latest edition [VERIFY]
+- Cochrane systematic reviews comparing LNG-IUS with other medical treatments for HMB | most recent update
+
+### FLAGS
+- No official SLCOG marking scheme was available in the project for this exact question — the raw mark distribution (15/35/35/15) is Claude's own logical structuring, not anchored to an SLCOG grid. Please have the group cross-check this distribution against the actual SLCOG scheme if one exists.
+- [VERIFY] exact current update year/content changes to NICE NG88
+- [VERIFY] RCOG Scientific Impact Paper number/edition for uterine artery embolisation
+- [VERIFY] RCOG guidance source for hysterectomy route selection
+- [VERIFY] Post-ablation tubal sterilisation syndrome — confirm this is still current terminology/guidance in NICE NG88
+- [SLCOG-CHECK] Local availability and cost of LNG-IUS, second-generation ablation devices, and UAE services in Sri Lankan practice — these affect what's realistically offered and may need explicit mention for local marking standards
