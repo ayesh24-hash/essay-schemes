@@ -294,10 +294,103 @@ calibration: Must-have safety points: HELLP, pulmonary oedema, and recurrent sei
 - [SLCOG-CHECK] No Sri Lanka-specific referral pathway, drug-availability, or FHB-level content is embedded in this scheme, as no SLCOG source material on eclampsia was found in the project files. Flag for local practice review before freezing (e.g. local availability of IV labetalol vs hydralazine, local critical-care/HDU referral thresholds).
 - All previous [VERIFY] flags from v1.0 are now resolved — every point above is anchored to a specific NICE NG133 or ISSHP 2021 recommendation number/table rather than a general "latest edition" citation.
 
-## SCHEME_ID: M01-Q3
-- topic: Eclampsia
-- subject: OBS
+## SCHEME_ID: M01-Q4
+- topic: Ectopic pregnancy
+- subject: GYN
 - questionType: SEQ
 - totalMarks: 20
 - rawMarks: 100
-- schemeVersion: 2.0 — rebuilt against NICE NG133 (2019, updated 2023) and ISSHP 2021; RCOG Green-top 10a citations removed as archived/superseded
+- schemeVersion: 1.0
+
+### QUESTION
+A 28-year-old woman presents to the emergency gynaecology unit with 6 weeks of amenorrhoea, lower abdominal pain and a positive urine pregnancy test. She is haemodynamically stable. Transvaginal ultrasound shows an empty uterus and a 3 cm right adnexal mass with no free fluid.
+
+4.1. Describe how you would confirm the diagnosis of a tubal ectopic pregnancy. (25 marks)
+4.2. Justify the criteria for offering medical management with methotrexate. (25 marks)
+4.3. Discuss the surgical management options and their indications. (30 marks)
+4.4. Outline the counselling regarding future fertility and recurrence. (20 marks)
+
+### SECTION 4.1 — Confirming the diagnosis of tubal ectopic pregnancy (25 raw → 5.0 scaled)
+model: The diagnosis rests on transvaginal ultrasound as the primary tool, identifying an adnexal mass separate from the ovary (inhomogeneous mass, "blob sign", or a gestation sac with/without yolk sac/embryo), together with an empty uterus once serum hCG exceeds the discriminatory zone. Serum hCG (single and serial) and progesterone support interpretation of a pregnancy of unknown location, and diagnostic laparoscopy remains the reference standard where imaging is inconclusive.
+points:
+- [2] Confirm pregnancy with quantitative serum β-hCG (not just urine test) | NICE NG126 (2019, updated 2023)
+- [2] Transvaginal ultrasound is the diagnostic tool of choice for tubal ectopic | RCOG Green-top 21 (2016)
+- [2] TVS finding: adnexal mass moving separate from the ovary, distinct from corpus luteum | RCOG Green-top 21 (2016)
+- [2] Inhomogeneous adnexal mass or "blob sign" adjacent to ovary | RCOG Green-top 21 (2016)
+- [2] Empty gestation sac ("bagel/tubal ring sign") in the adnexa | RCOG Green-top 21 (2016)
+- [2] Adnexal gestation sac containing yolk sac ± embryo/fetal pole (± cardiac activity) is diagnostic | RCOG Green-top 21 (2016)
+- [2] Empty uterus with hCG above the discriminatory zone raises suspicion | NICE NG126 (2019)
+- [2] Assess for free fluid in pouch of Douglas as a marker of rupture/haemorrhage | RCOG Green-top 21 (2016)
+- [2] Classify as pregnancy of unknown location (PUL) if no int/extrauterine pregnancy seen | NICE NG126 (2019)
+- [2] Serial serum β-hCG at 48-hour intervals to characterise a PUL | NICE NG126 (2019)
+- [2] Interpret suboptimal/plateauing hCG rise (<63% in 48h) as suspicious of ectopic | NICE NG126 (2019)
+- [1] Single serum progesterone as adjunct to predict a failing PUL | RCOG Green-top 21 (2016)
+- [2] Diagnostic laparoscopy is the gold/reference standard when imaging inconclusive | RCOG Green-top 21 (2016)
+- [1] Do not use a single hCG level alone to diagnose an ectopic | NICE NG126 (2019)
+calibration: Must-have: TVS as first-line, adnexal mass separate from ovary, serial hCG for PUL, and free-fluid assessment. Exact figures: discriminatory zone concept, 48-hour hCG interval, <63% rise. Common omissions: naming PUL as a distinct category, progesterone role, and stating laparoscopy is the reference standard.
+
+### SECTION 4.2 — Criteria for methotrexate medical management (25 raw → 5.0 scaled)
+model: Methotrexate is offered to a well-counselled, haemodynamically stable woman with no significant pain, an unruptured tubal ectopic <35 mm with no fetal cardiac activity, a serum hCG ideally <1500 (and up to 5000) IU/L, no intrauterine pregnancy, and who can attend for follow-up. Baseline bloods must be normal, contraindications excluded, and the woman must accept serial hCG surveillance with the possibility of a second dose or surgery.
+points:
+- [2] Haemodynamically stable woman | NICE NG126 (2019)
+- [2] No significant or worsening abdominal pain | NICE NG126 (2019)
+- [2] Unruptured tubal ectopic pregnancy | RCOG Green-top 21 (2016)
+- [2] Adnexal mass smaller than 35 mm | NICE NG126 (2019)
+- [2] No visible fetal heartbeat on ultrasound | NICE NG126 (2019)
+- [2] Serum hCG ideally <1500 IU/L (offer as first choice over surgery) | NICE NG126 (2019)
+- [2] hCG 1500–5000 IU/L acceptable if woman can return for follow-up and accepts | NICE NG126 (2019)
+- [2] No coexisting viable intrauterine pregnancy | NICE NG126 (2019)
+- [2] Able and willing to attend for follow-up | NICE NG126 (2019)
+- [2] Normal baseline FBC, renal and liver function | RCOG Green-top 21 (2016)
+- [1] Exclude contraindications: breastfeeding, immunodeficiency, active pulmonary/peptic ulcer disease | RCOG Green-top 21 (2016)
+- [2] Dose 50 mg/m² IM single dose based on body surface area | RCOG Green-top 21 (2016)
+- [2] Follow-up hCG on days 4 and 7; expect ≥15% fall day 4–7 | NICE NG126 (2019)
+- [2] Second dose (up to ~14%) if inadequate fall; then weekly hCG to negative | RCOG Green-top 21 (2016)
+- [1] Advise reliable contraception and avoid conception for 3 months post-methotrexate | RCOG Green-top 21 (2016)
+calibration: Must-have: stable, no pain, <35 mm, no fetal heart, no IUP, follow-up compliance, and the hCG thresholds. Exact figures: 35 mm, <1500 and up to 5000 IU/L, 50 mg/m², ≥15% fall days 4–7, 3-month conception delay. Common omissions: baseline bloods/contraindications and the day 4/7 surveillance schedule.
+
+### SECTION 4.3 — Surgical management options and indications (30 raw → 6.0 scaled)
+model: Laparoscopy is preferred over laparotomy in the stable woman, with salpingectomy as the procedure of choice when the contralateral tube is healthy. Salpingotomy is reserved for women with contralateral tubal damage wishing to conserve fertility, accepting the risks of persistent trophoblast and the need for hCG surveillance. Surgery is indicated for significant pain, an adnexal mass ≥35 mm, fetal cardiac activity, hCG ≥5000 IU/L, haemodynamic instability/rupture, or where medical management is unsuitable or has failed.
+points:
+- [2] Laparoscopic approach preferred over laparotomy in the stable patient | RCOG Green-top 21 (2016)
+- [2] Laparotomy reserved for the haemodynamically unstable/collapsed woman | RCOG Green-top 21 (2016)
+- [2] Salpingectomy is the procedure of choice with a healthy contralateral tube | NICE NG126 (2019)
+- [2] Salpingotomy considered where the contralateral tube is damaged/absent | NICE NG126 (2019)
+- [2] Indication: significant pain | NICE NG126 (2019)
+- [2] Indication: adnexal mass 35 mm or larger | NICE NG126 (2019)
+- [2] Indication: visible fetal heartbeat | NICE NG126 (2019)
+- [2] Indication: serum hCG ≥5000 IU/L | NICE NG126 (2019)
+- [2] Indication: signs of rupture / haemodynamic instability | RCOG Green-top 21 (2016)
+- [2] Indication: unable/unwilling to attend medical-management follow-up | NICE NG126 (2019)
+- [2] Salpingotomy risk: persistent trophoblast requiring further treatment | RCOG Green-top 21 (2016)
+- [2] Salpingotomy needs post-op hCG surveillance to detect persistence | RCOG Green-top 21 (2016)
+- [2] Counsel ~1 in 5 salpingotomy patients may need further methotrexate/salpingectomy | RCOG Green-top 21 (2016)
+- [2] Anti-D immunoglobulin to rhesus-negative women having surgical management | NICE NG126 (2019)
+- [2] Consent covering conversion to laparotomy, salpingectomy, and bowel/bladder/vessel injury | RCOG Green-top 21 (2016)
+calibration: Must-have: laparoscopy preferred, salpingectomy as default with healthy contralateral tube, salpingotomy only for compromised contralateral tube, and clear surgical indications. Exact figures: ≥35 mm, hCG ≥5000, persistent trophoblast ~1 in 5. Common omissions: anti-D, persistent trophoblast surveillance, and laparotomy for the unstable woman.
+
+### SECTION 4.4 — Counselling on future fertility and recurrence (20 raw → 4.0 scaled)
+model: The woman should be reassured that after a single ectopic with a healthy contralateral tube the chance of a future intrauterine pregnancy is good, but she carries an increased risk of recurrence (around 10–20%) and should seek early scanning in the next pregnancy. Salpingotomy offers similar cumulative intrauterine pregnancy rates to salpingectomy but with higher rates of persistent trophoblast and recurrent ectopic; modifiable risk factors should be addressed and psychological support offered.
+points:
+- [2] Reassure good prognosis for future intrauterine pregnancy with a healthy remaining tube | RCOG Green-top 21 (2016)
+- [2] Risk of recurrent ectopic increased (approximately 10–20%) | RCOG Green-top 21 (2016)
+- [2] Advise early TVS at 6–7 weeks in any future pregnancy to confirm location | RCOG Green-top 21 (2016)
+- [2] Advise seeking early medical review with a positive test/next pregnancy | NICE NG126 (2019)
+- [2] Salpingotomy vs salpingectomy: comparable subsequent intrauterine pregnancy rates | RCOG Green-top 21 (2016)
+- [2] Salpingotomy carries higher recurrent ectopic and persistent trophoblast rates | RCOG Green-top 21 (2016)
+- [2] Fertility depends on state of contralateral tube and prior tubal disease | RCOG Green-top 21 (2016)
+- [2] Address modifiable risk factors (smoking cessation, treat/prevent PID/STIs) | RCOG Green-top 21 (2016)
+- [2] If future subfertility, discuss IVF as an option | RCOG Green-top 21 (2016)
+- [1] Offer psychological support and information about pregnancy loss/support groups | RCOG Green-top 21 (2016)
+- [1] Provide written information and clear safety-net advice | NICE NG126 (2019)
+calibration: Must-have: recurrence risk quoted, early next-pregnancy scan advice, and the salpingotomy/salpingectomy fertility comparison. Exact figures: recurrence ~10–20%, early scan 6–7 weeks. Common omissions: psychological support, modifiable risk factors, and the safety-net/early-review message.
+
+### GUIDELINES USED
+- NICE NG126 — Ectopic pregnancy and miscarriage: diagnosis and initial management | 2019 (updated 2023)
+- RCOG Green-top Guideline No. 21 — Diagnosis and Management of Ectopic Pregnancy | 2016
+
+### FLAGS
+- [VERIFY] NICE NG126 latest update year (cited as 2023) — confirm current update status.
+- [VERIFY] RCOG Green-top 21 (2016) — confirm this remains the current edition and has not been superseded/renumbered.
+- [VERIFY] Recurrence figure ~10–20% — confirm exact quoted range against current RCOG wording.
+- [SLCOG-CHECK] No SLCOG-specific ectopic guideline cited; confirm whether a current SLCOG standard exists and whether hCG thresholds/anti-D practice differ locally.
