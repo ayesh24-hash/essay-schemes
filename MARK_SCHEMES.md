@@ -300,3 +300,95 @@ calibration: Must-have safety points: HELLP, pulmonary oedema, and recurrent sei
 ### FLAGS
 - [SLCOG-CHECK] No Sri Lanka-specific referral pathway, drug-availability, or FHB-level content is embedded in this scheme, as no SLCOG source material on eclampsia was found in the project files. Flag for local practice review before freezing (e.g. local availability of IV labetalol vs hydralazine, local critical-care/HDU referral thresholds).
 - All previous [VERIFY] flags from v1.0 are now resolved — every point above is anchored to a specific NICE NG133 or ISSHP 2021 recommendation number/table rather than a general "latest edition" citation.
+
+## SCHEME_ID: M01-Q3
+- topic: Eclampsia
+- subject: OBS
+- questionType: SEQ
+- totalMarks: 20
+- rawMarks: 100
+- schemeVersion: 2.0 — rebuilt against NICE NG133 (2019, updated 2023) and ISSHP 2021; RCOG Green-top 10a citations removed as archived/superseded
+
+### QUESTION
+A 19-year-old primigravida at 37 weeks of gestation is admitted with a generalised tonic-clonic seizure that occurred at home. On admission her blood pressure is 170/115 mmHg and urinalysis shows proteinuria of 3+.
+
+3.1. Outline the immediate resuscitation and stabilisation of this patient. (25 marks)
+3.2. Justify the pharmacological control of her blood pressure and seizures. (30 marks)
+3.3. Discuss the principles that guide the timing and mode of delivery. (20 marks)
+3.4. Outline the maternal complications you would anticipate and monitor for. (25 marks)
+
+### SECTION 3.1 — Immediate resuscitation and stabilisation (25 raw → 5.0 scaled)
+model: Call for senior multidisciplinary help immediately and manage using an ABC approach — protect the airway in the left lateral position, give oxygen, and secure IV access with bloods sent. Magnesium sulfate is given as the Collaborative Eclampsia Trial regimen (4 g loading dose, 1 g/hour maintenance), continued for 24 hours after the last fit, with structured monitoring for toxicity and calcium gluconate available as the antidote.
+points:
+- [2] Immediate multidisciplinary emergency call — senior obstetrician, anaesthetist, senior midwife | Best practice (no single guideline recommendation number)
+- [2] Airway protection — left lateral position to reduce aspiration risk | Best practice (no single guideline recommendation number)
+- [2] High-flow oxygen; refer to appropriate critical care level per severity | NICE NG133, 1.8.14 and Table 4
+- [1] Do not restrain the patient during the seizure; protect from injury only | Best practice (no single guideline recommendation number)
+- [2] Two large-bore IV cannulae sited, bloods sent (FBC, LFTs, renal function) | NICE NG133, 1.5.5 Table 2
+- [3] Give IV magnesium sulfate — the Collaborative Eclampsia Trial regimen: loading dose 4 g IV over 5–15 minutes | NICE NG133, 1.8.4; ISSHP 2021 Table 9, Rec 28
+- [3] Maintenance infusion 1 g/hour IV, continued for 24 hours after the last eclamptic fit or birth, whichever is later | NICE NG133, 1.8.4; ISSHP 2021 Table 9
+- [1] Recurrent seizure on magnesium sulfate — further dose of 2–4 g IV over 5–15 minutes | NICE NG133, 1.8.4
+- [2] Do not use diazepam, phenytoin, or other anticonvulsants as an alternative to magnesium sulfate | NICE NG133, 1.8.5
+- [2] Monitor for magnesium toxicity — reflexes, BP, heart rate, respiratory rate (toxicity if <12/min for 15 min), pulse oximetry (toxicity if O2 sat <94% for 15 min), hourly urine output (toxicity if <30 mL/hr for 4 hrs) | ISSHP 2021 Table 9
+- [1] Calcium gluconate 10% (10 mL in 100 mL normal saline IV over 10 minutes) as the antidote for magnesium toxicity | ISSHP 2021 Table 9
+- [2] Urinary catheter inserted for accurate hourly urine output and fluid balance | ISSHP 2021 Table 9 (toxicity monitoring requires hourly output)
+- [1] Continuous fetal monitoring (CTG) once the mother is stabilised | NICE NG133, Table 9 (Magnesium sulfate section context — fetal monitoring principle)
+- [1] Neonatal MHRA caution — prolonged/repeated MgSO4 (>5–7 days) risks neonatal skeletal effects and hypocalcaemia/hypermagnesaemia; not directly relevant to a single acute course but reflects safe-prescribing awareness | NICE NG133, 1.8.4 (MHRA warning box)
+calibration: Must-have safety points: senior help called immediately, magnesium sulfate as first-line anticonvulsant (explicitly not diazepam/phenytoin), and correct MgSO4 dosing. Figures that must be exact: 4 g loading dose, 1 g/hour maintenance, 2–4 g rescue bolus, calcium gluconate 10 mL of 10% as antidote, and the specific toxicity thresholds (RR <12/min, SpO2 <94%, urine output <30 mL/hr). Common omissions: candidates often give vague "monitor for toxicity" without the numeric thresholds, and forget the explicit prohibition on diazepam/phenytoin.
+
+### SECTION 3.2 — Pharmacological control of blood pressure and seizures (30 raw → 6.0 scaled)
+model: Severe hypertension (≥160/110 mmHg) is treated urgently with IV labetalol, oral nifedipine, or IV hydralazine, with dose titration to a target dBP of 85 mmHg. Magnesium sulfate is continued throughout as the anticonvulsant of choice. Routine plasma volume expansion is avoided, and maintenance fluids are restricted to reduce the risk of pulmonary oedema, unless hydralazine is being used, in which case a crystalloid pre-load may be given.
+points:
+- [3] Severe hypertension (sBP ≥160 mmHg or dBP ≥110 mmHg) requires urgent antihypertensive therapy in a monitored setting | NICE NG133, 1.8.6; ISSHP 2021 Rec 23
+- [2] First-line agents for severe hypertension: labetalol (oral or IV), oral nifedipine, or IV hydralazine | NICE NG133, 1.8.6; ISSHP 2021 Rec 26
+- [3] Suggested IV labetalol titration: 10–20 mg initial dose, doubling at intervals (20–40 mg, then 40–80 mg), not exceeding 300 mg total in a treatment course | ISSHP 2021 Table 8
+- [2] Oral nifedipine 10 mg as an alternative, repeated if BP remains uncontrolled | ISSHP 2021 Table 8; NICE NG133, 1.8.6
+- [2] IV hydralazine as an alternative — 5 mg initial dose, then 5–10 mg increments, not exceeding 20 mg total | ISSHP 2021 Table 8
+- [2] Consider up to 500 mL crystalloid fluid before or with the first dose of IV hydralazine to reduce maternal hypotension | NICE NG133, 1.8.8
+- [2] Target BP once on antihypertensive treatment — dBP of 85 mmHg | ISSHP 2021 Rec 24
+- [2] Monitor response to treatment to ensure BP falls, identify maternal/fetal adverse effects, and adjust treatment accordingly | NICE NG133, 1.8.7
+- [2] Continue magnesium sulfate infusion throughout as the anticonvulsant of choice alongside antihypertensive therapy | NICE NG133, 1.8.1; ISSHP 2021 Rec 28
+- [2] Avoid ACE inhibitors/ARBs — not used once pregnancy is confirmed, due to fetotoxicity | NICE NG133, 1.3.2–1.3.3; ISSHP 2021 (ACE/ARB fetotoxicity discussion)
+- [3] Do not use routine plasma/volume expansion in severe pre-eclampsia unless hydralazine is the antihypertensive being used | NICE NG133, 1.8.11; ISSHP 2021 Rec 27
+- [3] Limit maintenance IV fluids to approximately 80 mL/hour to reduce the risk of pulmonary oedema, unless there are other ongoing fluid losses | NICE NG133, 1.8.12
+- [2] Refer to appropriate critical care level based on severity/complications (e.g. Level 2/3 care for eclampsia, HELLP, need for IV antihypertensives) | NICE NG133, 1.8.14, Table 4
+calibration: Must-have safety points: correct choice and escalation of first-line agents, the fluid-restriction figure (80 mL/hour), and avoidance of routine volume expansion. Figures that must be exact: dBP target of 85 mmHg, the 500 mL crystalloid pre-load with hydralazine, and the fluid restriction of 80 mL/hour. Common omissions: candidates often forget the volume expansion/fluid restriction points entirely, focusing only on drug doses.
+
+### SECTION 3.3 — Timing and mode of delivery (20 raw → 4.0 scaled)
+model: Eclampsia itself is an indication for delivery once the mother is stabilised, and at 37 weeks there is no reason to delay birth further — current guidance recommends initiating birth within 24–48 hours once pre-eclampsia is confirmed at or beyond 37 weeks. Mode of delivery is chosen according to clinical circumstances and the woman's preference rather than being dictated by the diagnosis of eclampsia alone, with senior obstetric and anaesthetic involvement in the decision.
+points:
+- [3] At 37 weeks onwards with pre-eclampsia (or following eclampsia), initiation of birth is recommended within 24 to 48 hours | NICE NG133, Table 3, 1.5.12
+- [3] Maternal stabilisation (seizure control, BP control) takes priority before proceeding to delivery — eclampsia is not itself an immediate indication to bypass stabilisation | NICE NG133, 1.8.1–1.8.7 (sequence of critical care recommendations)
+- [3] Abnormal neurological features such as eclampsia are listed as an indication for delivery at any gestational age, reinforcing that ongoing pregnancy is not appropriate once eclampsia has occurred | ISSHP 2021 Rec 30
+- [3] Mode of birth is chosen according to clinical circumstances and the woman's preference, not dictated by the eclampsia diagnosis alone | NICE NG133, 1.8.13
+- [2] A decision to deliver should not be based solely on the degree of proteinuria or hyperuricaemia | ISSHP 2021 Rec 31
+- [2] Senior obstetrician involved in decisions on timing of birth; discuss with the anaesthetic and neonatal teams if birth is planned | NICE NG133, 1.5.8–1.5.10
+- [2] Continuous intrapartum fetal monitoring if vaginal birth is pursued | NICE NG133, 1.6.5 (CTG at diagnosis of pre-eclampsia/severe gestational hypertension)
+- [2] Delivery should occur in a centre capable of caring for sick mothers and newborns, with transfer of care considered if resources are not available | ISSHP 2021, Rec 21/management of place of care
+calibration: Must-have safety point: eclampsia is not itself an indication for immediate caesarean section irrespective of obstetric circumstances — stabilise first, then deliver by the most appropriate route, but do not delay birth once stable at 37 weeks. Common omission: candidates often assume caesarean section is mandatory for eclampsia and fail to state that mode of birth depends on clinical circumstances.
+
+### SECTION 3.4 — Maternal complications to anticipate and monitor for (25 raw → 5.0 scaled)
+model: Eclampsia carries risk of progression to multi-organ complications captured within the pre-eclampsia definition — neurological (recurrent seizures, stroke), haematological (thrombocytopenia, DIC), hepatic (liver dysfunction, capsule haematoma or rupture), renal (acute kidney injury), cardiorespiratory (pulmonary oedema), and placental (abruption) — each of which is also a trigger for referral to a higher level of critical care and for expedited delivery.
+points:
+- [2] Recurrent eclamptic seizures | NICE NG133, definitions section (Eclampsia); ISSHP 2021 Rec 30
+- [2] HELLP syndrome — haemolysis, elevated liver enzymes, low platelet count | NICE NG133, definitions section (HELLP syndrome)
+- [2] Progressive thrombocytopenia — platelet count <150,000/microlitre, or <50 × 10⁹/L as a delivery trigger | NICE NG133, 1.5.2; ISSHP 2021 Rec 30
+- [2] Disseminated intravascular coagulation | NICE NG133, definitions section (haematological complications)
+- [2] Pulmonary oedema | NICE NG133, 1.5.2; ISSHP 2021 Rec 30
+- [2] Acute kidney injury — rising creatinine (≥90 micromol/L or 1 mg/100 mL) | NICE NG133, 1.5.2, definitions section
+- [2] Liver dysfunction, capsule haematoma, or hepatic rupture (INR >2 in absence of DIC/warfarin, haematoma or rupture) | ISSHP 2021 Rec 30
+- [2] Placental abruption, particularly with evidence of maternal or fetal compromise | NICE NG133, definitions section (uteroplacental dysfunction); ISSHP 2021 Rec 30
+- [2] Stroke / cerebrovascular event — neurological complications including altered mental status, blindness, stroke, clonus, or persistent visual scotomata | NICE NG133, definitions section (severe pre-eclampsia)
+- [2] Need for transfusion of any blood product | ISSHP 2021 Rec 30
+- [2] Non-reassuring fetal status, including fetal death | ISSHP 2021 Rec 30
+- [2] Repeated episodes of severe hypertension despite maintenance treatment with three classes of antihypertensive agents | ISSHP 2021 Rec 30
+- [1] Ongoing critical care-level monitoring (Level 2/3 care) given the risk of any of the above | NICE NG133, 1.8.14, Table 4
+calibration: Must-have safety points: HELLP, pulmonary oedema, and recurrent seizures/stroke must all be named, since these map directly onto both guidelines' criteria for delivery/escalation. Distinction-level answers explicitly tie each complication to the delivery/escalation trigger it represents (per NICE Table 4 and ISSHP Rec 30) rather than listing complications in isolation. Common omission: candidates often forget hepatic rupture/capsule haematoma and the specific platelet/creatinine thresholds.
+
+### GUIDELINES USED
+- NICE NG133 — Hypertension in pregnancy: diagnosis and management | Published 25 June 2019, last updated 17 April 2023
+- ISSHP 2021 — The 2021 International Society for the Study of Hypertension in Pregnancy classification, diagnosis & management recommendations for international practice | Pregnancy Hypertension 27 (2022) 148–169
+
+### FLAGS
+- [SLCOG-CHECK] No Sri Lanka-specific referral pathway, drug-availability, or FHB-level content is embedded in this scheme, as no SLCOG source material on eclampsia was found in the project files. Flag for local practice review before freezing (e.g. local availability of IV labetalol vs hydralazine, local critical-care/HDU referral thresholds).
+- All previous [VERIFY] flags from v1.0 are now resolved — every point above is anchored to a specific NICE NG133 or ISSHP 2021 recommendation number/table rather than a general "latest edition" citation.
