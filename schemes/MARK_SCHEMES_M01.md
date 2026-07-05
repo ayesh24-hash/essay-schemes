@@ -394,3 +394,109 @@ calibration: Must-have: recurrence risk quoted, early next-pregnancy scan advice
 - [VERIFY] RCOG Green-top 21 (2016) — confirm this remains the current edition and has not been superseded/renumbered.
 - [VERIFY] Recurrence figure ~10–20% — confirm exact quoted range against current RCOG wording.
 - [SLCOG-CHECK] No SLCOG-specific ectopic guideline cited; confirm whether a current SLCOG standard exists and whether hCG thresholds/anti-D practice differ locally.
+
+## SCHEME_ID: M01-Q5
+- topic: Postpartum haemorrhage
+- subject: OBS
+- questionType: SEQ
+- totalMarks: 20
+- rawMarks: 100
+- schemeVersion: 1.0
+
+### QUESTION
+A 30-year-old woman, para 3, delivers a 4.1 kg baby vaginally following a prolonged second stage of labour. Thirty minutes after delivery of the placenta she has an estimated blood loss of 1500 ml and continues to bleed.
+
+5.1. Outline the likely causes of postpartum haemorrhage in this woman. (20 marks)
+
+5.2. Give a critical account of the immediate medical management. (30 marks)
+
+5.3. Discuss the surgical options that may be required, giving reasons. (30 marks)
+
+5.4. Outline the measures to reduce morbidity and mortality from postpartum haemorrhage at institutional level. (20 marks)
+
+### SECTION 5.1 — Likely causes (20 raw → 4.0 scaled)
+model: This is a primary PPH occurring after vaginal delivery in a grand multipara with a macrosomic baby and prolonged second stage — the classic risk profile for uterine atony, which accounts for the great majority of cases. A systematic 4T approach (Tone, Trauma, Tissue, Thrombin) should be used to identify the cause, since atony and trauma frequently coexist in this scenario.
+points:
+- [4] Uterine atony is the most likely and commonest cause of primary PPH (~70–90% of cases) | RCOG Green-top Guideline No. 52 (latest edition) [VERIFY]
+- [1] Grand multiparity (para 3) is a recognised risk factor for atony | RCOG Green-top 52 (latest edition) [VERIFY]
+- [1] Fetal macrosomia (4.1 kg) causing uterine overdistension is a risk factor for atony | RCOG Green-top 52 (latest edition) [VERIFY]
+- [1] Prolonged second stage of labour is a risk factor for atony | RCOG Green-top 52 (latest edition) [VERIFY]
+- [2] Genital tract trauma — cervical tears — must be considered, especially after a large baby | RCOG Green-top 52 (latest edition) [VERIFY]
+- [2] Genital tract trauma — vaginal or perineal lacerations — must be considered | RCOG Green-top 52 (latest edition) [VERIFY]
+- [2] Retained placental tissue or membranes as a cause of ongoing bleeding | RCOG Green-top 52 (latest edition) [VERIFY]
+- [1] Placenta accreta spectrum should be considered, though less likely in this parity/history without prior caesarean | RCOG Green-top Guideline No. 27a (Placenta Accreta Spectrum, latest edition) [VERIFY]
+- [3] Coagulopathy — pre-existing (e.g. inherited bleeding disorder) or acquired/consumptive secondary to ongoing major haemorrhage (DIC) | RCOG Green-top 52 (latest edition) [VERIFY]
+- [1] Uterine rupture should be excluded as a rare but important cause | RCOG Green-top 52 (latest edition) [VERIFY]
+- [1] Full bladder as a reversible contributing factor to atony | RCOG Green-top 52 (latest edition) [VERIFY]
+- [1] Systematic use of the "4 Ts" framework (Tone, Trauma, Tissue, Thrombin) to structure the differential | RCOG Green-top 52 (latest edition) [VERIFY]
+calibration: Must-have: naming atony as the leading cause and explicitly linking it to this woman's specific risk factors (grand multiparity, macrosomia, prolonged second stage), and use of the 4T framework. Common omission: candidates state "atony" generically without tying it to the stem's risk factors, or forget coagulopathy/DIC as a cause once bleeding is ongoing.
+
+### SECTION 5.2 — Immediate medical management (30 raw → 6.0 scaled)
+model: Management follows a simultaneous "call for help, resuscitate, monitor, arrest bleeding" approach. Basic measures (oxygen, IV access, fluids, bloods) run in parallel with escalating pharmacological uterotonics (oxytocin → ergometrine → carboprost → misoprostol) and adjuncts such as tranexamic acid, while a major obstetric haemorrhage protocol is activated early.
+points:
+- [2] Call for help immediately — senior obstetrician, senior anaesthetist, alert blood bank/laboratory | RCOG Green-top 52 (latest edition) [VERIFY]
+- [2] Systematic ABC approach — assess and secure airway, breathing, circulation | RCOG Green-top 52 (latest edition) [VERIFY]
+- [1] Administer high-flow facial oxygen | RCOG Green-top 52 (latest edition) [VERIFY]
+- [1] Insert two large-bore (14G) intravenous cannulae | RCOG Green-top 52 (latest edition) [VERIFY]
+- [2] Send bloods for FBC, coagulation screen, and group & crossmatch (at least 4 units) | RCOG Green-top 52 (latest edition) [VERIFY]
+- [2] Commence warmed crystalloid infusion while awaiting cross-matched blood | RCOG Green-top 52 (latest edition) [VERIFY]
+- [2] Activate the major obstetric haemorrhage protocol early | RCOG Green-top 52 (latest edition) [VERIFY]
+- [2] Bimanual uterine compression/massage to stimulate contraction | RCOG Green-top 52 (latest edition) [VERIFY]
+- [2] IV oxytocin bolus followed by an infusion as first-line uterotonic | RCOG Green-top 52 (latest edition) [VERIFY]
+- [1] IM/IV ergometrine if not contraindicated (e.g. hypertension, cardiac disease) | RCOG Green-top 52 (latest edition) [VERIFY]
+- [2] IM carboprost (Hemabate) if bleeding continues despite first-line agents, repeated as needed | RCOG Green-top 52 (latest edition) [VERIFY]
+- [1] Misoprostol as an additional/second-line uterotonic adjunct | RCOG Green-top 52 (latest edition) [VERIFY]
+- [2] IV tranexamic acid given as early as possible (ideally within 3 hours) alongside uterotonics | WOMAN Trial (Lancet, 2017) / WHO PPH recommendations (latest edition)
+- [1] Catheterise the bladder to empty it and monitor urine output | RCOG Green-top 52 (latest edition) [VERIFY]
+- [2] Examine for and address retained products or genital tract trauma, with repair as indicated | RCOG Green-top 52 (latest edition) [VERIFY]
+- [2] Continuous monitoring of vital signs, blood loss and response to treatment | RCOG Green-top 52 (latest edition) [VERIFY]
+- [2] Correct coagulopathy proactively with FFP, cryoprecipitate and/or platelets guided by results (or ROTEM/TEG if available) | RCOG Green-top 52 (latest edition) [VERIFY]
+- [1] Keep the woman warm to avoid exacerbating coagulopathy | RCOG Green-top 52 (latest edition) [VERIFY]
+calibration: Must-have safety points: call for help/activate protocol before escalating, correct sequencing of uterotonics (oxytocin → ergometrine → carboprost → misoprostol), and tranexamic acid given early with the "within 3 hours" caveat. Figures that must be exact: 2 large-bore cannulae, minimum 4 units crossmatch. Common omissions: forgetting tranexamic acid, forgetting bladder catheterisation, and failing to proactively correct coagulopathy rather than waiting for results.
+
+### SECTION 5.3 — Surgical options (30 raw → 6.0 scaled)
+model: Surgical management is escalated in a stepwise fashion once medical measures fail, moving from the least to the most invasive: examination under anaesthesia and balloon tamponade, then uterine compression sutures and vessel ligation/embolisation, reserving hysterectomy as the life-saving definitive procedure. The decision to proceed to hysterectomy must not be delayed once conservative surgical measures fail.
+points:
+- [2] Indicated when bleeding continues despite adequate medical management | RCOG Green-top 52 (latest edition) [VERIFY]
+- [2] Examination under anaesthesia to actively exclude and repair genital tract trauma | RCOG Green-top 52 (latest edition) [VERIFY]
+- [3] Intrauterine balloon tamponade (e.g. Bakri balloon) as a first-line, least invasive surgical/conservative step | RCOG Green-top 52 (latest edition) [VERIFY]
+- [3] Uterine compression sutures (e.g. B-Lynch or modified compression suture) if tamponade fails or laparotomy is required | RCOG Green-top 52 (latest edition) [VERIFY]
+- [2] Stepwise uterine devascularisation — sequential uterine artery ligation | RCOG Green-top 52 (latest edition) [VERIFY]
+- [2] Internal iliac (hypogastric) artery ligation if uterine vessel ligation fails | RCOG Green-top 52 (latest edition) [VERIFY]
+- [3] Interventional radiology — selective uterine artery embolisation — as an option if the woman is haemodynamically stable and the facility is available | RCOG Green-top 52 (latest edition) [VERIFY]
+- [3] Hysterectomy as the definitive, life-saving procedure when conservative surgical measures fail to control bleeding | RCOG Green-top 52 (latest edition) [VERIFY]
+- [2] The decision for hysterectomy should not be delayed once it becomes necessary, to avoid worsening coagulopathy and organ hypoperfusion | RCOG Green-top 52 (latest edition) [VERIFY]
+- [2] Consideration of subtotal versus total hysterectomy depending on the site of bleeding and operative findings | RCOG Green-top 52 (latest edition) [VERIFY]
+- [2] Senior surgical/gynaecological and anaesthetic input essential in the decision-making process | RCOG Green-top 52 (latest edition) [VERIFY]
+- [2] Use of intraoperative cell salvage where available to reduce allogeneic transfusion requirement | RCOG Green-top 52 (latest edition) [VERIFY]
+- [2] Appropriate consent (verbal/emergency consent) and clear documentation of the decision-making process | RCOG Green-top 52 (latest edition) [VERIFY]
+calibration: Must-have safety points: correct stepwise sequence (tamponade → compression sutures → vessel ligation/embolisation → hysterectomy) and the principle that hysterectomy must not be delayed once indicated. Common omissions: omitting balloon tamponade as a distinct first step, failing to mention subtotal vs total hysterectomy, and not mentioning senior involvement/consent/documentation.
+
+### SECTION 5.4 — Institutional measures (20 raw → 4.0 scaled)
+model: Reducing PPH-related morbidity and mortality at institutional level depends on prevention (active management of the third stage for all women), preparedness (protocols, drills, readily available blood/uterotonics), and continuous quality improvement through audit and review of major haemorrhage events.
+points:
+- [2] Universal active management of the third stage of labour for all women | WHO recommendations on PPH prevention (latest edition) / NICE NG192 (latest edition) [VERIFY]
+- [2] Institutional major obstetric haemorrhage protocol/pathway readily available and known to all staff | RCOG Green-top 52 (latest edition) [VERIFY]
+- [2] Regular multidisciplinary simulation and skills drills for PPH management | RCOG Green-top 52 (latest edition) [VERIFY]
+- [2] Ready availability and accessibility of uterotonics and blood products (including massive transfusion packs) | RCOG Green-top 52 (latest edition) [VERIFY]
+- [2] Antenatal risk assessment to identify and plan for women at high risk of PPH | RCOG Green-top 52 (latest edition) [VERIFY]
+- [2] Clear escalation and referral pathways between midwifery, obstetric, anaesthetic and haematology teams | RCOG Green-top 52 (latest edition) [VERIFY]
+- [2] Clinical audit of PPH cases and participation in maternal death surveillance and response processes | SLCOG Maternal Death Surveillance and Response framework (latest edition) [SLCOG-CHECK]
+- [2] Ongoing staff training programmes (e.g. PROMPT-style obstetric emergency training) | RCOG/PROMPT Course framework (latest edition) [VERIFY]
+- [2] Availability of point-of-care coagulation testing (e.g. ROTEM/TEG) to guide blood product replacement | RCOG Green-top 52 (latest edition) [VERIFY]
+- [2] Structured documentation and multidisciplinary debrief after every major PPH event | RCOG Green-top 52 (latest edition) [VERIFY]
+calibration: Must-have: active management of third stage as the single most effective preventive measure, and institutional protocol + drills + audit as the systems-level triad. Common omission: candidates focus only on clinical management and forget the systems/governance angle (audit, debrief, MDSR) that this sub-question specifically asks for.
+
+### GUIDELINES USED
+- RCOG Green-top Guideline No. 52 — Prevention and Management of Postpartum Haemorrhage | latest edition [VERIFY exact year]
+- RCOG Green-top Guideline No. 27a — Placenta Accreta Spectrum | latest edition [VERIFY exact year]
+- WOMAN Trial — Tranexamic acid for postpartum haemorrhage | Lancet, 2017
+- WHO Recommendations on Prevention and Treatment of Postpartum Haemorrhage | latest edition
+- NICE NG192 — Intrapartum Care | latest edition
+- SLCOG Maternal Death Surveillance and Response framework | latest edition [SLCOG-CHECK]
+
+### FLAGS
+- All RCOG Green-top 52 points flagged [VERIFY] — confirm the currently valid edition/year before freezing (guideline is under periodic review; exact current publication year not certain from memory).
+- RCOG Green-top 27a (Placenta Accreta Spectrum) year [VERIFY].
+- NICE NG192 applicability/year [VERIFY].
+- SLCOG MDSR framework citation [SLCOG-CHECK] — please confirm against uploaded SLCOG materials, as this project's local-standard source.
