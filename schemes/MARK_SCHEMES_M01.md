@@ -500,3 +500,110 @@ calibration: Must-have: active management of third stage as the single most effe
 - RCOG Green-top 27a (Placenta Accreta Spectrum) year [VERIFY].
 - NICE NG192 applicability/year [VERIFY].
 - SLCOG MDSR framework citation [SLCOG-CHECK] — please confirm against uploaded SLCOG materials, as this project's local-standard source.
+
+## SCHEME_ID: M01-Q6
+- topic: PCOS and ovulation induction
+- subject: GYN
+- questionType: SEQ
+- totalMarks: 20
+- rawMarks: 100
+- schemeVersion: 1.0
+
+### QUESTION
+A 26-year-old woman with a body mass index of 31 kg/m² presents with oligomenorrhoea, hirsutism and 2 years of primary subfertility.
+
+6.1. Justify the investigations you would perform to establish a diagnosis of polycystic ovary syndrome. (25 marks)
+
+6.2. Discuss the metabolic and long-term health implications you would counsel her about. (20 marks)
+
+6.3. Describe the options for ovulation induction in this woman. (35 marks)
+
+6.4. Outline the risks associated with ovulation induction and how you would minimise them. (20 marks)
+
+### SECTION 6.1 — Investigations to establish diagnosis (25 raw → 5.0 scaled)
+model: Diagnosis in this woman relies on the Rotterdam criteria, requiring two of three features: oligo/anovulation, clinical or biochemical hyperandrogenism, and polycystic ovarian morphology on ultrasound. Investigations must also actively exclude mimicking endocrinopathies (thyroid disease, hyperprolactinaemia, non-classic congenital adrenal hyperplasia, Cushing's syndrome) before the diagnosis is confirmed, alongside baseline metabolic screening.
+points:
+- [3] Diagnosis is based on the Rotterdam criteria — at least 2 of 3 features required | ESHRE/ASRM International Evidence-Based PCOS Guideline (2023) [VERIFY]
+- [1] Criterion 1: oligo-ovulation or anovulation | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [1] Criterion 2: clinical and/or biochemical hyperandrogenism | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [1] Criterion 3: polycystic ovarian morphology on ultrasound | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [2] Ultrasound threshold: follicle number per ovary ≥20 using modern transvaginal transducers | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [1] Alternative ultrasound criterion: ovarian volume ≥10 ml if follicle count not reliably assessed | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [2] Serum anti-Müllerian hormone (AMH) may be used as an alternative to ultrasound for PCOM in adults | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [2] Biochemical hyperandrogenism assessed via free androgen index or calculated free testosterone, with SHBG | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [1] Thyroid-stimulating hormone to exclude thyroid dysfunction as a cause of oligomenorrhoea | NICE Clinical Knowledge Summary — Polycystic Ovary Syndrome (latest edition) [VERIFY]
+- [1] Serum prolactin to exclude hyperprolactinaemia | NICE CKS — PCOS (latest edition) [VERIFY]
+- [2] Serum 17-hydroxyprogesterone to exclude non-classic congenital adrenal hyperplasia | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [1] Clinical assessment (± overnight dexamethasone suppression test) to exclude Cushing's syndrome if clinically suspected | Best practice (no single current guideline)
+- [2] Baseline metabolic assessment — oral glucose tolerance test and fasting lipid profile — as part of initial work-up given her BMI | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [2] Diagnosis in adolescents requires both hyperandrogenism and persistent irregular cycles; PCOM on ultrasound is not used as a criterion in this age group (context point, not applicable to this 26-year-old but shows breadth) | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [1] Exclude pregnancy before proceeding with hormonal work-up | Best practice (no single current guideline)
+- [2] LH/FSH ratio is not required for diagnosis — historic marker with poor sensitivity/specificity | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+calibration: Must-have safety/accuracy points: explicit statement of the Rotterdam 2-of-3 criteria, and active exclusion of thyroid disease, hyperprolactinaemia and non-classic CAH before diagnosing PCOS. Figures that must be exact: follicle number per ovary ≥20 (updated threshold) and ovarian volume ≥10 ml. Common omissions: candidates state "ultrasound shows polycystic ovaries" without giving the quantitative threshold, and forget to exclude mimicking endocrinopathies.
+
+### SECTION 6.2 — Metabolic and long-term health implications (20 raw → 4.0 scaled)
+model: PCOS carries lifelong metabolic and oncological implications beyond the presenting reproductive complaint. Central to this is insulin resistance, which drives increased risks of type 2 diabetes, dyslipidaemia and cardiovascular disease, while chronic anovulation exposes the endometrium to unopposed oestrogen, raising endometrial hyperplasia and carcinoma risk. Psychological wellbeing and associated comorbidities such as NAFLD and obstructive sleep apnoea should also be addressed.
+points:
+- [2] Insulin resistance is central to the underlying pathophysiology | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [2] Increased lifetime risk of type 2 diabetes mellitus | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [1] Increased risk of gestational diabetes in future pregnancies | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [2] Dyslipidaemia and increased long-term cardiovascular disease risk | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [1] Increased risk of metabolic syndrome | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [3] Increased risk of endometrial hyperplasia and endometrial carcinoma from chronic anovulation and unopposed oestrogen exposure | RCOG Green-top Guideline — Green-top 67 style guidance / ESHRE-ASRM PCOS Guideline (2023) [VERIFY]
+- [1] Association with obstructive sleep apnoea, particularly with obesity | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [2] Psychological impact — anxiety, depression and body-image concerns should be screened for | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [2] Association with non-alcoholic fatty liver disease | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [2] Lifestyle modification and weight management should be discussed as first-line risk reduction | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [2] Recommend regular monitoring — periodic glucose tolerance testing and lipid profile given ongoing risk | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+calibration: Must-have safety point: endometrial hyperplasia/carcinoma risk from chronic anovulation must be explicitly linked to the need for withdrawal bleeds/progestogen if amenorrhoea persists. Common omission: candidates list metabolic risks but forget the endometrial cancer risk or the psychological dimension entirely.
+
+### SECTION 6.3 — Options for ovulation induction (35 raw → 7.0 scaled)
+model: Management begins with weight loss and lifestyle optimisation given her BMI of 31, since this alone can restore ovulation. First-line pharmacological options are letrozole or clomiphene citrate, with letrozole now preferred given superior live birth rates in trial evidence. Metformin may be added as an adjunct, particularly with insulin resistance. Second-line options are gonadotropins (low-dose step-up protocol) or laparoscopic ovarian drilling, with IVF reserved as third-line if these fail, all requiring ultrasound monitoring of follicular response.
+points:
+- [3] Weight loss and lifestyle modification recommended first, as even modest weight reduction can restore spontaneous ovulation | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [3] Letrozole recommended as first-line pharmacological agent for ovulation induction in PCOS | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [1] Letrozole mechanism — aromatase inhibitor reducing peripheral oestrogen, releasing central negative feedback | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [2] Letrozole associated with higher live birth rates compared with clomiphene citrate in randomised trial evidence | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [2] Clomiphene citrate as an alternative first-line agent where letrozole is unavailable or unsuitable | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [1] Clomiphene mechanism — selective oestrogen receptor modulator at the hypothalamus | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [2] Clomiphene starting dose and stepwise escalation regimen over successive cycles if no response | RCOG guidance on ovulation induction (latest edition) [VERIFY]
+- [2] Metformin as an adjunct, particularly in women with insulin resistance or in combination with clomiphene | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [1] Combination clomiphene plus metformin may be considered in clomiphene-resistant cases | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [3] Gonadotropins recommended as second-line therapy if oral agents fail | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [2] Low-dose step-up gonadotropin protocol used to reduce risk of multiple pregnancy and OHSS | RCOG Green-top Guideline No. 5 — Ovarian Hyperstimulation Syndrome (latest edition) [VERIFY]
+- [3] Laparoscopic ovarian drilling as an alternative second-line surgical option | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [1] Ovarian drilling particularly considered in clomiphene-resistant PCOS with elevated LH | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [3] In-vitro fertilisation reserved as third-line option if other measures fail or other subfertility factors coexist | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [2] Ultrasound monitoring of follicular development required with all pharmacological methods | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [2] Purpose of monitoring — timing intercourse/IUI appropriately and avoiding multi-follicular development | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [2] Choice of method individualised to BMI, patient preference, cost and local resource availability | Best practice (no single current guideline)
+calibration: Must-have safety points: correct first-line vs second-line/third-line sequencing (lifestyle → letrozole/clomiphene ± metformin → gonadotropins/ovarian drilling → IVF), and the requirement for ultrasound monitoring with all methods. Common omission: candidates default to clomiphene as sole first-line without acknowledging letrozole's now-preferred status, or omit ovarian drilling entirely.
+
+### SECTION 6.4 — Risks of ovulation induction and minimisation (20 raw → 4.0 scaled)
+model: The principal risks of ovulation induction are multiple pregnancy and ovarian hyperstimulation syndrome, both particularly associated with gonadotropin use, and both minimised through careful dose titration and ultrasound/hormonal monitoring. Agent-specific risks (clomiphene visual disturbance, drilling-related reduced ovarian reserve) and the need for pre-treatment counselling should also be addressed.
+points:
+- [3] Multiple pregnancy is a key risk, particularly with gonadotropin therapy | RCOG Green-top Guideline No. 5 — OHSS (latest edition) [VERIFY]
+- [2] Minimised by low-dose step-up gonadotropin protocols with close ultrasound cycle monitoring | RCOG Green-top Guideline No. 5 — OHSS (latest edition) [VERIFY]
+- [3] Ovarian hyperstimulation syndrome is a significant risk, especially with gonadotropin use | RCOG Green-top Guideline No. 5 — OHSS (latest edition) [VERIFY]
+- [2] Minimised by careful dose titration, monitoring oestradiol/follicle number, and withholding or adjusting trigger if excessive response | RCOG Green-top Guideline No. 5 — OHSS (latest edition) [VERIFY]
+- [2] Possible small increase in ovarian tumour risk historically debated; current evidence reassuring with appropriately monitored use | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [1] Clomiphene-specific risks — visual disturbances and mood changes | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [1] Increased risk of ectopic pregnancy with ovulation induction | Best practice (no single current guideline)
+- [2] Ovarian drilling risks — pelvic adhesion formation and risk of diminished ovarian reserve if over-treated | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [2] Ultrasound monitoring throughout treatment to reduce risk of multi-follicular development and its sequelae | ESHRE/ASRM International PCOS Guideline (2023) [VERIFY]
+- [2] Pre-treatment counselling on treatment-specific risks and expected success rates before commencing any method | Best practice (no single current guideline)
+calibration: Must-have safety points: explicit mention of both multiple pregnancy and OHSS as the two key risks, each paired with its specific minimisation strategy. Common omission: candidates mention OHSS but omit the specific minimisation measures (step-up protocol, monitoring, trigger withholding), or forget ovarian drilling-specific risks to ovarian reserve.
+
+### GUIDELINES USED
+- ESHRE/ASRM International Evidence-Based Guideline for the Assessment and Management of Polycystic Ovary Syndrome | 2023 [VERIFY exact current version]
+- NICE Clinical Knowledge Summary — Polycystic Ovary Syndrome | latest edition [VERIFY]
+- RCOG Green-top Guideline No. 5 — Ovarian Hyperstimulation Syndrome: Prevention and Management | latest edition [VERIFY]
+- RCOG guidance on ovulation induction / clomiphene regimens | latest edition [VERIFY]
+- Best practice (no single current guideline) — used for general clinical points without a specific named source
+
+### FLAGS
+- All ESHRE/ASRM (2023) points flagged [VERIFY] — confirm this remains the current version and no newer update has superseded it.
+- RCOG Green-top No. 5 (OHSS) year/edition [VERIFY].
+- NICE CKS PCOS currency [VERIFY].
+- Endometrial hyperplasia point in 6.2 cites a non-specific "Green-top 67 style" reference — [VERIFY] and replace with the correct current RCOG number/title before freezing.
+- No SLCOG-specific PCOS guidance identified from general knowledge — flag [SLCOG-CHECK] and confirm whether the uploaded SLCOG materials contain a local standard that should take precedence over ESHRE/ASRM for this topic.
