@@ -184,3 +184,111 @@ calibration: Must-have point: fertility preservation is a non-standard, time-lim
 - [VERIFY] Current local TVS endometrial thickness cut-off used in Sri Lankan postmenopausal bleeding pathways. [SLCOG-CHECK]
 - [SLCOG-CHECK] Local availability of sentinel lymph node mapping (ICG dye) and molecular-guided adjuvant therapy in Sri Lankan centres.
 
+## SCHEME_ID: M02-Q3
+- topic: Gestational diabetes mellitus
+- subject: OBS
+- questionType: SEQ
+- totalMarks: 20
+- rawMarks: 100
+- schemeVersion: 1.0
+
+### QUESTION
+A 32-year-old woman, para 1, with a booking body mass index of 33 kg/m² is found to have a fasting plasma glucose of 6.0 mmol/L and a 2-hour value of 9.2 mmol/L on a 75 g oral glucose tolerance test performed at 26 weeks of gestation.
+
+3.1. Justify the diagnosis and outline the initial management of gestational diabetes. **(25 marks)**
+3.2. Describe the glycaemic targets and the antenatal fetal surveillance you would institute. **(25 marks)**
+3.3. Discuss the considerations regarding the timing and mode of delivery. **(25 marks)**
+3.4. Outline the intrapartum and immediate postnatal care, including neonatal considerations. **(25 marks)**
+
+---
+
+### SECTION 3.1 — Justify diagnosis and outline initial management (25 raw → 5.0 scaled)
+model: The diagnosis of GDM is confirmed by IADPSG/WHO criteria applied to the 24–28 week OGTT: her fasting value (108 mg/dL) and 2-hour value (166 mg/dL) both exceed threshold, and a single abnormal value is diagnostic. Her FPG remains below the diabetes-in-pregnancy cut-off, confirming standard (not overt) GDM, in a woman whose BMI of 33 kg/m² is itself a recognised risk factor. Initial management is multidisciplinary, beginning with individualised medical nutrition therapy and structured activity, with SMBG to guide the need for escalation to metformin or insulin within 1–2 weeks if targets are not met.
+
+points:
+- [2] IADPSG/WHO (2013) criteria, as adopted in the SLCOG/SLCE Hyperglycaemia in Pregnancy Guideline (2026), are used to diagnose GDM on the 24–28 week OGTT | SLCOG/SLCE HIP Guideline (2026)
+- [2] Diagnosis of GDM requires only ONE abnormal value on the 75 g OGTT | SLCOG/SLCE HIP Guideline (2026)
+- [2] Her fasting glucose of 6.0 mmol/L (108 mg/dL) exceeds the diagnostic threshold of ≥92 mg/dL (5.1 mmol/L) | SLCOG/SLCE HIP Guideline (2026)
+- [2] Her 2-hour glucose of 9.2 mmol/L (166 mg/dL) exceeds the diagnostic threshold of ≥153 mg/dL (8.5 mmol/L) | SLCOG/SLCE HIP Guideline (2026)
+- [2] FPG remaining <126 mg/dL (7.0 mmol/L) excludes diabetes-in-pregnancy/overt diabetes, confirming standard GDM | SLCOG/SLCE HIP Guideline (2026)
+- [1] Test was appropriately timed at 24–28 weeks as the routine rescreen after a presumed normal booking screen | SLCOG/SLCE HIP Guideline (2026)
+- [2] BMI 33 kg/m² is a recognised risk factor supporting susceptibility to GDM | SLCOG/SLCE HIP Guideline (2026)
+- [2] Care should be delivered in a multidisciplinary set-up (obstetrician, endocrinologist/physician, dietitian, midwife) | SLCOG/SLCE HIP Guideline (2026)
+- [2] Medical Nutrition Therapy (MNT) should be initiated immediately as first-line treatment | SLCOG/SLCE HIP Guideline (2026)
+- [2] MNT alone achieves control in 80–90% of GDM cases | SLCOG/SLCE HIP Guideline (2026)
+- [2] Energy prescription individualised according to pre-pregnancy BMI category (SAFES-based targets) | SLCOG/SLCE HIP Guideline (2026)
+- [1] Structured moderate-intensity physical activity advised (~30 min most days) | SLCOG/SLCE HIP Guideline (2026)
+- [2] Self-monitoring of blood glucose (SMBG) initiated — fasting and postprandial checks | SLCOG/SLCE HIP Guideline (2026)
+- [1] Reassess glycaemic control within 1–2 weeks; escalate to metformin/insulin if targets unmet | SLCOG/SLCE HIP Guideline (2026)
+
+calibration: Must-have: correct application of the single-abnormal-value rule and both exact threshold figures (92 and 153 mg/dL); explicit statement that this is GDM, not DIP (FPG <126). Common omissions: candidates often state "diagnosis confirmed" without justifying against the specific thresholds, or jump straight to insulin without describing the MNT-first stepped approach.
+
+### SECTION 3.2 — Glycaemic targets and antenatal fetal surveillance (25 raw → 5.0 scaled)
+model: Targets for GDM not on insulin are fasting <95 mg/dL, 1-hour <140 mg/dL and 2-hour <120 mg/dL. Surveillance includes standard dating and anomaly scans, serial growth/liquor scans four-weekly from 28–36 weeks, daily fetal movement counting from 28 weeks, and Doppler/CTG as clinically indicated — biophysical profile is not routinely recommended for HIP. Given her obesity, low-dose aspirin should be considered for pre-eclampsia prevention.
+
+points:
+- [2] Fasting glucose target <95 mg/dL for GDM not on insulin | SLCOG/SLCE HIP Guideline (2026)
+- [2] 1-hour postprandial target <140 mg/dL for GDM not on insulin | SLCOG/SLCE HIP Guideline (2026)
+- [2] 2-hour postprandial target <120 mg/dL for GDM not on insulin | SLCOG/SLCE HIP Guideline (2026)
+- [1] SMBG minimum: on waking plus postprandial, at least 1–2 days/week if diet/metformin-controlled | SLCOG/SLCE HIP Guideline (2026)
+- [2] Dating scan 9–13+6 weeks to confirm gestational age (standard antenatal care) | SLCOG/SLCE HIP Guideline (2026)
+- [2] Anomaly scan 18–22 weeks as part of routine antenatal surveillance | SLCOG/SLCE HIP Guideline (2026)
+- [2] Serial growth and liquor volume scans every 4 weeks from 28–36 weeks | SLCOG/SLCE HIP Guideline (2026)
+- [2] Growth measurements plotted on standard growth charts, with referral per FGR guidance if concern arises | SLCOG/SLCE HIP Guideline (2026)
+- [2] Daily fetal movement counting advised from 28 weeks, with prompt reporting of reduced movements | SLCOG/SLCE HIP Guideline (2026)
+- [2] Umbilical artery/MCA Doppler and CTG as clinically indicated; biophysical profile not routinely recommended in HIP | SLCOG/SLCE HIP Guideline (2026)
+- [2] Low-dose aspirin 150 mg (12–36 weeks) for pre-eclampsia prevention given her additional risk factor (obesity) [VERIFY] | SLCOG/SLCE HIP Guideline (2026); RCOG Green-top No.9 (2020)
+- [2] Intensify surveillance if macrosomia or polyhydramnios detected | SLCOG/SLCE HIP Guideline (2026)
+- [2] Routine surveillance before 24 weeks not indicated unless specific concern (not applicable here, but shows understanding of scope) | SLCOG/SLCE HIP Guideline (2026)
+
+calibration: Must-have exact figures: the three GDM-not-on-insulin targets, and the 4-weekly growth scan interval. Aspirin dose is flagged [VERIFY] since RCOG/NICE traditionally cite 75–150 mg — examiners may accept either but expect awareness of the indication (obesity as an additional risk factor). Common omission: forgetting that biophysical profile is specifically NOT recommended for HIP.
+
+### SECTION 3.3 — Timing and mode of delivery (25 raw → 5.0 scaled)
+model: Timing is individualised and finalised by 36 weeks according to treatment modality and complications: 40–40+6 weeks if diet-controlled and uncomplicated, 38–39 weeks on metformin, 37–38 weeks on insulin, and 36–37 weeks if complicated. Vaginal delivery by timed induction is the aim, as GDM alone is not an indication for caesarean section; estimated fetal weight >4.0 kg warrants discussion of risks and possible elective caesarean, while diabetes itself does not preclude VBAC/TOLAC.
+
+points:
+- [3] Timing and mode individualised on glycaemic control and maternal/fetal complications, decision finalised by 36 weeks | SLCOG/SLCE HIP Guideline (2026)
+- [3] MNT-only, uncomplicated GDM → deliver 40–40+6 weeks | SLCOG/SLCE HIP Guideline (2026)
+- [3] On metformin, uncomplicated → deliver 38–39 weeks | SLCOG/SLCE HIP Guideline (2026)
+- [3] On insulin, uncomplicated → deliver 37–38 weeks | SLCOG/SLCE HIP Guideline (2026)
+- [3] Complicated (metabolic/maternal/fetal) → consider elective delivery at 36–37 weeks | SLCOG/SLCE HIP Guideline (2026)
+- [3] Aim for vaginal delivery via timed induction of labour unless an obstetric indication contraindicates it | SLCOG/SLCE HIP Guideline (2026)
+- [2] GDM itself is not an indication for caesarean section | SLCOG/SLCE HIP Guideline (2026)
+- [2] Estimated fetal weight >4.0 kg — discuss risks (shoulder dystocia) and consider elective caesarean section | SLCOG/SLCE HIP Guideline (2026)
+- [2] Diabetes alone is not a contraindication to VBAC/TOLAC | SLCOG/SLCE HIP Guideline (2026)
+- [1] Delivery plan reassessed if glycaemic control changes or pharmacotherapy is escalated | SLCOG/SLCE HIP Guideline (2026)
+
+calibration: Must-have exact figures: all four gestational windows tied correctly to treatment category (a common error is swapping the metformin and insulin windows). Examiners expect explicit statement that GDM per se is not an indication for caesarean, and correct handling of the >4.0 kg macrosomia threshold.
+
+### SECTION 3.4 — Intrapartum and immediate postnatal/neonatal care (25 raw → 5.0 scaled)
+model: Intrapartum glucose should be kept at 72–126 mg/dL with hourly monitoring in active labour, using correctional subcutaneous insulin or VRIII according to control. All glucose-lowering treatment is stopped once the placenta is delivered, with 24-hour glucose monitoring to exclude persistent diabetes. The neonate requires glucose testing at 2–4 hours of age, early and frequent breastfeeding to prevent hypoglycaemia, and should remain in hospital until feeding and normoglycaemia are established, with the mother counselled about a 6–8 week postpartum OGTT and future risk.
+
+points:
+- [2] Target intrapartum glucose range 72–126 mg/dL throughout labour | SLCOG/SLCE HIP Guideline (2026)
+- [2] Hourly glucose monitoring recommended for all mothers in active labour | SLCOG/SLCE HIP Guideline (2026)
+- [1] 2–4 hourly monitoring acceptable in latent phase if diet/metformin-controlled | SLCOG/SLCE HIP Guideline (2026)
+- [2] Correctional subcutaneous rapid-acting insulin per sliding scale if diet/oral-agent controlled and stable | SLCOG/SLCE HIP Guideline (2026)
+- [2] VRIII indicated if poorly controlled or persistently >126 mg/dL (7 mmol/L), given alongside a dextrose-containing infusion | SLCOG/SLCE HIP Guideline (2026)
+- [1] Multidisciplinary team involvement — obstetrician, physician/endocrinologist, anaesthetist, neonatology | SLCOG/SLCE HIP Guideline (2026)
+- [2] Stop all glucose-lowering medication once the placenta is delivered | SLCOG/SLCE HIP Guideline (2026)
+- [1] Monitor fasting and post-meal glucose for 24 hours postpartum | SLCOG/SLCE HIP Guideline (2026)
+- [1] Diagnostic thresholds for persistent diabetes postpartum: fasting >126 mg/dL or post-meal >200 mg/dL | SLCOG/SLCE HIP Guideline (2026)
+- [2] Neonate: document birth weight, gestational age, and check for birth injury/anomalies at delivery | SLCOG/SLCE HIP Guideline (2026)
+- [2] Neonatal blood glucose testing at 2–4 hours of age, before the second feed | SLCOG/SLCE HIP Guideline (2026)
+- [2] Early breastfeeding within 30 minutes of birth, continued 2–3 hourly, to prevent neonatal hypoglycaemia | SLCOG/SLCE HIP Guideline (2026)
+- [2] Neonate remains in hospital minimum 24 hours until feeding established and normoglycaemia confirmed | SLCOG/SLCE HIP Guideline (2026)
+- [2] Advise 6–8 week postpartum 75 g OGTT for reclassification | SLCOG/SLCE HIP Guideline (2026)
+- [1] Counsel on future GDM recurrence risk and lifestyle modification | SLCOG/SLCE HIP Guideline (2026)
+
+calibration: Must-have exact figures: the 72–126 mg/dL intrapartum target and the neonatal glucose testing timing (2–4 hours, before second feed). Safety-critical points examiners specifically look for: stopping medication immediately post-placenta, and the postpartum OGTT plan — these are the most commonly missed marks even in otherwise strong answers.
+
+### GUIDELINES USED
+- SLCOG/SLCE Clinical Practice Guideline: Hyperglycaemia in Pregnancy — Guideline No. 1.0, January 2026
+- RCOG Green-top Guideline No. 9 — Diabetes in Pregnancy, 2020
+- NICE NG3 — Diabetes in Pregnancy, 2020
+- IADPSG/WHO — Diagnostic criteria for hyperglycaemia in pregnancy, 2013
+- ADA Standards of Care in Diabetes — Management of Diabetes in Pregnancy, 2025
+
+### FLAGS
+- [VERIFY] Aspirin dose 150 mg — SLCOG/SLCE (2026) states 150 mg explicitly, but RCOG/NICE commonly cite 75–150 mg; confirm which figure the examiner expects.
+
