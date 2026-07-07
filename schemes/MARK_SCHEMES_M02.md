@@ -292,3 +292,304 @@ calibration: Must-have exact figures: the 72–126 mg/dL intrapartum target and 
 ### FLAGS
 - [VERIFY] Aspirin dose 150 mg — SLCOG/SLCE (2026) states 150 mg explicitly, but RCOG/NICE commonly cite 75–150 mg; confirm which figure the examiner expects.
 
+## SCHEME_ID: M02-Q4
+- topic: Uterovaginal prolapse (procidentia)
+- subject: GYN
+- questionType: SEQ
+- totalMarks: 20
+- rawMarks: 100
+- schemeVersion: 1.0
+
+### QUESTION
+A 62-year-old para 4 woman presents with a sensation of a lump coming down through the vagina and difficulty in passing urine. On examination there is a procidentia.
+
+4.1. Describe the clinical assessment of this woman, including quantification of the prolapse. (25 marks)
+4.2. Discuss the conservative management options. (20 marks)
+4.3. Critically evaluate the surgical options available for this woman. (40 marks)
+4.4. Outline the complications of surgical treatment about which she should be counselled. (15 marks)
+
+### SECTION 4.1 — Clinical assessment and quantification of prolapse (25 raw → 5.0 scaled)
+model: Assessment begins with a focused history covering prolapse symptoms, urinary and bowel dysfunction, sexual function, and obstetric/surgical history, followed by systematic examination in both supine and standing positions using a Sims speculum to assess each vaginal compartment separately. Prolapse is formally quantified using the POP-Q system, which describes the position of defined points relative to the hymen and allows objective staging (0–IV), essential for consistent documentation, communication and outcome audit. Coexisting voiding difficulty must be assessed, as this woman's urinary symptoms may be due to bladder outlet obstruction from the procidentia itself.
+points:
+- [2] Focused history: nature and duration of "lump" sensation, bulge symptoms, dragging/heaviness | RCOG/BSUG guidance on POP assessment (latest edition) [VERIFY]
+- [2] History of urinary symptoms — incomplete emptying, straining to void, need to digitally reduce prolapse to void or defecate (splinting) | RCOG guidance (latest edition) [VERIFY]
+- [2] History of bowel symptoms — incomplete emptying, straining, digitation, faecal urgency/incontinence | RCOG guidance (latest edition) [VERIFY]
+- [1] Sexual history and impact on quality of life/body image | RCOG guidance (latest edition) [VERIFY]
+- [1] Obstetric history — parity, birth weights, instrumental deliveries, prolonged second stage | Best practice (no single guideline recommendation number)
+- [1] Relevant comorbidities — chronic cough, constipation, obesity, heavy lifting, menopausal status | Best practice (no single guideline recommendation number)
+- [2] General abdominal examination to exclude a pelvic mass as a contributing/coexisting cause | Best practice (no single guideline recommendation number)
+- [2] Examination performed with woman both supine and standing/straining, as prolapse may reduce supine | RCOG guidance (latest edition) [VERIFY]
+- [2] Use of a Sims speculum to assess anterior, posterior and apical compartments separately | RCOG guidance (latest edition) [VERIFY]
+- [3] Prolapse formally quantified using the POP-Q (Pelvic Organ Prolapse Quantification) system | ICS/IUGA POP-Q classification (latest edition) [VERIFY]
+- [2] POP-Q describes defined points (Aa, Ba, C, D, Ap, Bp) measured in cm relative to the hymen (negative above, positive below) | ICS/IUGA POP-Q classification (latest edition) [VERIFY]
+- [2] POP-Q staging 0–IV, with Stage IV (procidentia) defined as maximum protrusion beyond the hymen by more than (total vaginal length − 2 cm) | ICS/IUGA POP-Q classification (latest edition) [VERIFY]
+- [2] Assess for coexisting stress urinary incontinence, including occult/masked SUI on prolapse reduction | RCOG guidance (latest edition) [VERIFY]
+- [1] Assess for ulceration/excoriation of the exposed vaginal epithelium, common with long-standing procidentia | Best practice (no single guideline recommendation number)
+- [2] Post-void residual measurement (bladder scan or catheterisation) given her voiding difficulty | RCOG guidance (latest edition) [VERIFY]
+calibration: Must-have points: explicit naming and correct description of the POP-Q system (not just "grading the prolapse"), examination in the standing/straining position, and assessment of post-void residual given her urinary symptoms. Common omission: candidates describe prolapse in vague terms ("mild/moderate/severe") without naming POP-Q, and forget to check for occult stress incontinence on reduction of the prolapse.
+
+### SECTION 4.2 — Conservative management options (20 raw → 4.0 scaled)
+model: Conservative management is appropriate first-line, particularly given her age, and centres on vaginal pessaries alongside lifestyle and pelvic floor measures. A ring or shelf pessary is fitted after appropriate sizing, with vaginal oestrogen used adjunctively to improve epithelial health and pessary tolerance in this postmenopausal woman. Ongoing follow-up, self-management education, and correction of exacerbating factors (weight, chronic cough, constipation) complete the conservative package for a woman who may wish to avoid or defer surgery.
+points:
+- [3] Vaginal pessary (ring, shelf, Gellhorn, or cube) as first-line conservative option, particularly for higher-stage prolapse or where surgery is declined/deferred | NICE NG123 (2019) [VERIFY]
+- [2] Ring pessary is the most commonly used first choice, sized by trial fitting | NICE NG123 (2019) [VERIFY]
+- [2] Shelf/Gellhorn pessary considered for more advanced prolapse (e.g. procidentia) not adequately supported by a ring | NICE NG123 (2019) [VERIFY]
+- [2] Vaginal oestrogen offered as an adjunct in postmenopausal women to improve vaginal epithelial health and reduce pessary-related erosion/discharge | NICE NG123 (2019) [VERIFY]
+- [2] Regular pessary follow-up/change (typically every 6–12 months, or self-management taught) to avoid vaginal erosion, ulceration or, rarely, fistula | NICE NG123 (2019) [VERIFY]
+- [2] Pelvic floor muscle training, though of limited benefit for an established procidentia, still offered as an adjunct and for general pelvic floor health | NICE NG123 (2019) [VERIFY]
+- [2] Lifestyle modification — weight loss, treatment of chronic cough, avoidance of heavy lifting, management of constipation to reduce intra-abdominal pressure | NICE NG123 (2019) [VERIFY]
+- [2] Conservative management particularly appropriate given patient preference, comorbidities affecting surgical fitness, or a wish to avoid/delay surgery | NICE NG123 (2019) [VERIFY]
+- [2] Shared decision-making — discuss pessary versus surgery, including that pessary use does not preclude later surgery | NICE NG123 (2019) [VERIFY]
+- [1] Counsel that pessary may not adequately address the coexisting voiding difficulty in all cases, and reassessment of urinary symptoms after pessary fitting is required | Best practice (no single guideline recommendation number)
+calibration: Must-have points: pessary as the primary conservative option (correctly named as ring/shelf/Gellhorn), adjunctive vaginal oestrogen given her menopausal status, and the need for regular follow-up to avoid erosion. Common omission: candidates omit vaginal oestrogen entirely, or describe pelvic floor exercises as an effective treatment for an established Stage IV prolapse rather than an adjunct.
+
+### SECTION 4.3 — Critical evaluation of surgical options (40 raw → 8.0 scaled)
+model: Surgical options must be individualised to her age, sexual activity status, fitness for surgery and the compartments involved. Vaginal hysterectomy with appropriate apical support (sacrospinous fixation or uterosacral ligament suspension) and anterior/posterior repair is the traditional approach for uterovaginal procidentia; a vaginal hysterectomy alone without apical fixation risks vault prolapse recurrence. Colpocleisis (LeFort or total) is a valuable option in older women who are not sexually active, offering high success with lower morbidity, while abdominal/laparoscopic sacrocolpopexy is reserved for women wishing uterine preservation or with recurrent prolapse. Mesh procedures require specific caution and informed consent given regulatory restrictions.
+points:
+- [3] Choice of procedure individualised to age, sexual activity, fitness for anaesthesia/surgery, and prolapse compartments involved | RCOG/BSUG guidance (latest edition) [VERIFY]
+- [3] Vaginal hysterectomy with anterior and posterior colporrhaphy is a standard approach for uterovaginal procidentia | RCOG guidance (latest edition) [VERIFY]
+- [3] Apical support must be addressed at the time of hysterectomy (e.g. sacrospinous fixation or uterosacral ligament suspension of the vault) to reduce risk of subsequent vault prolapse | RCOG guidance (latest edition) [VERIFY]
+- [2] Uterine preservation options (e.g. sacrospinous hysteropexy, Manchester repair) considered if the woman wishes to retain her uterus | RCOG/BSUG guidance (latest edition) [VERIFY]
+- [2] Manchester repair (cervical amputation with uterosacral ligament plication) is an alternative uterus-preserving option, historically used, with recognised risk of cervical stenosis and impact on future cervical screening | RCOG guidance (latest edition) [VERIFY]
+- [3] Colpocleisis (LeFort partial or total) is an effective option for older women who are not sexually active, with high success rates and lower operative morbidity | RCOG/BSUG guidance (latest edition) [VERIFY]
+- [2] Colpocleisis obliterates the vaginal canal, precluding future vaginal intercourse — must be explicitly discussed and consented to | RCOG/BSUG guidance (latest edition) [VERIFY]
+- [2] Abdominal or laparoscopic sacrocolpopexy considered for recurrent prolapse or where the woman wishes uterine/vaginal length preservation, particularly in fitter/younger women | RCOG/BSUG guidance (latest edition) [VERIFY]
+- [2] Sacrocolpopexy has lower recurrence rates than vaginal apical procedures but carries higher perioperative morbidity and longer recovery | RCOG/BSUG guidance (latest edition) [VERIFY]
+- [2] Anterior/posterior native-tissue repair addresses associated cystocele/rectocele found alongside the apical prolapse | RCOG guidance (latest edition) [VERIFY]
+- [3] Use of transvaginal mesh for prolapse repair is subject to significant regulatory restriction/suspension in many jurisdictions following safety concerns, and should only be used, if at all, within a research context with full informed consent | MHRA/NICE mesh safety review (latest edition) [VERIFY]
+- [2] Concurrent continence procedure (e.g. mid-urethral sling) considered if coexisting/occult stress urinary incontinence is demonstrated | NICE NG123 (2019) [VERIFY]
+- [2] Preoperative assessment includes correction of any voiding dysfunction, post-void residual, and counselling that urinary symptoms may improve, persist, or occasionally new incontinence may be unmasked after prolapse repair | RCOG guidance (latest edition) [VERIFY]
+- [2] Preoperative optimisation — vaginal oestrogen course before surgery in atrophic tissue, VTE risk assessment, anaesthetic fitness assessment given her age | Best practice (no single guideline recommendation number)
+- [2] Decision-making should be shared, comparing recurrence rates, morbidity, operative time and impact on sexual function across options | RCOG/BSUG guidance (latest edition) [VERIFY]
+- [2] Surgery for recurrent or complex prolapse should be performed by, or with input from, a subspecialist urogynaecologist | RCOG/BSUG guidance (latest edition) [VERIFY]
+calibration: Must-have points: explicit comparison of at least three distinct surgical approaches (vaginal hysterectomy + apical fixation, colpocleisis, sacrocolpopexy) with correct patient-selection reasoning for each (particularly colpocleisis for the non-sexually-active older woman), and the critical point that apical support must be addressed to prevent vault prolapse. Common omission: candidates describe "vaginal hysterectomy and repair" as the only option without addressing apical fixation explicitly, and omit colpocleisis despite it being a particularly well-suited option for a 62-year-old with procidentia.
+
+### SECTION 4.4 — Complications of surgical treatment (15 raw → 3.0 scaled)
+model: Complications span general surgical/anaesthetic risks, procedure-specific risks (bladder/bowel/ureteric injury, haemorrhage, vault prolapse recurrence, buttock pain after sacrospinous fixation), and functional risks (de novo urinary incontinence, voiding dysfunction, dyspareunia or, with colpocleisis, loss of vaginal capacity for intercourse). She should also be counselled about the recognised risk of prolapse recurrence at another site over time.
+points:
+- [2] General surgical risks — haemorrhage, infection, venous thromboembolism, anaesthetic risk given her age | RCOG guidance (latest edition) [VERIFY]
+- [2] Visceral injury — bladder, ureteric or bowel injury, particularly with more extensive dissection | RCOG guidance (latest edition) [VERIFY]
+- [2] Recurrence of prolapse at the same or a different vaginal compartment over time | RCOG/BSUG guidance (latest edition) [VERIFY]
+- [2] De novo (new-onset) stress urinary incontinence following prolapse correction, or conversely persistent/worsening voiding dysfunction | RCOG guidance (latest edition) [VERIFY]
+- [1] Buttock/gluteal pain following sacrospinous ligament fixation, usually self-limiting | RCOG guidance (latest edition) [VERIFY]
+- [2] Dyspareunia or vaginal shortening/narrowing affecting sexual function after repair | RCOG guidance (latest edition) [VERIFY]
+- [2] Complete loss of capacity for vaginal intercourse if colpocleisis is chosen — must be explicitly consented to in advance | RCOG/BSUG guidance (latest edition) [VERIFY]
+- [1] Mesh-specific complications (erosion, chronic pain, dyspareunia) if mesh is used, now rarely offered given regulatory restrictions | MHRA/NICE mesh safety review (latest edition) [VERIFY]
+- [1] Need for further surgery if recurrence or complications occur | Best practice (no single guideline recommendation number)
+calibration: Must-have points: recurrence risk, de novo urinary incontinence/voiding dysfunction, and — specifically relevant to this woman if colpocleisis is offered — explicit loss of ability to have vaginal intercourse. Common omission: candidates give only generic surgical risks (bleeding, infection) without prolapse-specific complications such as recurrence, buttock pain post-sacrospinous fixation, or the colpocleisis-specific counselling point.
+
+### GUIDELINES USED
+- NICE NG123 — Urinary incontinence and pelvic organ prolapse in women: management | 2019 [VERIFY exact update status]
+- ICS/IUGA Pelvic Organ Prolapse Quantification (POP-Q) system | latest edition [VERIFY]
+- RCOG/British Society of Urogynaecology (BSUG) guidance on surgical management of pelvic organ prolapse | latest edition [VERIFY]
+- MHRA/NICE mesh safety review and restrictions on transvaginal mesh use | latest edition [VERIFY]
+
+### FLAGS
+- [VERIFY] Confirm NICE NG123 is still the current governing guideline and has not been superseded/updated since 2019.
+- [VERIFY] Confirm current RCOG/BSUG position statement reference for surgical prolapse management (cited generically above as "latest edition").
+- [VERIFY] Confirm current status/wording of transvaginal mesh restrictions in the relevant jurisdiction, as this affects how definitively "not recommended outside research context" should be stated.
+- [SLCOG-CHECK] No Sri Lanka-specific guidance on pessary availability, mesh regulatory status, or local surgical practice patterns (e.g. relative availability of sacrocolpopexy vs vaginal approaches) was available in the project files — flag for local confirmation, as resource availability may significantly affect the "correct" first-line surgical answer in a local exam context.
+- [SLCOG-CHECK] Confirm local availability/cost of vaginal oestrogen and pessary follow-up systems, which may affect how strongly conservative management is weighted in local marking.
+
+---
+
+*End of scheme M02-Q4 (schemeVersion 1.0).*
+## SCHEME_ID: M02-Q5
+- topic: Preterm prelabour rupture of membranes (PPROM)
+- subject: OBS
+- questionType: SEQ
+- totalMarks: 20
+- rawMarks: 100
+- schemeVersion: 1.0
+
+### QUESTION
+A 24-year-old primigravida at 29 weeks of gestation presents with a sudden gush of clear fluid per vaginam, followed by irregular lower abdominal pain.
+
+5.1. Describe how you would confirm the diagnosis of preterm prelabour rupture of membranes. (20 marks)
+5.2. Justify the use of antenatal corticosteroids and magnesium sulphate in this setting. (25 marks)
+5.3. Discuss the role of tocolysis and antibiotics in her management. (30 marks)
+5.4. Outline the maternal and fetal surveillance until delivery. (25 marks)
+
+### SECTION 5.1 — Confirming the diagnosis of PPROM (20 raw → 4.0 scaled)
+model: Take a history of the fluid loss, then perform a sterile speculum examination looking for pooling of amniotic fluid before any digital vaginal examination. If pooling is seen, no further test is needed; if not, an IGFBP-1 or PAMG-1 vaginal fluid test is used to guide management, since nitrazine testing is not recommended. Results are interpreted alongside the clinical picture rather than in isolation, and no diagnostic testing is required once labour is established.
+points:
+- [2] Take a detailed history: sudden gush versus continuous trickle, colour/odour of fluid, ongoing leakage | NICE NG25 (2022) 1.7.2
+- [3] Perform a sterile speculum examination first, looking for pooling of amniotic fluid | NICE NG25 (2022) 1.3.1; RCOG GTG73 (2019) key recommendation
+- [2] Avoid a digital vaginal examination unless the woman is in established labour, to reduce infection risk and avoid shortening latency | RCOG GTG73 (2019) Section 4.1
+- [2] If pooling is clearly observed, no further diagnostic test is required — manage as confirmed PPROM | NICE NG25 1.3.1
+- [3] If no pooling is seen, perform an IGFBP-1 or PAMG-1 test of vaginal fluid | NICE NG25 1.3.1; RCOG GTG73 Grade B recommendation
+- [2] Do not use nitrazine testing to diagnose PPROM | NICE NG25 1.3.4
+- [2] A positive IGFBP-1/PAMG-1 result should not be used alone — interpret alongside clinical condition, history and gestational age | NICE NG25 1.3.2
+- [2] If the test is negative and no fluid is seen, PPROM is unlikely — advise the woman to return if symptoms recur | NICE NG25 1.3.3
+- [1] Do not perform diagnostic tests for PPROM if labour becomes established | NICE NG25 1.3.5
+- [1] Ultrasound assessment (e.g. oligohydramnios) may support the clinical diagnosis but its independent diagnostic role is unclear | RCOG GTG73 Section 4.1
+calibration: The must-have safety point is the sequence — speculum before digital examination — since digital examination increases infection risk and can shorten latency; omitting this is a common and serious candidate error. Candidates who jump straight to "IGFBP-1/PAMG-1 test" without first describing speculum examination for pooling should be capped at half marks for this section. The explicit statement that nitrazine testing is not used is a frequently missed point.
+
+### SECTION 5.2 — Antenatal corticosteroids and magnesium sulphate (25 raw → 5.0 scaled)
+model: Corticosteroids should be offered, as 29 weeks falls within the 24+0–33+6 window where evidence is strongest for reducing respiratory distress syndrome and intraventricular haemorrhage. Magnesium sulphate should also be offered for fetal neuroprotection because she is under 30 weeks with anticipated preterm birth; it is given as a 4 g bolus over 15 minutes followed by a 1 g/hour infusion, with regular clinical monitoring for maternal toxicity.
+points:
+- [3] Offer maternal corticosteroids, as PPROM at 24+0–33+6 weeks (this patient is 29 weeks) is a clear indication | NICE NG25 1.9.2; RCOG GTG73 Grade A
+- [2] Corticosteroids reduce respiratory distress syndrome and intraventricular haemorrhage in this gestational window | RCOG GTG73 (meta-analysis of RCTs), Grade A
+- [2] Discuss the benefits and risks of corticosteroids with the woman before giving them | NICE NG25 1.9.6
+- [1] Do not give more than two courses of maternal corticosteroids for preterm birth | NICE NG25 1.9.5
+- [2] A single repeat course may be considered if the first was >7 days ago and birth within 48 hours is very likely | NICE NG25 1.9.4
+- [3] Offer IV magnesium sulphate for fetal neuroprotection, as she is <30 weeks with anticipated preterm birth | NICE NG25 1.10.2; RCOG GTG73 Grade A
+- [3] Magnesium sulphate reduces cerebral palsy and motor dysfunction in surviving offspring, with the greatest benefit below 30 weeks | RCOG GTG73 (meta-analyses of RCTs)
+- [3] Give a 4 g IV bolus over 15 minutes, followed by a 1 g/hour infusion until birth or for 24 hours, whichever is sooner | NICE NG25 1.10.4
+- [3] Monitor for magnesium toxicity at least every 4 hours: pulse, blood pressure, respiratory rate, deep tendon reflexes | NICE NG25 1.10.5
+- [2] If oliguria or renal impairment develops, monitor more frequently and reduce or stop the magnesium dose | NICE NG25 1.10.6
+- [1] Magnesium sulphate is not recommended for use beyond 24 hours in this indication | NICE NG25 (guideline note)
+calibration: The two non-negotiable figures are the corticosteroid gestational window (24+0–33+6 weeks, definitely offered — not merely "considered," which only applies from 34 weeks) and the magnesium sulphate regimen (4 g/15 min bolus, then 1 g/hour). Candidates who reverse or blur these thresholds, or omit toxicity monitoring, should lose marks even if the general principle of "give steroids and magnesium" is stated.
+
+### SECTION 5.3 — Tocolysis and antibiotics (30 raw → 6.0 scaled)
+model: Tocolysis is not routinely recommended in PPROM, as trial evidence shows it prolongs latency without improving — and possibly worsening — neonatal outcomes through increased chorioamnionitis risk. Erythromycin 250 mg four times daily for up to 10 days (or until established labour) should be given to reduce chorioamnionitis and prolong pregnancy, but co-amoxiclav must be avoided because of its association with neonatal necrotising enterocolitis.
+points:
+- [3] Tocolysis is not routinely recommended in women with PPROM | RCOG GTG73 Grade A
+- [3] Cochrane evidence shows tocolysis prolongs latency but does not improve, and may worsen, neonatal outcomes with increased chorioamnionitis risk | RCOG GTG73 (Cochrane review, Mackeen et al.)
+- [2] Tocolysis might occasionally be considered for a short, defined purpose (e.g. completing a steroid course or arranging in-utero transfer) only after senior discussion | Best practice (no single current guideline) [VERIFY]
+- [4] Offer oral erythromycin 250 mg four times a day for a maximum of 10 days, or until established labour, whichever is sooner | NICE NG25 1.4.1; RCOG GTG73 Grade A
+- [2] Antibiotics reduce chorioamnionitis and prolong pregnancy, reducing the numbers of babies born within 48 hours and 7 days | RCOG GTG73 (Cochrane review, Kenyon et al.)
+- [3] If erythromycin cannot be tolerated or is contraindicated, consider an oral penicillin for the same duration | NICE NG25 1.4.2
+- [4] Co-amoxiclav should NOT be given, as it is associated with an increased risk of neonatal necrotising enterocolitis | NICE NG25 1.4.3; RCOG GTG73 (ORACLE I trial)
+- [3] Antibiotics should only be given once the diagnosis of PPROM is confirmed, not on suspicion alone | RCOG GTG73 Section 6.1
+- [3] Amnioinfusion is not recommended as part of routine clinical practice in PPROM | RCOG GTG73 Grade B
+- [3] Antenatal prophylactic antibiotics should not be given if PPROM is not confirmed (no pooling, negative IGFBP-1/PAMG-1) | NICE NG25 1.3.3
+calibration: The single most heavily examined safety point is the co-amoxiclav prohibition — candidates who name "broad-spectrum antibiotics" without excluding co-amoxiclav should not receive full marks here. Erythromycin dose, frequency and duration (250 mg QDS, up to 10 days or until labour) must be exact. A common omission is failing to state clearly that tocolysis is not routine practice, instead defaulting to describing tocolytic drug choices as if this were preterm labour with intact membranes.
+
+### SECTION 5.4 — Maternal and fetal surveillance until delivery (25 raw → 5.0 scaled)
+model: Surveillance combines clinical assessment, CRP/white cell count and fetal heart rate monitoring to screen for chorioamnionitis, since no single test is reliable alone. Care setting (inpatient versus outpatient) is individualised based on latency markers, with regular growth and liquor/Doppler scans, neonatologist involvement, and additional emotional support given the recognised risk of psychological distress after PPROM. Expectant management is generally continued to 37+0 weeks unless a contraindication develops.
+points:
+- [3] Use a combination of clinical assessment, CRP, white cell count and fetal heart rate/CTG to identify chorioamnionitis — no single parameter used in isolation | NICE NG25 1.5.1–1.5.2; RCOG GTG73 Grade D
+- [2] Advise the woman of, and observe for, symptoms of chorioamnionitis (abdominal pain, offensive discharge, fever, malaise, reduced fetal movements) | RCOG GTG73 Section 5.1
+- [2] If clinical assessment and test results are inconsistent, continue observation and consider repeating tests | NICE NG25 1.5.3
+- [2] Inform the neonatal team once PPROM is confirmed and delivery is anticipated; offer an antenatal meeting with a neonatologist | RCOG GTG73 Section 5.2
+- [3] Decision on inpatient versus outpatient care is individualised, weighing latency markers (antepartum haemorrhage, liquor volume, gestation at PPROM, infection markers) | RCOG GTG73 Section 6.5
+- [3] Arrange serial ultrasound surveillance of fetal growth (commonly fortnightly) with assessment of liquor volume and umbilical artery Doppler (commonly weekly) | RCOG GTG73 Section 6.5
+- [3] Offer expectant management to 37+0 weeks in the absence of contraindications, with the timing of birth discussed individually | RCOG GTG73 Grade A
+- [2] Record vital signs on an obstetric early-warning chart if managed as an inpatient | RCOG GTG73 Section 5.1
+- [3] Assess and document group B streptococcus colonisation status, as this determines intrapartum antibiotic strategy | RCOG GTG73 (cross-reference to RCOG GTG36) [SLCOG-CHECK — confirm local Sri Lankan practice on universal versus risk-based GBS screening]
+- [2] Offer additional emotional and psychological support, given the recognised increase in post-traumatic stress symptoms after PPROM | RCOG GTG73 Section 6.7
+calibration: Candidates commonly default to a generic "admit and monitor" answer without naming the actual monitoring components (CRP/WCC/CTG combination, growth/liquor/Doppler intervals) — these specifics are where marks are lost. The GBS-status point is often omitted entirely despite being safety-relevant for intrapartum management planning. Full marks require an explicit statement of expectant management to 37+0 weeks rather than an arbitrary earlier delivery gestation.
+
+### GUIDELINES USED
+- NICE NG25 — Preterm labour and birth | Published November 2015, last updated June 2022
+- RCOG Green-top Guideline No. 73 — Care of Women Presenting with Suspected Preterm Prelabour Rupture of Membranes from 24+0 Weeks of Gestation | June 2019
+
+### FLAGS
+- [VERIFY] Section 5.3, point on limited-indication tocolysis — reflects general UK practice reasoning rather than an explicit named recommendation in NICE NG25 or RCOG GTG73; treat as best-practice reasoning, not a guideline citation.
+- [SLCOG-CHECK] Section 5.4, GBS screening point — no SLCOG-specific PPROM or GBS guidance was located in current project files; confirm whether Sri Lankan practice follows risk-based (as in this scheme, per UK convention) or universal screening before freezing.
+- No official SLCOG marking scheme for PPROM was found in project knowledge (searched and not present); this scheme's raw mark distribution across 5.1–5.4 was constructed logically from the printed question's own mark allocations (20/25/30/25), not from an SLCOG grid.
+
+## SCHEME_ID: M02-Q6
+- topic: Premature ovarian insufficiency
+- subject: GYN
+- questionType: SEQ
+- totalMarks: 20
+- rawMarks: 100
+- schemeVersion: 1.0
+
+### QUESTION
+A 34-year-old nulliparous woman presents with 8 months of secondary amenorrhoea and hot flushes. Two serum follicle-stimulating hormone levels, taken 4 weeks apart, are both above 30 IU/L.
+
+6.1. Outline the differential diagnosis and the investigations to establish the cause. **(25 marks)**
+
+6.2. Discuss the implications of premature ovarian insufficiency you would counsel her about. **(20 marks)**
+
+6.3. Describe the principles of hormone replacement therapy in this woman. **(35 marks)**
+
+6.4. Outline the options available to her regarding fertility. **(20 marks)**
+
+---
+
+### SECTION 6.1 — Differential diagnosis & investigations to establish cause (25 raw → 5.0 scaled)
+model: The two FSH values above 25 IU/L with ≥4 months of oligo/amenorrhoea already satisfy the diagnostic criteria for POI, so pregnancy and other causes of secondary amenorrhoea should be excluded and the work-up should then focus on establishing the underlying cause — iatrogenic, genetic, autoimmune, or idiopathic — using a structured algorithm.
+
+points:
+- [2] Diagnostic criteria for POI are oligo/amenorrhoea for ≥4 months plus FSH >25 IU/L on two occasions — already fulfilled here | ESHRE POI Guideline (2024)
+- [2] First exclude pregnancy with urine/serum β-hCG | ESHRE POI Guideline (2024)
+- [2] Differential of secondary amenorrhoea to exclude includes hyperprolactinaemia — check serum prolactin | Best practice (no single current guideline)
+- [2] Check thyroid function tests as part of the differential | ESHRE POI Guideline (2024)
+- [2] Consider PCOS as differential, though FSH is typically normal/low with raised LH, unlike this case | Best practice (no single current guideline)
+- [2] Consider hypothalamic amenorrhoea as differential, distinguished by low/normal (not elevated) FSH | Best practice (no single current guideline)
+- [2] Once POI is confirmed, classify the cause as iatrogenic vs non-iatrogenic per the diagnostic algorithm | ESHRE POI Guideline (2024)
+- [2] Take a history of previous chemotherapy, pelvic/whole-body radiotherapy, or ovarian/pelvic surgery to identify iatrogenic POI | ESHRE POI Guideline (2024)
+- [3] Karyotype/chromosomal analysis (e.g. to identify Turner syndrome) after counselling and informed consent | ESHRE POI Guideline (2024)
+- [3] FMR1 premutation testing — indicated in all women diagnosed with POI as a specific test (not detected by multigene panels/NGS) | ESHRE POI Guideline (2024)
+- [2] Screen for autoimmune cause with 21-hydroxylase antibodies, which have the highest diagnostic accuracy for autoimmune POI | ESHRE POI Guideline (2024)
+- [1] TSH screening is reasonable, but routine TPO antibody screening is not recommended given high background positivity in the general population | ESHRE POI Guideline (2024) — GPP
+
+calibration: Must-have safety point — recognising that the two FSH values already meet diagnostic criteria (candidates who re-investigate "whether this is POI" rather than moving to cause lose marks). FMR1 premutation testing and 21-hydroxylase antibodies are the two figures/tests examiners expect verbatim. Common omissions: forgetting to exclude pregnancy first; omitting genetic counselling/consent before karyotype/FMR1 testing; over-investigating with routine AMH or TPO antibodies (both explicitly not recommended).
+
+---
+
+### SECTION 6.2 — Implications of POI to counsel her about (20 raw → 4.0 scaled)
+model: Beyond infertility, POI carries long-term risks of cardiovascular disease, osteoporosis, metabolic disease, cognitive decline and psychological morbidity, and reduces life expectancy if untreated; these must be explained sensitively, alongside implications for female relatives.
+
+points:
+- [3] Increased cardiovascular risk: hypertension, coronary artery disease, heart failure, atrial fibrillation, stroke | ESHRE POI Guideline (2024)
+- [3] Increased risk of decreased bone density and osteoporosis | ESHRE POI Guideline (2024)
+- [2] Increased metabolic risk: diabetes mellitus, dyslipidaemia, metabolic syndrome | ESHRE POI Guideline (2024)
+- [2] Reduced life expectancy if untreated, mainly due to cardiac disease | ESHRE POI Guideline (2024)
+- [2] Psychological impact: anxiety, depression, poor self-esteem/body image, reduced quality of life | ESHRE POI Guideline (2024)
+- [2] Increased risk of cognitive impairment, dementia and Parkinsonism | ESHRE POI Guideline (2024)
+- [2] Infertility and its associated emotional/relationship impact | ESHRE POI Guideline (2024)
+- [2] Implications for female relatives — risk of POI increased 3–18× depending on relatedness (highest in twin sisters); offer genetic counselling if a cause is identified | ESHRE POI Guideline (2024)
+- [2] Deliver the diagnosis sensitively using a structured communication approach (e.g. SPIKES) and practise shared decision-making | ESHRE POI Guideline (2024)
+
+calibration: Must-have safety points — cardiovascular risk and reduced life expectancy if untreated (these justify starting HT, examined further in 6.3). Common omissions: candidates frequently only mention infertility and hot flushes and forget bone/cardiac/cognitive long-term consequences, and the implication for relatives/genetic counselling.
+
+---
+
+### SECTION 6.3 — Principles of hormone replacement therapy (35 raw → 7.0 scaled)
+model: HT is recommended for all women with POI, regardless of symptoms, until at least the usual age of menopause, as primary prevention against cardiovascular, bone and cognitive morbidity; the regimen (HRT vs COC, continuous vs sequential, transdermal vs oral, dose) should be individualised through shared decision-making, with periodic review and reassessment of continuation at the usual age of menopause.
+
+points:
+- [3] HT is recommended until the usual age of menopause for primary prevention of morbidity/mortality, whether or not estrogen-deficiency symptoms are present | ESHRE POI Guideline (2024) — STRONG
+- [2] HT effectively treats vasomotor symptoms | ESHRE POI Guideline (2024)
+- [3] HT is recommended to maintain bone health and reduce osteoporosis/fracture risk | ESHRE POI Guideline (2024)
+- [3] HT reduces cardiovascular disease risk and mortality compared with non-use | ESHRE POI Guideline (2024)
+- [2] HT may protect neurological/cognitive function even in the absence of menopausal symptoms | ESHRE POI Guideline (2024)
+- [2] Choice between HRT and combined oral contraceptive should be individualised, with shared decision-making considering patient preference, contraceptive need and comorbidities | ESHRE POI Guideline (2024) — GPP
+- [2] Continuous vs sequential combined regimen is chosen according to whether contraception is required | ESHRE POI Guideline (2024)
+- [2] Higher "POI-specific" estrogen doses are required than standard postmenopausal HRT doses (e.g. transdermal estradiol 75–100 µg/day) | ESHRE POI Guideline (2024)
+- [2] Transdermal route is often preferred for more physiological estrogen delivery | ESHRE POI Guideline (2024)
+- [2] Progestogen (or LNG-IUS) is required for endometrial protection if the uterus is present | ESHRE POI Guideline (2024)
+- [2] If a combined oral contraceptive is chosen, a continuous or extended regimen is recommended to avoid bone loss | ESHRE POI Guideline (2024) — STRONG
+- [2] She can be reassured there is no evidence HT increases breast cancer risk compared with age-matched women without POI | ESHRE POI Guideline (2024) — CONDITIONAL
+- [2] Vaginal estrogen can be added if genitourinary symptoms persist despite adequate systemic HT | ESHRE POI Guideline (2024)
+- [2] As spontaneous ovulation can rarely occur, HT does not reliably act as contraception — non-hormonal contraception or LNG-IUS should be offered if contraception is desired | ESHRE POI Guideline (2024)
+- [2] Long-term monitoring is needed: annual review of adherence, BP, weight, smoking status, psychological health, and periodic BMD/lipid/glucose screening | ESHRE POI Guideline (2024)
+- [1] At the usual age of menopause, reassess the need for continued HT based on a personalised risk–benefit assessment | ESHRE POI Guideline (2024) — GPP
+- [2] Individualise route/regimen in the presence of comorbidities (e.g. transdermal preferred and COC contraindicated with migraine with aura or prior VTE) [VERIFY] | ESHRE POI Guideline (2024)
+
+calibration: Must-have safety points — HT is indicated regardless of symptoms, and the "POI dose" is higher than standard menopausal HRT dosing (candidates who quote standard postmenopausal doses lose marks). The continuous/extended COC regimen rule (to avoid bone loss) and the breast cancer reassurance point are commonly omitted. Figures that must be exact: FSH >25 IU/L threshold (from 6.1) and transdermal dose ranges. Common omissions: forgetting progestogen/endometrial protection, forgetting contraception is still needed, and forgetting the plan to reassess HT at the usual age of menopause.
+
+---
+
+### SECTION 6.4 — Fertility options (20 raw → 4.0 scaled)
+model: She should be counselled honestly that no treatment reliably restores ovarian function or natural conception, though rare intermittent ovarian activity can occur; oocyte donation is the treatment of choice for those wishing to conceive, following thorough pre-pregnancy risk assessment, with adoption, surrogacy and psychological support offered as adjuncts.
+
+points:
+- [3] Counsel that no interventions have been reliably shown to increase ovarian activity or natural conception rates | ESHRE POI Guideline (2024) — STRONG
+- [2] Rare intermittent ovarian activity can occur, with natural conception reported in <5–15% | ESHRE POI Guideline (2024)
+- [2] HT/COC does not prevent natural conception, so contraception should still be offered if pregnancy is not desired | ESHRE POI Guideline (2024)
+- [3] Oocyte donation is the treatment of choice for women with POI wishing to conceive | ESHRE POI Guideline (2024)
+- [2] Pre-pregnancy screening is required to assess fitness for pregnancy (e.g. cardiac, renal and thyroid function), tailored to the underlying cause of POI | ESHRE POI Guideline (2024)
+- [2] Discuss oocyte/embryo cryopreservation if any residual ovarian activity is detected [VERIFY] | ESHRE POI Guideline (2024)
+- [2] Discuss adoption or surrogacy as alternative family-building options | Best practice (no single current guideline)
+- [2] Refer to a reproductive endocrinologist/fertility specialist for individualised counselling and shared decision-making | ESHRE POI Guideline (2024)
+- [2] Offer psychological support/counselling to address grief and distress related to infertility | ESHRE POI Guideline (2024)
+
+calibration: Must-have safety point — she must not be left with false hope; the guideline is explicit that no intervention reliably restores fertility, and oocyte donation is the realistic route to pregnancy. Common omissions: forgetting that contraception may still be required (candidates assume infertility is absolute), and forgetting the need for pre-pregnancy risk stratification before proceeding with donor oocyte pregnancy.
+
+---
+
+### GUIDELINES USED
+- ESHRE/ASRM/CREWHiRL/IMS — Guideline on the Management of Women with Premature Ovarian Insufficiency, 2024 update (primary reference for this scheme)
+- Gravholt CH et al. — Clinical Practice Guidelines for the Care of Girls and Women with Turner Syndrome, 2024 (Aarhus 2023 meeting) — for genetic/Turner-related implications
+- Best practice / general reproductive medicine knowledge — for differential diagnosis of secondary amenorrhoea and adoption/surrogacy counselling, where no single current guideline governs
+
+### FLAGS
+- [VERIFY] Section 6.3, point on individualising HT route/regimen by comorbidity (migraine with aura, prior VTE) — figures are from the ESHRE toolkit table but should be checked against your local SLCOG position before freezing
+- [VERIFY] Section 6.4, point on oocyte/embryo cryopreservation in residual ovarian activity — confirm this is appropriately weighted/relevant for an established POI diagnosis of 8 months' duration rather than a pre-POI fertility-preservation scenario
+
