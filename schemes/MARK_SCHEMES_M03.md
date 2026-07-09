@@ -83,3 +83,136 @@ calibration: Must-have safety points — the MCA-PSV >1.5 MoM trigger for IUT, i
 - [VERIFY] NICE TA156 and the Qureshi et al. 2014 BSH anti-D Ig guideline were not part of the user-supplied document; their dosing details (RAADP regimens, 250 IU/500 IU sensitising-event dosing) should be cross-checked directly against those source documents before freezing, as they were not re-verified against the uploaded PDF.
 - [SLCOG-CHECK] No SLCOG-specific protocol identified for RhD screening, RAADP funding/availability, cffDNA fetal genotyping access, MCA-PSV Doppler surveillance capacity, or local intrauterine transfusion referral pathway in Sri Lanka. The BSH 2025 guideline is a UK NHS-context document (NHSBT/Welsh Blood Service infrastructure, tertiary invasive fetal therapy services, K-negative blood-selection policy) — local availability of cffDNA genotyping, fortnightly/weekly MCA Doppler capacity, and tertiary IUT services should be confirmed against local SLCOG/FHB standards before freezing, since these materially affect what is realistically achievable in Sri Lankan practice.
 - No blocking [VERIFY] flags remain on core figures directly drawn from the uploaded Regan et al. 2025 document (anti-D/anti-c quantification thresholds, MCA-PSV >1.5 MoM, IUT blood specification, exchange/top-up transfusion requirements) — these are cited to specific sections/tables of the source PDF.
+
+## SCHEME_ID: M03-Q3
+- topic: Placenta praevia
+- subject: OBS
+- questionType: SEQ
+- totalMarks: 20
+- rawMarks: 100
+- schemeVersion: 1.0
+
+### QUESTION
+A 31-year-old woman, para 2 with one previous caesarean section, at 32 weeks of gestation presents with painless vaginal bleeding. Ultrasound confirms a placenta praevia, with the placenta reaching the internal os.
+
+3.1. Outline your immediate assessment and management on admission. **(25 marks)**
+
+3.2. Discuss the further antenatal management until delivery. **(25 marks)**
+
+3.3. Describe the considerations for the timing and mode of delivery. **(20 marks)**
+
+3.4. Discuss the preparations for delivery to minimise maternal morbidity. **(30 marks)**
+
+---
+
+### SECTION 3.1 — Immediate assessment and management on admission (25 raw → 5.0 scaled)
+model: Assess maternal haemodynamic stability and estimate blood loss while alerting senior staff. Secure IV access, send bloods including group and crossmatch, and begin continuous CTG monitoring. Avoid digital vaginal examination. Give corticosteroids for fetal lung maturation, consider short-course tocolysis to permit steroid administration if appropriate, and admit for observation with a clear management plan discussed with the woman.
+
+points:
+- [1] Call for senior help / multidesceplinery involvement / alert labour ward coordinator on admission | RCOG Green-top No. 27a (2026)
+- [2] ABCDE assessment: airway, breathing, circulation, vital signs (BP, HR, RR, SpO2) | RCOG Green-top No. 27a (2026), Sec 5.2/7 GPP
+- [2] Assess severity/amount of bleeding, abdominal pain, uterine tenderness and ongoing haemodynamic status | RCOG Green-top No. 27a (2026)
+- [2] Abdominla examination and speculum examination to assess placental abruption and ongoing bleeding | added scrutinization
+- [2] Insert two large-bore IV cannulae (14–16G) | RCOG Green-top No. 47 Blood Transfusions in Obstetrics (2015) [SLCOG-CHECK]
+- [2] Bloods: FBC, coagulation screen, group & crossmatch (2–4 units) | RCOG Green-top No. 27a (2026) Sec 7.3
+- [1] IV crystalloid resuscitation if hypovolaemic,if ongoing bleeding present and hypovolaemic give blood | RCOG Green-top No. 47 (2015) [SLCOG-CHECK]
+- [2] Continuous electronic fetal monitoring (CTG) | RCOG Green-top No. 27a (2026), good practice point
+- [2] Avoid digital vaginal examination | RCOG Green-top No. 27a (2026), longstanding GPP
+- [1] Confirm placental location/fetal presentation on ultrasound | RCOG Green-top No. 27a (2026) Sec 5.1
+- [2] Anti-D immunoglobulin if Rh D-negative, with Kleihauer test to quantify feto-maternal haemorrhage | RCOG Green-top No. 22 Anti-D Immunoglobulin, latest edition [VERIFY dose/timing]
+- [2] Antenatal corticosteroids, as birth at 24+0–34+6 weeks is anticipated | RCOG Green-top No. 27a (2026) Key Recommendations; RCOG Green-top No. 74 (2022)
+- [2] Analgesia as required | RCOG Green-top No. 27a (2026) GPP
+- [1] Explain findings to woman/partner and document plan | RCOG Green-top No. 27a (2026) Sec 5.2
+- [1] Admit for inpatient observation as she is symptomatic (bleeding) | RCOG Green-top No. 27a (2026) Sec 5.2.1, Grade GPP
+
+calibration: Must-have safety points: avoiding digital vaginal examination, securing IV access with crossmatched blood, continuous CTG, and corticosteroid administration at this gestation. Candidates commonly omit the Kleihauer test and forget that tocolysis is time-limited (48h) and only to cover steroids, not to prolong pregnancy indefinitely. Anti-D dose is jurisdiction-specific and should be confirmed locally [SLCOG-CHECK].
+
+---
+
+### SECTION 3.2 — Further antenatal management until delivery (25 raw → 5.0 scaled)
+model: Care should be individualised according to symptoms, with hospitalisation favoured given her recurrent/symptomatic bleeding and social circumstances. Serial ultrasound (including cervical length) guides risk stratification and delivery planning, anaemia is corrected, weekly group-and-screen is arranged, and thromboprophylaxis risk is balanced against bleeding risk throughout admission.
+
+points:
+- [2] Individualise care (hospitalisation vs outpatient) according to symptoms, local protocols and personal/social circumstances | RCOG Green-top No. 27a (2026) Sec 5.2, Grade GPP
+- [2] Symptomatic/recurrent bleeding placenta praevia warrants continued hospitalisation tailored to individual clinical need | RCOG Green-top No. 27a (2026) Sec 5.2.1
+- [1] Consider distance from hospital/transport availability if outpatient care is ever contemplated | RCOG Green-top No. 27a (2026) Sec 5.2.1
+- [1] Provide emergency plan and contact numbers if any period of home care occurs | RCOG Green-top No. 27a (2026) Sec 5.2.1
+- [2] Follow-up ultrasound (including TVS as needed) around 36 weeks to reassess placental position and inform delivery planning | RCOG Green-top No. 27a (2026) Sec 5.1.1/5.1.2
+- [2] Risk-stratify using bleeding pattern: risk of emergency birth rises with earlier first bleed and more bleeding episodes | RCOG Green-top No. 27a (2026) Sec 5.2.1.1
+- [2] Transvaginal cervical length measurement as a predictor of antepartum bleeding, preterm birth and PPH | RCOG Green-top No. 27a (2026) Sec 5.1.2
+- [2] Weekly group-and-screen (no clinically significant antibodies) to keep blood available; discretion of local team | RCOG Green-top No. 27a (2026) Sec 7
+- [2] Screen for anaemia and give iron supplementation as indicated | RCOG Green-top No. 27a (2026) Sec 7
+- [1] No routine repeat-dose corticosteroids; individualise if recurrent bleeding continues | RCOG Green-top No. 27a (2026) Sec 5.2.3 [VERIFY]
+- [1] Magnesium sulphate neuroprotection only relevant up to 30+0 weeks — not indicated at this gestation | RCOG Green-top No. 74 (2022); RCOG Green-top No. 27a (2026) Sec 5.2.3
+- [1] Cervical cerclage not recommended — insufficient evidence of benefit/safety | RCOG Green-top No. 27a (2026) Sec 5.2.2, Grade C
+- [1] Advise avoidance of intercourse/vaginal examinations while praevia persists | RCOG Green-top No. 27a (2026), general practice point [SLCOG-CHECK]
+- [1] Monitor fetal growth given association of low placentation with fetal growth restriction | RCOG Green-top No. 27a (2026), general practice
+- [1] Provide psychological support/counselling regarding ongoing risk | RCOG Green-top No. 27a (2026), general practice
+- [2] VTE risk assessment during hospitalisation, balanced against bleeding risk | RCOG Green-top No. 37a VTE in Pregnancy, latest edition
+- [1] Multidisciplinary discussion to finalise delivery plan before 34 weeks | RCOG Green-top No. 27a (2026) Sec 11.1
+
+calibration: Must-have safety points: individualised (not blanket) hospitalisation decision, cervical length/TVS follow-up, and correct application of the magnesium sulphate gestational cut-off (30+0 weeks) — a common candidate error is offering magnesium sulphate at 32 weeks. VTE risk assessment during admission is frequently omitted despite being a recognised auditable standard.
+
+---
+
+### SECTION 3.3 — Timing and mode of delivery (20 raw → 4.0 scaled)
+model: Timing is individualised according to antenatal symptoms; given her recurrent bleeding, late preterm birth (34+0–36+6 weeks) should be considered rather than awaiting 37+6 weeks. As the placenta reaches the internal os, caesarean section is indicated; a repeat TVS around 36 weeks determines final placental position and confirms the need for operative delivery, since vaginal birth is only considered when the placental edge lies well clear of the os.
+
+points:
+- [1] Timing of birth tailored according to antenatal symptoms rather than a fixed protocol | RCOG Green-top No. 27a (2026) Sec 6.1, Grade C
+- [3] Symptomatic/recurrent-bleeding placenta praevia: late preterm birth (34+0–36+6 weeks) should be considered | RCOG Green-top No. 27a (2026) Key Recommendations
+- [2] Uncomplicated/asymptomatic low-lying placenta or praevia: planned birth considered no later than 37+6 weeks | RCOG Green-top No. 27a (2026) Sec 6.1, Grade A
+- [2] Balance risk of major antepartum haemorrhage (increases with advancing gestation) against risks of prematurity | RCOG Green-top No. 27a (2026) Sec 6.1
+- [3] Caesarean section indicated because the placenta covers/reaches the internal os (praevia) | RCOG Green-top No. 27a (2026) Sec 2.1/6
+- [3] Repeat TVS around 36 weeks to confirm final placental edge–os distance and guide mode of birth | RCOG Green-top No. 27a (2026) Sec 5.1.2, Appendix 2
+- [2] Individualise mode of birth on clinical background, woman's preference and ultrasound findings if edge resolves | RCOG Green-top No. 27a (2026) Sec 6.2
+- [2] Trial of labour only appropriate if placental edge–IO distance is 11–20mm after 36 weeks (>80% successful vaginal birth) — not applicable while os is covered | RCOG Green-top No. 27a (2026) Sec 6.2, Grade B
+- [1] Anterior placental location is an independent risk factor for major obstetric haemorrhage and should inform surgical planning | RCOG Green-top No. 27a (2026) Sec 7
+- [1] Delivery plan should be agreed with the woman and documented before 34 weeks | RCOG Green-top No. 27a (2026) Sec 11.1
+
+calibration: Must-have safety point: recognising that a placenta reaching/covering the internal os mandates caesarean section — trial of labour is not an option here. Candidates frequently default to "37+6 weeks for all praevia" without adjusting for her symptomatic bleeding, which should prompt earlier (34+0–36+6 week) delivery per the updated guideline.
+
+---
+
+### SECTION 3.4 — Preparations for delivery to minimise maternal morbidity (30 raw → 6.0 scaled)
+model: Birth should occur in a unit with on-site blood transfusion and critical care, led by a senior obstetrician and anaesthetist, with haemoglobin optimised, blood cross-matched, and cell salvage available. Given her prior caesarean section and anterior low-lying placenta reaching the os, placenta accreta spectrum should be actively screened for and a multidisciplinary contingency plan in place, including uterotonics, tranexamic acid, balloon tamponade and early recourse to hysterectomy if haemorrhage is uncontrolled.
+
+points:
+- [1] Birth arranged in a maternity unit with on-site blood transfusion services and access to critical care | RCOG Green-top No. 27a (2026) Key Recommendations, Grade C
+- [2] Senior (consultant) obstetrician and senior (consultant) anaesthetist present in the theatre suite | RCOG Green-top No. 27a (2026) Sec 7.1, GPP
+- [2] Optimise haemoglobin preoperatively; treat anaemia with iron supplementation | RCOG Green-top No. 27a (2026) Sec 7, Grade C
+- [2] Discuss and document risks (intraoperative haemorrhage, PPH, hysterectomy, maternal mortality) and any plan to decline blood products | RCOG Green-top No. 27a (2026) Sec 7, GPP
+- [2] Group and crossmatch adequate units of blood available before surgery | RCOG Green-top No. 27a (2026) Sec 7.3
+- [2] Formal consent covering caesarean section risks and specific placenta praevia risks | RCOG Consent Advice No. 7 and No. 12, RCOG (2009/2010) [VERIFY current edition]
+- [2] Regional anaesthesia preferred (lower haemorrhage risk than general anaesthesia), with counselling on possible conversion to GA | RCOG Green-top No. 27a (2026) Sec 7.2, GPP
+- [1] Close liaison with the hospital blood transfusion laboratory | RCOG Green-top No. 47 Blood Transfusions in Obstetrics (2015)
+- [2] Rapid infusion and fluid-warming devices immediately available | RCOG Green-top No. 27a (2026) Sec 7.3, GPP
+- [2] Intraoperative cell salvage available, particularly if she declines blood products | RCOG Green-top No. 27a (2026) Sec 7.3, Grade B
+- [2] Anticipate fetal malpresentation requiring complex intraoperative manoeuvres; experienced surgeon should operate | RCOG Green-top No. 27a (2026) Sec 7.1
+- [2] If placenta is transected at uterine incision, clamp umbilical cord immediately (avoid delayed cord clamping) | RCOG Green-top No. 27a (2026) Sec 7.4, GPP
+- [2] Use uterotonics and tranexamic acid per institutional PPH protocol | RCOG Green-top No. 27a (2026) Sec 7.4; RCOG Green-top No. 52 (PPH), latest edition
+- [2] If pharmacological measures fail, initiate intrauterine balloon tamponade and consider compression sutures | RCOG Green-top No. 27a (2026) Sec 7.4, Grade B
+- [2] Actively screen for placenta accreta spectrum given prior caesarean section and anterior low-lying placenta reaching the os | RCOG Green-top No. 27a (2026) Key Recommendations (PAS), Grade C
+- [1] Multidisciplinary team (MDT) involvement in a specialist centre if PAS is suspected | RCOG Green-top No. 27a (2026) Key Recommendations (PAS), Grade B
+- [1] Plan for postoperative monitoring in a higher-level care setting if indicated | RCOG Green-top No. 27a (2026) Sec 7
+- [1] Postoperative VTE risk assessment and thromboprophylaxis | RCOG Green-top No. 37a VTE in Pregnancy, latest edition
+
+calibration: Must-have safety points: senior obstetrician/anaesthetist presence, blood availability with cell salvage, and — critically for this vignette (previous CS + anterior placenta reaching the os) — active screening for placenta accreta spectrum with MDT referral, since missing this is the single most dangerous omission. Candidates often list generic PPH management but fail to link the prior caesarean scar to accreta risk explicitly.
+
+---
+
+### GUIDELINES USED
+- RCOG Green-top Guideline No. 27a — Placenta Praevia and Placenta Accreta Spectrum: Diagnosis and Management (5th edition, accepted 30 March 2026) — primary source
+- RCOG Green-top Guideline No. 74 — Antenatal Corticosteroids to Reduce Neonatal Morbidity and Mortality (2022)
+- RCOG Green-top Guideline No. 47 — Blood Transfusions in Obstetrics (2015)
+- RCOG Green-top Guideline No. 52 — Prevention and Management of Postpartum Haemorrhage, latest edition
+- RCOG Green-top Guideline No. 37a — Reducing the Risk of Venous Thromboembolism during Pregnancy and the Puerperium, latest edition
+- RCOG Green-top Guideline No. 22 — Anti-D Immunoglobulin, latest edition
+- RCOG Consent Advice No. 7 (Caesarean Section) and No. 12 (Caesarean Section for Placenta Praevia)
+
+### FLAGS
+- [VERIFY] Anti-D immunoglobulin dose/timing not detailed in the 2026 Green-top 27a — confirm against current RCOG Anti-D guideline or local SLCOG protocol.
+- [VERIFY] Repeat-dose antenatal corticosteroids for recurrent bleeding episodes — guideline states no current data; confirm local practice.
+- [VERIFY] RCOG Consent Advice No. 7/12 dates (2009/2010) predate this guideline's 2026 edition — confirm whether a newer edition exists.
+- [SLCOG-CHECK] IV cannula gauge, crystalloid resuscitation practice, and advice on avoiding intercourse/vaginal examination are general obstetric practice points not explicitly detailed in Green-top 27a — verify against local SLCOG standards if examiners expect Sri Lanka-specific figures.
+
