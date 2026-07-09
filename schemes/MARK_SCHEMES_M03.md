@@ -216,3 +216,94 @@ calibration: Must-have safety points: senior obstetrician/anaesthetist presence,
 - [VERIFY] RCOG Consent Advice No. 7/12 dates (2009/2010) predate this guideline's 2026 edition — confirm whether a newer edition exists.
 - [SLCOG-CHECK] IV cannula gauge, crystalloid resuscitation practice, and advice on avoiding intercourse/vaginal examination are general obstetric practice points not explicitly detailed in Green-top 27a — verify against local SLCOG standards if examiners expect Sri Lanka-specific figures.
 
+## SCHEME_ID: M03-Q2
+- topic: Clinical audit and clinical governance in maternity care (Sri Lanka)
+- subject: OBS
+- questionType: SAQ
+- totalMarks: 20
+- rawMarks: 100
+- schemeVersion: 2.0
+
+### QUESTION
+Critically discuss the role of clinical audit and clinical governance in improving the quality and safety of maternity care in Sri Lanka. (100 marks)
+
+### SECTION 1 — Concept, history and definition of clinical governance (15 raw → 3.0 scaled)
+model: Clinical governance and patient-safety methods were borrowed from high-risk industries such as aviation and nuclear power, which recognised that catastrophic accidents result from system failures rather than one person's error; the Bristol Royal Infirmary paediatric cardiac surgery scandal (1984–1995) became the landmark case that catalysed formal clinical governance in healthcare. Clinical governance is the framework through which a healthcare organisation is accountable for continuously improving quality and safeguarding standards of care, aiming to prevent avoidable harm, standardise practice, and reduce variation for all patients.
+points:
+- [3] Clinical governance defined as the framework of organisational accountability for continuously improving quality and safeguarding standards of care | Scally & Donaldson, BMJ 1998; local teaching material
+- [3] Aims: prevent avoidable harm, standardise practice, improve outcomes, and ensure accountability at all levels
+- [3] Obstetrics is one of the most litigated specialties, and pregnancy outcomes are emotionally and socially catastrophic when they go wrong — this underlies why maternity units need a robust governance system | local teaching material
+- [3] Framing question for any maternity unit: "how does this unit prevent the next bad outcome?" — governance is a continuous, forward-looking process, not a one-off reaction
+- [3] Most maternal morbidity today occurs inside hospitals rather than outside them, so the problem is no longer access to care but reliability of care | local teaching material
+calibration: Must-have point: the shift in thinking from "who made the mistake" to "why did the system fail" — this is the conceptual foundation the rest of the answer builds on. A common omission is failing to root the discussion in a real historical catalyst (Bristol) or in the "reliability of care" framing, instead giving only an abstract textbook definition.
+
+### SECTION 2 — The seven pillars of clinical governance applied to a maternity unit (25 raw → 5.0 scaled)
+model: The seven pillars of clinical governance — clinical effectiveness, clinical audit, risk management and patient safety, patient involvement, education and training, information and documentation, and accountability — provide a structured framework that maps directly onto concrete activities in a maternity unit, from evidence-based protocols to incident reporting to informed consent.
+points:
+- [3] Clinical effectiveness — providing care based on best available evidence, not personal habit, through evidence-based practice, guidelines, protocols and standardised care pathways; without it, each doctor practises differently and outcomes vary | local teaching material
+- [3] Clinical audit — a distinct pillar in its own right: checking whether practice actually matches the agreed standard ("practice vs standard"); audit without resulting change in practice is not a true audit | local teaching material
+- [4] Risk management and patient safety — identifying hazards before they harm a patient: incident reporting, near-miss reporting, early warning scores (e.g. MEOWS), escalation policy, handover systems, safety checklists | local teaching material
+- [3] Patient and public involvement — patients as partners in care, not passive recipients: informed consent, shared decision-making, birth plans, patient feedback, companionship in labour | local teaching material
+- [4] Education and training — ensuring staff are and remain competent, since medicine changes and doctors must change with it: skills drills (PPH, shoulder dystocia), simulation training, CTG interpretation training, supervision, CPD; modern O&G training emphasises team learning and non-technical skills | local teaching material
+- [3] Information and documentation — using accurate information to improve care: medical records, CTG documentation, maternal death data, registers, electronic records; surveillance data are used to monitor disease, audit care and improve services | local teaching material
+- [3] Accountability — creating a professional, supportive and responsible workforce: reflective practice, professional behaviour, complaint handling, duty of candour, supporting staff after incidents, leadership; good governance requires openness, honesty and transparency | local teaching material; PGIM Prospectus 2017 reflective-practice framework
+- [2] Integration point: the pillars function together under a designated governance structure/lead — no pillar operates in isolation
+calibration: Distinction-level answers give a specific maternity example for every pillar rather than a generic one-line definition (e.g. not just "risk management" but "MEOWS charts and an agreed escalation policy for an abnormal CTG"). A common omission is treating clinical audit as identical to clinical effectiveness rather than as its own pillar with its own audit-cycle logic.
+
+### SECTION 3 — Root cause analysis and the fishbone (Ishikawa) technique as risk-management tools (20 raw → 4.0 scaled)
+model: Root cause analysis (RCA) is a structured method used after an adverse event to identify the underlying system factors that allowed the incident to occur, reflecting the modern (James Reason) model of human error — asking "why did the system fail?" rather than "who made the mistake?" The fishbone (Ishikawa) diagram is a visual tool that organises contributing factors into categories, revealing that failures are almost always a cascade of multiple interacting system weaknesses rather than a single cause.
+points:
+- [3] RCA is not about identifying who made the mistake; it is about identifying why the system failed | local teaching material
+- [3] RCA process: describe the event (timeline), identify problems (delays, omissions, communication failures), look for contributing factors, find the root cause, recommend change (protocol, training, staffing, checklist) | local teaching material
+- [3] Contributing-factor categories for RCA in a maternity setting: staffing, training, equipment, environment, communication | local teaching material
+- [3] Fishbone (Ishikawa) diagram: the "head" represents the problem (e.g. delayed emergency caesarean section) and the "bones" represent categories of causes, commonly People, Process, Equipment, Environment, Management in healthcare | local teaching material
+- [3] Alternative maternity-specific mnemonic for fishbone categories: PEOPLES — Patient factors, Environment, Organisation, Personnel (staff), Logistics/equipment, Education/training, Systems/communication | local teaching material
+- [2] Worked example — a baby with hypoxic-ischaemic encephalopathy (HIE) after a "normal" delivery may reveal an unrecognised abnormal CTG, an unclear escalation policy, a registrar covering theatre, no consultant review system, and inadequate night staffing — a cascade of system weaknesses, not one person's failure | local teaching material
+- [3] Purpose of the fishbone technique: removes blame, encourages discussion, reveals hidden risks, improves teamwork, and identifies real solutions, though it can be superficial if not combined with deeper RCA | local teaching material
+calibration: Must-have safety point: candidates must explicitly state that RCA/fishbone analysis is a no-blame, system-focused method — awarding this point separately from merely naming the tools. A common omission is naming "fishbone diagram" without describing at least one category set (People/Process/Equipment/Environment/Management, or PEOPLES) or without a worked maternity example.
+
+### SECTION 4 — Safety culture, incident/near-miss reporting and the WHO maternal near-miss approach (20 raw → 4.0 scaled)
+model: The clinical governance cycle runs from an incident, through reporting and surveillance, root cause analysis, audit, and change in practice, to a genuine change in culture. A safe maternity unit discusses mistakes openly, reports near misses, supports staff, learns without blame, and is open and honest with patients (duty of candour). The WHO near-miss approach for maternal health formalises this as a repeatable cycle of baseline assessment, situation analysis, tailored intervention, and reassessment.
+points:
+- [3] The cycle of clinical governance: incident happens → reporting and surveillance → root cause analysis → audit → change practice → change culture — a continuous quality-improvement process | local teaching material
+- [3] Safety culture features: a safe unit discusses mistakes, reports near misses, supports staff, learns openly, and is open and honest with patients | local teaching material
+- [2] "Near misses are gifts" — they provide learning opportunities far more frequently than rare mortality events, without the harm having occurred | local teaching material
+- [3] WHO near-miss approach conceptual framework: baseline assessment (near-miss criterion-based clinical audit plus views of near-miss women, providers and managers) → situation analysis (identifying opportunities and obstacles for improving care) → implementation of a tailored, multifaceted intervention → reassessment and adjustment | WHO — Evaluating the Quality of Care for Severe Pregnancy Complications: The WHO Near-Miss Approach for Maternal Health, 2011
+- [3] Tailored intervention components in the WHO framework: audit and feedback, prospective case identification, engagement of opinion leaders and early adopters, reminders and educational activities, development and use of local protocols, use of evidence-based checklists | WHO Near-Miss Approach, 2011
+- [3] Culture and human factors: many errors occur due to poor communication, hierarchy, fatigue, and unclear leadership rather than lack of knowledge; non-technical skills are essential for safe obstetric practice | local teaching material
+- [2] Modern O&G training recognises that communication, teamwork and decision-making errors cause harm more often than lack of knowledge, commonly manifesting as poor handover, poor communication, and lack of adherence to protocols | local teaching material
+- [1] Maternal and perinatal care is inherently high risk, where small delays can lead to catastrophic outcomes, which is why systematic incident analysis matters | local teaching material
+calibration: Must-have safety point: the "no-blame" principle of incident/near-miss reporting must be stated explicitly, since a punitive culture is known to suppress honest reporting and undermine every downstream governance activity. A common omission is describing the WHO near-miss framework in the abstract without naming at least two components of the tailored intervention.
+
+### SECTION 5 — Strategies for improvement and Sri Lankan evidence of effectiveness (20 raw → 4.0 scaled)
+model: Practical strategies to strengthen quality and safety in Sri Lankan maternity care combine the classic audit cycle (setting a standard, measuring practice against it, and implementing change) with structured, staged quality-improvement methodology and locally co-created interventions; recent Sri Lankan research demonstrates that facility-based, co-designed quality-improvement projects are feasible, acceptable and can improve maternity care processes.
+points:
+- [2] Clinical audit checks whether practice actually matches an agreed standard; audit without resulting change in practice is not a true audit | local teaching material
+- [2] What happens after audit: new protocols, training sessions, drills, checklists, and supervision are the practical outputs that close the audit loop | local teaching material
+- [3] Five stages of quality improvement: create co-production (get the right people on board) → identify and understand the system and root cause → develop a change strategy (set an aim, choose measures, generate ideas) → Plan-Do-Study-Act (PDSA) testing cycles → implement and sustain the new way of working | local teaching material (Five Stages of Quality Improvement framework)
+- [3] The WHO quality-of-care framework distinguishes "provision of care" (evidence-based practice, actionable information systems, functional referral systems) from "experience of care" (effective communication, respect and dignity, emotional support), both underpinned by competent human resources and essential physical resources, to produce coverage and health outcomes | WHO Quality of Care Framework, cited in Rishard et al., Journal of the South Asian Federation of Obstetrics and Gynaecology, 2024
+- [3] A Sri Lankan narrative review of facility-based quality-improvement projects in maternal health across LMICs identified 33 QI projects and synthesised 12 key steps for future LMIC QI projects, noting persistent deficiencies in several key areas | Rishard et al., "Improving Quality of Maternity Services in LMIC Settings," Journal of the South Asian Federation of Obstetrics and Gynaecology, 2024
+- [3] A locally co-created quality-improvement intervention to enhance postpartum haemorrhage management in Sri Lanka was piloted and assessed for impact, appropriateness, acceptability and feasibility, demonstrating that co-design methodology can be applied successfully to a high-burden Sri Lankan obstetric problem | Rishard et al., "Enhancing postpartum hemorrhage management in Sri Lanka: A pilot study," International Journal of Gynecology & Obstetrics, 2025/2026 [VERIFY — confirm final publication year]
+- [2] A systematic review of cocreation and codesign in maternal health examined processes, outcomes and implementation challenges of involving patients and staff in designing quality-improvement interventions | Rishard et al., "Cocreation and codesign in maternal health: processes, outcomes and implementation challenges," BMJ Quality & Safety, online first [VERIFY — confirm publication year/volume]
+- [2] Barriers to effective governance in the Sri Lankan setting: limited protected time and staffing for audit activity, incomplete/non-standardised documentation, resource constraints (staff, blood products, HDU/ICU beds), and fear of blame discouraging open reporting
+- [not scored, integrating point] Sustained improvement requires findings from audit, RCA and locally co-created QI projects to feed upward into institutional protocols, training curricula and national policy — completing the loop from bedside to system level
+calibration: Distinction-level answers cite at least one of the locally generated Sri Lankan quality-improvement studies by name rather than relying solely on generic international frameworks, since these directly demonstrate that audit/governance methodology has been applied and evaluated in the local maternity context. A common omission is describing PDSA/QI stages without linking them back to a concrete Sri Lankan example.
+
+---
+
+### GUIDELINES USED
+- Local teaching material — "Clinical Governance" lecture (Thirukumar sir / departmental teaching slides), covering history, seven pillars, cycle of clinical governance, and safety culture
+- Local teaching material — "Fishbone Analysis" lecture (Dr Indunil Piyadigama), covering James Reason's human error model, RCA process, and the Ishikawa diagram
+- Bristol Royal Infirmary Inquiry (Kennedy Report) — paediatric cardiac surgery deaths, 1984–1995 [VERIFY exact report year]
+- Scally G, Donaldson LJ. Clinical governance and the drive for quality improvement in the new NHS in England. BMJ 1998
+- WHO — Evaluating the Quality of Care for Severe Pregnancy Complications: The WHO Near-Miss Approach for Maternal Health, 2011
+- Rishard M, Rajaratne K, Wijemanne U, Senanayake H, Wijesinghe MSD. Improving Quality of Maternity Services in LMIC Settings: An Insight into Facility-based Quality Improvement Projects and Implications for Future Projects. Journal of the South Asian Federation of Obstetrics and Gynaecology, 2024
+- Rishard M, Riyal H, Rajaratne K, Ranaweera P, Nissanka NAKAI, Karawita UG, Wijesinghe MSD, Senanayake H, Lazzerini M. Enhancing postpartum hemorrhage management in Sri Lanka: A pilot study to assess the impact and appropriateness, acceptability, and feasibility of a locally co-created quality improvement intervention. International Journal of Gynecology & Obstetrics [VERIFY exact publication year — manuscript shows accepted December 2025]
+- Rishard M, Rajaratne K, Jayasingha K, Senanayake H, Wijesinghe MSD. Cocreation and codesign in maternal health: processes, outcomes and implementation challenges. BMJ Quality & Safety, online first [VERIFY exact publication year]
+- PGIM Prospectus — MD and Board Certification in Obstetrics & Gynaecology, 2017 (Standards, Audits and Clinical Governance competency domain; reflective practice framework)
+
+### FLAGS
+- [VERIFY] Exact year of the Bristol Royal Infirmary Inquiry/Kennedy Report — the case and its findings are described from the local lecture material, not from the original inquiry document.
+- [VERIFY] Final published year/volume/issue of the Rishard et al. IJGO postpartum haemorrhage pilot study — the uploaded slide shows "Accepted: 14 December 2025," suggesting a 2026 publication; confirm before citing an exact year in an exam answer.
+- [VERIFY] Final published year/volume/issue of the Rishard et al. BMJ Quality & Safety cocreation/codesign systematic review — shown as "Online First" in the uploaded slide with no visible date.
+- [SLCOG-CHECK] Whether SLCOG has issued its own specific clinical governance/audit guidance distinct from the PGIM curriculum framework and the departmental teaching material used here.
