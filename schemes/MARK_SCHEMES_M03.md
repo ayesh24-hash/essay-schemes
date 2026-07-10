@@ -307,3 +307,199 @@ calibration: Distinction-level answers cite at least one of the locally generate
 - [VERIFY] Final published year/volume/issue of the Rishard et al. IJGO postpartum haemorrhage pilot study — the uploaded slide shows "Accepted: 14 December 2025," suggesting a 2026 publication; confirm before citing an exact year in an exam answer.
 - [VERIFY] Final published year/volume/issue of the Rishard et al. BMJ Quality & Safety cocreation/codesign systematic review — shown as "Online First" in the uploaded slide with no visible date.
 - [SLCOG-CHECK] Whether SLCOG has issued its own specific clinical governance/audit guidance distinct from the PGIM curriculum framework and the departmental teaching material used here.
+
+## SCHEME_ID: M03-Q4
+- topic: Cervical cancer — diagnosis, staging, prevention, WHO elimination
+- subject: GYN
+- questionType: SEQ
+- totalMarks: 20
+- rawMarks: 100
+- schemeVersion: 1.0
+
+### QUESTION
+A 45-year-old para 3 woman is referred with an offensive blood-stained vaginal discharge and postcoital bleeding for 3 months. Speculum examination reveals an irregular, friable growth on the cervix.
+
+4.1. Describe how you would establish the diagnosis and stage of the disease. (30 marks)
+4.2. Outline the principles of management of early-stage cervical cancer. (30 marks)
+4.3. Discuss the components of the cervical cancer prevention and screening programme in Sri Lanka. (25 marks)
+4.4. Outline the World Health Organization strategy for cervical cancer elimination. (15 marks)
+
+### SECTION 4.1 — Establishing the diagnosis and stage (30 raw → 6.0 scaled)
+model: A clinically visible growth of this kind is biopsied directly for histological confirmation rather than relying on cytology, which has no role once invasive disease is suspected. Following histological confirmation, the 2018 FIGO staging system is applied — a change from the older purely clinical system in that imaging and/or pathological findings may now be used to allocate stage, including a new stage IIIC category for nodal disease. Baseline assessment combines careful clinical examination (ideally under anaesthesia) with cross-sectional imaging (MRI pelvis, CT chest/abdomen or PET-CT) and relevant bloods, with the stage and findings then discussed at a gynaecological-oncology multidisciplinary team meeting.
+points:
+- [3] Punch/wedge biopsy of the visible lesion for histological confirmation is mandatory — cytology (Pap smear) has no diagnostic role once invasive cancer is clinically suspected | Standard oncological practice, RCOG/BGCS guidance [VERIFY]
+- [2] Examination under anaesthesia may be used to assess vaginal/parametrial extension and tumour size where clinical examination alone is inadequate | Standard oncological practice [VERIFY]
+- [2] Full clinical examination including bimanual and rectovaginal examination to assess parametrial and pelvic sidewall involvement | Standard oncological practice [VERIFY]
+- [3] FIGO staging system was revised in 2018, allowing the use of imaging and/or pathological findings (in addition to clinical examination) to allocate the stage | <cite index="18-1">FIGO Committee for Gynecologic Oncology, 2018 revision (Bhatla et al., Int J Gynecol Obstet 2019)</cite>
+- [2] Stage IB is now subdivided by tumour size on imaging/pathology: IB1 <2 cm, IB2 2–4 cm, IB3 ≥4 cm | <cite index="20-1">FIGO 2018 staging system</cite>
+- [3] A new stage IIIC category was introduced for regional lymph-node metastasis — IIIC1 for pelvic nodes, IIIC2 for para-aortic nodes, with a suffix denoting whether nodal status was confirmed by imaging (r) or pathology (p) | <cite index="18-1">FIGO 2018 revision; imaging/pathology findings must be documented with the modality used, and the lower stage assigned when in doubt</cite>
+- [2] The 2018 system is more closely aligned with TNM classification and was adopted for UK practice from 1 January 2020 | <cite index="17-1">British Gynaecological Cancer Society/BAGP guidance on 2018 FIGO staging</cite>
+- [3] Cross-sectional imaging — MRI pelvis is the modality of choice for local tumour extent (parametrial/vaginal/bladder/rectal involvement) | Standard oncological practice / NICE NG12/RCOG-BGCS [VERIFY]
+- [2] CT chest/abdomen or whole-body PET-CT to assess nodal and distant metastatic disease | Standard oncological practice [VERIFY]
+- [1] Baseline bloods — full blood count, renal function, liver function | Standard oncological practice [VERIFY]
+- [1] Examination of the urinary tract (cystoscopy) or rectum (proctoscopy) if bladder/rectal involvement is clinically suspected | Standard oncological practice [VERIFY]
+- [2] Histological type (squamous cell carcinoma vs adenocarcinoma vs other) and grade documented, as these influence prognosis and treatment planning | Standard oncological practice [VERIFY]
+- [2] Case discussed at a specialist gynaecological-oncology multidisciplinary team meeting before any treatment decision is made | Standard oncological practice / RCOG-BGCS [VERIFY]
+- [2] HIV testing offered, given the association between HPV-related disease progression and immunosuppression | Best practice [VERIFY]
+calibration: Must-have safety points — histological confirmation by biopsy (never treat on clinical appearance alone), explicit statement that the 2018 FIGO system now permits imaging/pathological (not only clinical) staging, and the new IIIC nodal category with the r/p suffix convention. Figures that must be exact: IB1 <2 cm / IB2 2–4 cm / IB3 ≥4 cm; IIIC1 = pelvic nodes, IIIC2 = para-aortic nodes. Common omissions: candidates often describe only the older purely clinical FIGO system, omit the r/p imaging-pathology suffix convention, or forget MDT discussion before treatment.
+
+### SECTION 4.2 — Principles of management of early-stage cervical cancer (30 raw → 6.0 scaled)
+model: Early-stage disease (broadly FIGO IA–IB2, i.e. clinically confined to the cervix and amenable to surgery) is managed with a fertility-sparing or radical surgical approach depending on tumour size, stage and the woman's fertility wishes, while bulkier or node-positive early disease is treated with primary chemoradiation instead of surgery to avoid combining both modalities. Radical hysterectomy with pelvic lymphadenectomy (or sentinel lymph node biopsy) is the standard surgical approach for IB1/IB2 disease, with treatment individualised via MDT and all women counselled on fertility, sexual function and long-term morbidity before treatment begins.
+points:
+- [2] Stage IA1 without lymphovascular space invasion — simple (extrafascial) hysterectomy, or cone biopsy with clear margins if fertility preservation is desired | Standard oncological practice [VERIFY]
+- [2] Stage IA1 with LVSI, or IA2 — pelvic lymph node assessment (sentinel node biopsy or full lymphadenectomy) in addition to a simple or modified radical hysterectomy/trachelectomy | Standard oncological practice [VERIFY]
+- [3] Stage IB1/IB2 (tumour confined to cervix, <4 cm) — radical hysterectomy (Wertheim's) with bilateral pelvic lymphadenectomy is standard treatment in operable, fit women | Standard oncological practice [VERIFY]
+- [2] Radical trachelectomy with pelvic lymphadenectomy as a fertility-sparing alternative for selected women with small (generally <2 cm) IB1 tumours who strongly desire fertility | Standard oncological practice [VERIFY]
+- [2] Sentinel lymph node biopsy increasingly used as an alternative to full pelvic lymphadenectomy in early-stage disease, reducing lymphoedema risk | Standard oncological practice [VERIFY]
+- [2] Bulky IB3 or locally advanced disease (stage IB3 and above) is generally treated with primary chemoradiation rather than surgery, since combining radical surgery and radiotherapy substantially increases morbidity | Standard oncological practice [VERIFY]
+- [2] Radical (chemo)radiotherapy is an alternative to surgery in early-stage disease when a woman is medically unfit for surgery, with broadly comparable oncological outcomes | Standard oncological practice [VERIFY]
+- [2] Adjuvant (chemo)radiotherapy given post-operatively for adverse pathological features — positive margins, parametrial involvement, or lymph-node metastasis (Peters' criteria), or combinations of intermediate-risk factors (Sedlis criteria) | Standard oncological practice [VERIFY]
+- [2] Ovarian conservation (with transposition out of the radiotherapy field if adjuvant radiotherapy is anticipated) considered in pre-menopausal women with squamous carcinoma | Standard oncological practice [VERIFY]
+- [2] Nerve-sparing radical hysterectomy technique used where feasible to reduce bladder, bowel and sexual dysfunction | Standard oncological practice [VERIFY]
+- [2] Pre-treatment counselling on fertility preservation options, and referral to fertility services where relevant | Standard oncological practice [VERIFY]
+- [2] Pre-treatment counselling on sexual function, menopause (if ovaries removed/irradiated), and psychological support | Standard oncological practice [VERIFY]
+- [2] Vaginal vault brachytherapy boost as part of radical radiotherapy protocols for cervical cancer | Standard oncological practice [VERIFY]
+- [2] Treatment plan individualised and agreed at gynaecological-oncology MDT, factoring in stage, histology, fertility wishes, comorbidity and patient preference | Standard oncological practice [VERIFY]
+- [1] Regular follow-up post-treatment for recurrence surveillance and management of treatment-related morbidity | Standard oncological practice [VERIFY]
+calibration: Must-have safety points — the size/stage cut-off distinguishing surgical from primary chemoradiation approaches, radical hysterectomy with lymph-node assessment as the surgical standard for IB1/IB2, and that combining radical surgery with adjuvant radiotherapy should be avoided where possible because of cumulative morbidity. Common omissions: candidates omit fertility-sparing trachelectomy as an option, forget ovarian transposition/conservation, or fail to distinguish adjuvant indications (positive margins/nodes/parametrium) from primary treatment choice.
+
+### SECTION 4.3 — Cervical cancer prevention and screening programme in Sri Lanka (25 raw → 5.0 scaled)
+model: Sri Lanka's national programme combines primary prevention through school-based HPV vaccination with secondary prevention through opportunistic and organised Pap-smear screening delivered via the Well Woman Programme, run by the Family Health Bureau through a nationwide network of Well Woman Clinics staffed with support from public health midwives.
+points:
+- [3] Population-based national cervical cancer screening programme has existed since 1996–1998, run through the Well Woman Programme of the Family Health Bureau, Ministry of Health | <cite index="21-1">Cervical cancer screening by Pap test established as a national programme in Sri Lanka in 1998; delivered through the Well Woman Programme and the Family Health Bureau, Ministry of Health Sri Lanka</cite> [SLCOG-CHECK]
+- [2] Screening delivered through a nationwide network of over 800 Well Woman Clinics at MOH (primary care) level | <cite index="21-1">Sri Lanka has implemented the Well Women Programme at primary health care level through a network of more than 800 well woman clinics</cite> [SLCOG-CHECK]
+- [3] Conventional Pap smear cytology is the primary screening test currently used, offered free of charge to all eligible women through government MOH clinics | <cite index="23-1">Screening for cervical cancer with cytology is provided to all women aged 35 years or older, by well women clinics conducted by MOH units distributed across the island; HPV DNA testing is not yet routinely provided, though pilot feasibility studies have been conducted in some units</cite> [SLCOG-CHECK]
+- [3] Target screening cohorts are women aged 35 and 45 years — a "twice in a lifetime" screening model | <cite index="24-1">Women are screened with Pap smear examination in the national programme of Sri Lanka at the age of 35 years and 45 years</cite> [SLCOG-CHECK]
+- [1] The 45-year cohort was added to the programme in 2018, alongside the pre-existing 35-year cohort | <cite index="26-1">The target population for screening was the 35-year cohort, with the 45-year age cohort added in 2018</cite> [SLCOG-CHECK]
+- [2] Public health midwives play a key role in community-level identification and motivation of eligible women to attend Well Woman Clinics | <cite index="21-1">Public health midwives identify women aged 35–45 years and motivate them to attend the well woman clinics for routine primary and reproductive health care</cite> [SLCOG-CHECK]
+- [2] Women with a positive/abnormal Pap smear are referred on to a consultant gynaecologist for colposcopy and further management | <cite index="21-1">Those with positive Pap test results are referred to a consultant gynaecologist for colposcopy</cite> [SLCOG-CHECK]
+- [3] Primary prevention: HPV vaccination has been part of the national immunisation schedule since 10 July 2017, given free to all girls on completion of 10 years of age (Grade 6), as two doses of quadrivalent vaccine 6 months apart | <cite index="23-1">HPV vaccination was introduced to the national immunization schedule on July 10, 2017; two doses of recombinant quadrivalent vaccine are given 6 months apart to all girls on completion of 10 years of age (grade 6)</cite> [SLCOG-CHECK]
+- [2] HPV DNA testing has been piloted as a potential future primary screening test in Sri Lanka but is not yet part of the routine national programme | <cite index="23-1">HPV DNA testing is not routinely provided, although pilot feasibility studies were conducted in some units</cite> [SLCOG-CHECK]
+- [2] Screening participation/coverage remains a recognised weakness of the programme, historically well below target despite free availability | <cite index="22-1">The screening participation rate for cervical cancer in Sri Lanka is only 50–70%</cite>, and localised studies have shown coverage below 10% in some areas [SLCOG-CHECK]
+- [2] Late-stage presentation remains common, reflecting low screening uptake — a substantial proportion of cases are diagnosed at FIGO stage III or IV | <cite index="23-1">According to data from the National Cancer Registry, nearly 50% of cases are in stage III or IV at diagnosis, with only 10% of cases in stage I</cite> [SLCOG-CHECK]
+calibration: Must-have points — the Well Woman Programme/Family Health Bureau as the institutional framework, the specific 35/45-year twice-lifetime Pap smear model, and the July 2017 introduction of school-based HPV vaccination at age 10. Figures that must be exact: age 35 and 45 for screening; vaccination at completion of 10 years (Grade 6); two doses 6 months apart. Common omissions: candidates describe screening generically without naming the Well Woman Programme, or omit that HPV DNA testing is not yet the primary national screening modality.
+
+### SECTION 4.4 — WHO strategy for cervical cancer elimination (15 raw → 3.0 scaled)
+model: In 2020, WHO Member States adopted the Global Strategy to Accelerate the Elimination of Cervical Cancer as a Public Health Problem — the first elimination strategy for any cancer — built around three measurable 90-70-90 targets to be reached by 2030, with elimination defined as an incidence below a fixed population threshold.
+points:
+- [2] WHO Global Strategy to accelerate the elimination of cervical cancer as a public health problem was launched/endorsed by the World Health Assembly in November 2020, the first-ever global commitment to eliminate a cancer | <cite index="9-1">In 2020, all WHO Member States endorsed the Global Strategy towards the Elimination of Cervical Cancer at the World Health Assembly — the first elimination strategy for a cancer in WHO's history</cite>
+- [2] Elimination is defined as reducing cervical cancer incidence to 4 or fewer cases per 100,000 women per year in every country | <cite index="10-1">The WHO Global strategy defines elimination as reducing the number of new cases annually to 4 or fewer cases per 100,000 women</cite>
+- [3] Target 1 (90): 90% of girls fully vaccinated with HPV vaccine by age 15 years | <cite index="10-1">90% of girls vaccinated with the HPV vaccine by age 15</cite>
+- [3] Target 2 (70): 70% of women screened with a high-performance test by age 35, and again by age 45 | <cite index="10-1">70% of women screened with a high-performance test by 35 years of age and again by 45 years of age</cite>
+- [3] Target 3 (90): 90% of women identified with cervical disease receive treatment — 90% of precancer treated, and 90% of invasive cancer managed | <cite index="6-1">90% of women identified with cervical disease receive treatment (90% of women with precancer treated, and 90% of women with invasive cancer managed)</cite>
+- [2] All three targets are to be met by 2030, to place every country on the pathway to elimination within the following century | <cite index="6-1">These are the 90–70–90 targets that must be met by 2030 for countries to be on the path towards cervical cancer elimination</cite>
+- [2] Modelling predicts that achieving the 90-70-90 targets could avert over 74 million new cases and over 62 million deaths by 2120, with 300,000 deaths averted by 2030 | <cite index="6-1">Median cumulative number of cervical cancer deaths averted will be 300,000 by 2030, over 14 million by 2070, and over 62 million by 2120, averting more than 74 million new cases of cervical cancer</cite>
+calibration: Must-have points — the exact 90-70-90 figures correctly matched to vaccination/screening/treatment respectively, the 2030 target year, and the ≤4/100,000 elimination threshold. Common omission: candidates recall "90-70-90" as a slogan but transpose the figures (e.g. attaching 70% to vaccination) or omit the specific screening ages (35 and 45) and the 2030 deadline.
+
+### GUIDELINES USED
+- FIGO 2018 revised staging system for carcinoma of the cervix uteri | Bhatla et al., Int J Gynecol Obstet 2019, adopted for UK practice from 1 January 2020 (BGCS/BAGP)
+- WHO Global Strategy to Accelerate the Elimination of Cervical Cancer as a Public Health Problem | World Health Assembly, 17 November 2020
+- Sri Lanka Ministry of Health / Family Health Bureau — Well Woman Programme (national cervical cancer screening) | current programme structure, per published reviews 2019–2023 [SLCOG-CHECK]
+- Sri Lanka national HPV immunisation schedule | introduced 10 July 2017
+- Standard oncological practice for surgical/radiotherapy management of early-stage cervical cancer — RCOG/British Gynaecological Cancer Society framework | [VERIFY — no primary RCOG/BGCS cervical cancer management guideline document was uploaded for this scheme]
+
+### FLAGS
+- [VERIFY] Section 4.1 and 4.2 points marked "Standard oncological practice [VERIFY]" are built from general gynaecological-oncology knowledge, not from an uploaded primary guideline document. Per this project's standing principle, please upload the specific RCOG/BGCS (or equivalent) cervical cancer management guideline so these sections can be rebuilt with exact recommendation-level citations before this scheme is frozen.
+- [SLCOG-CHECK] All Section 4.3 points on the Sri Lankan Well Woman Programme are drawn from published secondary-literature descriptions of the national programme (searched July 2026), not from an uploaded SLCOG/FHB primary source. Please cross-check against current FHB circulars for exact current screening intervals, target coverage, and any recent shift toward HPV-based primary screening, as this is an active area of policy change.
+- [SLCOG-CHECK] Sri Lanka screening-coverage figures cited (34.6–61.6% at various years; 50–70% participation; <10% in some district studies) are inconsistent across sources — flagged for editorial reconciliation rather than presented as a single current figure.
+- No RCOG Green-top Guideline specifically on cervical cancer management currently exists (management is generally covered via NICE NG12/local cancer-network protocols and BGCS guidance) — flagged so the group is aware this section cannot be anchored to a single RCOG GTG number, unlike other schemes in this library.
+
+
+
+## SCHEME_ID: M03-Q6
+- topic: Tubal factor subfertility / IVF
+- subject: GYN
+- questionType: SEQ
+- totalMarks: 20
+- rawMarks: 100
+- schemeVersion: 1.0
+
+### QUESTION
+A 29-year-old woman presents with 3 years of primary subfertility. Her partner's semen analysis is normal and she has regular menstrual cycles. She gives a past history of treated pelvic inflammatory disease.
+
+6.1. Justify the investigations you would perform to assess tubal patency and function. **(25 marks)**
+
+6.2. Discuss the management options for tubal factor subfertility. **(30 marks)**
+
+6.3. Outline the principles of in-vitro fertilisation for this couple. **(25 marks)**
+
+6.4. Describe ovarian hyperstimulation syndrome and its prevention. **(20 marks)**
+
+### SECTION 6.1 — Investigations to assess tubal patency and function (25 raw → 5.0 scaled)
+model: Given her history of treated PID (a known risk factor and comorbidity for tubal disease), laparoscopy and dye testing is the investigation of choice rather than HSG, as it allows simultaneous assessment of other pelvic pathology such as adhesions or endometriosis. Baseline ovulatory and infective screening should still be completed despite regular cycles and a normal partner semen analysis.
+points:
+- [3] History of treated PID is a recognised risk factor for tubal damage, justifying formal tubal assessment | NICE NG257 (2026), 1.18.15
+- [4] Because she has a known comorbidity (treated PID), laparoscopy and dye test is the investigation of choice rather than HSG | NICE NG257 (2026), 1.18.15
+- [3] Laparoscopy and dye allows concurrent assessment of other pelvic pathology (adhesions, endometriosis, hydrosalpinx) | NICE NG257 (2026), 1.18.15
+- [2] HSG is reserved as first-line screening for women without known comorbidities | NICE NG257 (2026), 1.18.13
+- [2] Hysterosalpingo-contrast-ultrasonography (HyCoSy) is an alternative to HSG where expertise is available, in low-risk women | NICE NG257 (2026), 1.18.14
+- [2] Screen for Chlamydia trachomatis before any uterine instrumentation | NICE NG257 (2026), 1.22.1
+- [2] If chlamydia positive, refer for treatment and contact tracing; consider prophylactic antibiotics if screening not done before instrumentation | NICE NG257 (2026), 1.22.1–1.22.3
+- [2] Confirm ovulation with mid-luteal (day 21) serum progesterone even with regular cycles | NICE NG257 (2026), 1.18.7
+- [2] Confirm partner's semen analysis meets WHO reference values; repeat only if doubt or gross abnormality | NICE NG257 (2026)/WHO laboratory manual reference values
+- [2] Do not use post-coital cervical mucus testing — no predictive value for pregnancy | NICE NG257 (2026), 1.18.1
+- [1] Reserve hysteroscopy for cases with clinically suspected uterine/endometrial abnormality | NICE NG257 (2026), 1.18.16
+calibration: Must-have: recognising PID history changes the first-line test from HSG to laparoscopy and dye — this is the key safety-critical/discriminating point examiners look for. Common omission: candidates default to "HSG first" without accounting for the comorbidity, or forget chlamydia screening before instrumentation.
+
+### SECTION 6.2 — Management options for tubal factor subfertility (30 raw → 6.0 scaled)
+model: Management depends on the severity of tubal disease found at laparoscopy. Mild disease may be managed with tubal surgery in expert centres, while moderate-to-severe disease or hydrosalpinx is best managed with IVF, with surgical treatment of any hydrosalpinx performed first to optimise IVF success. Counselling on ectopic pregnancy risk and psychological support should run throughout.
+points:
+- [3] Tubal surgery may be considered for mild tubal disease, in centres with appropriate expertise | NICE NG257 (2026), 1.34.1
+- [2] Tubal surgery is not generally effective for moderate/severe tubal disease — IVF is preferred | NICE NG257 (2026) committee rationale [VERIFY]
+- [3] Fallopian tube catheterisation (hysteroscopic/radiological) is an option for proximal tubal obstruction, after discussing risks/benefits versus IVF | NICE NG257 (2026), 1.34.2
+- [3] If hydrosalpinx is identified, offer laparoscopic salpingectomy or tubal occlusion before IVF, as this improves clinical pregnancy rates | NICE NG257 (2026), 1.34.3
+- [2] Consider transvaginal aspiration of hydrosalpinx close to oocyte retrieval if laparoscopic surgery carries high risk | NICE NG257 (2026), 1.34.4
+- [3] IVF is the definitive treatment of choice for significant tubal factor infertility, bypassing the damaged tube(s) | NICE NG257 (2026) general principle [VERIFY]
+- [2] Counsel on the elevated risk of ectopic pregnancy with residual tubal damage in any future spontaneous conception | RCOG Green-top Guideline No. 21 — Ectopic Pregnancy and Miscarriage (latest edition) [VERIFY]
+- [2] Offer counselling before, during and after investigation/treatment, provided by someone not directly involved in her care | NICE NG257 (2026), 1.2.3–1.2.5
+- [3] Provide both partners with accessible, evidence-based information to support shared, informed decision-making | NICE NG257 (2026), 1.1.1–1.1.2
+- [3] IUI is not an appropriate first-line option here given confirmed/suspected tubal pathology; it is reserved for patent-tube scenarios | NICE NG257 (2026), 1.37–1.38 (context)
+- [2] Optimise modifiable lifestyle factors (BMI, smoking, alcohol) before treatment to improve outcomes | NICE NG257 (2026), 1.6–1.9
+- [2] Follow local SLCOG referral pathway/standards for tubal surgery and IVF access in Sri Lanka | SLCOG guideline (latest edition) [SLCOG-CHECK]
+calibration: Must-have: staging management by severity (mild → surgery in expert centres; hydrosalpinx/moderate-severe → treat hydrosalpinx then IVF). Figures to get right: hydrosalpinx must be surgically addressed before IVF, not after. Common omission: forgetting ectopic pregnancy counselling and psychological support.
+
+### SECTION 6.3 — Principles of IVF for this couple (25 raw → 5.0 scaled)
+model: This couple meets NHS/standard access criteria for IVF, as she has a diagnosed cause of infertility (tubal factor) for which surgery is unsuitable or has failed, and is under 40. She should be offered an initial 3 full cycles, with pre-treatment screening, single embryo transfer in the first cycle, and cryopreservation of surplus good-quality embryos.
+points:
+- [3] She meets criteria for IVF: diagnosed cause of infertility (tubal factor) for which other treatments are unsuitable/have failed | NICE NG257 (2026), 1.39.3
+- [2] Being under 40 years, she should be offered an initial 3 full cycles of IVF | NICE NG257 (2026), 1.39.6
+- [2] A "full cycle" = one episode of ovarian stimulation plus transfer of all resultant fresh and frozen embryos | NICE NG257 (2026), 1.39.4
+- [2] Take ovarian reserve (AMH or antral follicle count, not FSH) into account when counselling on IVF prognosis | NICE NG257 (2026), 1.18.4–1.18.5, 1.39.2
+- [2] Discuss risks/benefits of IVF in line with current regulatory/consent standards (HFEA Code of Practice / local SLCOG equivalent) | NICE NG257 (2026), 1.39.1; SLCOG (latest edition) [SLCOG-CHECK]
+- [2] Screen both partners for HIV, hepatitis B and hepatitis C before treatment | NICE NG257 (2026), 1.19.1
+- [2] Do not offer endometrial scratch or screening hysteroscopy as pre-treatment "add-ons" — no proven benefit | NICE NG257 (2026), 1.40.1–1.40.2
+- [3] Use single embryo transfer in the first full cycle, as she is under 37 years, to minimise multiple-pregnancy risk | NICE NG257 (2026), 1.49.6
+- [2] Never transfer more than 2 embryos in any cycle; discuss multiple pregnancy risk if double transfer is considered | NICE NG257 (2026), 1.49.8, 1.49.10
+- [2] Offer cryopreservation of remaining good-quality embryos after transfer | NICE NG257 (2026), 1.49.11
+- [3] ICSI is not indicated as semen parameters are normal; reserve for failed/very low fertilisation on a previous IVF cycle | NICE NG257 (2026), 1.50.2–1.50.3
+calibration: Must-have: correctly stating she is eligible for 3 full cycles under 40, and that single embryo transfer is default in cycle 1 given her age. Common omission: forgetting viral screening, or wrongly recommending ICSI when there is no male factor indication.
+
+### SECTION 6.4 — Ovarian hyperstimulation syndrome (OHSS) and its prevention (20 raw → 4.0 scaled)
+model: OHSS is an iatrogenic complication of ovarian stimulation, characterised by cystic ovarian enlargement and a systemic increase in vascular permeability causing third-space fluid shift, ascites and, in severe cases, haemoconcentration and thromboembolism. Prevention relies on identifying at-risk women, individualising stimulation protocols (GnRH antagonist with agonist trigger), and considering an elective freeze-all strategy in high-risk cycles.
+points:
+- [2] OHSS is defined as an exaggerated ovarian response to stimulation causing enlarged ovaries and increased capillary permeability with fluid shift into the third space | RCOG Green-top Guideline No. 5 — Ovarian Hyperstimulation Syndrome (latest edition) [VERIFY]
+- [2] Classify as mild, moderate, or severe/critical based on ovarian size, presence of ascites, and haemoconcentration/organ dysfunction | RCOG Green-top Guideline No. 5 (latest edition) [VERIFY]
+- [2] Key risk factors include young age, low BMI, PCOS, high antral follicle count/AMH, and previous OHSS | RCOG Green-top Guideline No. 5 (latest edition) [VERIFY]
+- [3] Clinics providing gonadotrophin stimulation must have protocols for preventing, diagnosing and managing OHSS | NICE NG257 (2026), 1.46.1
+- [2] Use ultrasound monitoring of follicular number/size throughout stimulation to identify excessive response early | NICE NG257 (2026), 1.33.2
+- [2] Use a GnRH antagonist protocol with GnRH agonist trigger (instead of hCG) in women at high risk | ESHRE Guideline — Ovarian Stimulation for IVF/ICSI (update 2025)
+- [2] Limit gonadotrophin dose and duration to the lowest effective regimen | NICE NG257 (2026), 1.55.4
+- [2] Consider an elective "freeze-all" (segmentation) strategy with deferred frozen embryo transfer in high-risk cycles | ESHRE Guideline — Ovarian Stimulation for IVF/ICSI (update 2025) [VERIFY]
+- [3] Manage established OHSS conservatively (fluid balance, analgesia, thromboprophylaxis) with paracentesis/hospital admission for severe/critical cases | RCOG Green-top Guideline No. 5 (latest edition) [VERIFY]
+calibration: Must-have safety points: recognising OHSS as a preventable, potentially life-threatening complication and naming thromboprophylaxis as a core safety measure in management. Common omission: candidates describe OHSS well but forget prevention strategies (antagonist protocol + agonist trigger, freeze-all), which carry heavy marks here.
+
+### GUIDELINES USED
+- NICE — Fertility problems: assessment and treatment (NG257) | 2026
+- RCOG — Green-top Guideline No. 21, Ectopic Pregnancy and Miscarriage | latest edition [VERIFY]
+- RCOG — Green-top Guideline No. 5, Ovarian Hyperstimulation Syndrome | latest edition [VERIFY]
+- ESHRE — Guideline on Ovarian Stimulation for IVF/ICSI | update 2025
+- WHO — Laboratory Manual for the Examination and Processing of Human Semen | referenced via NICE NG257 (2026)
+- SLCOG — local practice guideline(s) | latest edition [SLCOG-CHECK]
+
+### FLAGS
+- [VERIFY] "Tubal surgery not effective for moderate/severe disease — IVF preferred" (6.2) — stated in NICE NG257 committee rationale but confirm exact current wording/edition.
+- [VERIFY] "IVF as definitive treatment bypassing tubal damage" (6.2) — general principle, not tied to a specific numbered NICE recommendation; confirm if a more specific citation is preferred.
+- [VERIFY] Ectopic pregnancy risk counselling citation (6.2) — confirm current RCOG Green-top number/edition for ectopic pregnancy (No. 21 is the historical number; verify it hasn't been superseded/renumbered).
+- [VERIFY] All RCOG Green-top No. 5 (OHSS) points (6.4) — this guideline's currency should be checked; confirm latest edition year before freezing.
+- [VERIFY] ESHRE freeze-all/segmentation point (6.4) — confirm this remains an explicit recommendation in the 2025 update rather than general practice.
+- [SLCOG-CHECK] Local SLCOG referral pathway for tubal surgery/IVF access (6.2) and consent standards (6.3) — relying on general knowledge, not the uploaded SLCOG materials; verify against the actual SLCOG document before freezing.
