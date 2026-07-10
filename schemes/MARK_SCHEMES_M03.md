@@ -328,38 +328,40 @@ A 45-year-old para 3 woman is referred with an offensive blood-stained vaginal d
 model: A clinically visible growth of this kind is biopsied directly for histological confirmation rather than relying on cytology, which has no role once invasive disease is suspected. Following histological confirmation, the 2018 FIGO staging system is applied — a change from the older purely clinical system in that imaging and/or pathological findings may now be used to allocate stage, including a new stage IIIC category for nodal disease. Baseline assessment combines careful clinical examination (ideally under anaesthesia) with cross-sectional imaging (MRI pelvis, CT chest/abdomen or PET-CT) and relevant bloods, with the stage and findings then discussed at a gynaecological-oncology multidisciplinary team meeting.
 points:
 - [3] Punch/wedge biopsy of the visible lesion for histological confirmation is mandatory — cytology (Pap smear) has no diagnostic role once invasive cancer is clinically suspected | Standard oncological practice, RCOG/BGCS guidance [VERIFY]
-- [2] Examination under anaesthesia may be used to assess vaginal/parametrial extension and tumour size where clinical examination alone is inadequate | Standard oncological practice [VERIFY]
-- [2] Full clinical examination including bimanual and rectovaginal examination to assess parametrial and pelvic sidewall involvement | Standard oncological practice [VERIFY]
+- [3] Examination under anaesthesia may be used to assess vaginal/parametrial extension and tumour size where clinical examination alone is inadequate | Standard oncological practice [VERIFY]
+- [3] Full clinical examination including bimanual and rectovaginal examination to assess parametrial and pelvic sidewall involvement | Standard oncological practice [VERIFY]
 - [3] FIGO staging system was revised in 2018, allowing the use of imaging and/or pathological findings (in addition to clinical examination) to allocate the stage | <cite index="18-1">FIGO Committee for Gynecologic Oncology, 2018 revision (Bhatla et al., Int J Gynecol Obstet 2019)</cite>
-- [2] Stage IB is now subdivided by tumour size on imaging/pathology: IB1 <2 cm, IB2 2–4 cm, IB3 ≥4 cm | <cite index="20-1">FIGO 2018 staging system</cite>
-- [3] A new stage IIIC category was introduced for regional lymph-node metastasis — IIIC1 for pelvic nodes, IIIC2 for para-aortic nodes, with a suffix denoting whether nodal status was confirmed by imaging (r) or pathology (p) | <cite index="18-1">FIGO 2018 revision; imaging/pathology findings must be documented with the modality used, and the lower stage assigned when in doubt</cite>
-- [2] The 2018 system is more closely aligned with TNM classification and was adopted for UK practice from 1 January 2020 | <cite index="17-1">British Gynaecological Cancer Society/BAGP guidance on 2018 FIGO staging</cite>
 - [3] Cross-sectional imaging — MRI pelvis is the modality of choice for local tumour extent (parametrial/vaginal/bladder/rectal involvement) | Standard oncological practice / NICE NG12/RCOG-BGCS [VERIFY]
-- [2] CT chest/abdomen or whole-body PET-CT to assess nodal and distant metastatic disease | Standard oncological practice [VERIFY]
-- [1] Baseline bloods — full blood count, renal function, liver function | Standard oncological practice [VERIFY]
-- [1] Examination of the urinary tract (cystoscopy) or rectum (proctoscopy) if bladder/rectal involvement is clinically suspected | Standard oncological practice [VERIFY]
+- [3] CT chest abdomen pelvis
+- [3] History and examination of the immune supression,
+- [3] Post coital bleeding risk factors, risk beahviours, previous STI history
+- [2] Baseline bloods — full blood count, renal function, liver function | Standard oncological practice [VERIFY]
+- [3] Examination of the urinary tract (cystoscopy) or rectum (proctoscopy) if bladder/rectal involvement is clinically suspected | Standard oncological practice [VERIFY]
 - [2] Histological type (squamous cell carcinoma vs adenocarcinoma vs other) and grade documented, as these influence prognosis and treatment planning | Standard oncological practice [VERIFY]
-- [2] Case discussed at a specialist gynaecological-oncology multidisciplinary team meeting before any treatment decision is made | Standard oncological practice / RCOG-BGCS [VERIFY]
-- [2] HIV testing offered, given the association between HPV-related disease progression and immunosuppression | Best practice [VERIFY]
+
 calibration: Must-have safety points — histological confirmation by biopsy (never treat on clinical appearance alone), explicit statement that the 2018 FIGO system now permits imaging/pathological (not only clinical) staging, and the new IIIC nodal category with the r/p suffix convention. Figures that must be exact: IB1 <2 cm / IB2 2–4 cm / IB3 ≥4 cm; IIIC1 = pelvic nodes, IIIC2 = para-aortic nodes. Common omissions: candidates often describe only the older purely clinical FIGO system, omit the r/p imaging-pathology suffix convention, or forget MDT discussion before treatment.
 
 ### SECTION 4.2 — Principles of management of early-stage cervical cancer (30 raw → 6.0 scaled)
 model: Early-stage disease (broadly FIGO IA–IB2, i.e. clinically confined to the cervix and amenable to surgery) is managed with a fertility-sparing or radical surgical approach depending on tumour size, stage and the woman's fertility wishes, while bulkier or node-positive early disease is treated with primary chemoradiation instead of surgery to avoid combining both modalities. Radical hysterectomy with pelvic lymphadenectomy (or sentinel lymph node biopsy) is the standard surgical approach for IB1/IB2 disease, with treatment individualised via MDT and all women counselled on fertility, sexual function and long-term morbidity before treatment begins.
 points:
+- [2] early stage cervical cancer figo 1A to 1BII
+- [2] mangement depend on the age, tumor stage, tumor grade, patient factors, lymphovascular space involvement, lymph node involvement.
+- [2] laparoscopy is not a modality
 - [2] Stage IA1 without lymphovascular space invasion — simple (extrafascial) hysterectomy, or cone biopsy with clear margins if fertility preservation is desired | Standard oncological practice [VERIFY]
 - [2] Stage IA1 with LVSI, or IA2 — pelvic lymph node assessment (sentinel node biopsy or full lymphadenectomy) in addition to a simple or modified radical hysterectomy/trachelectomy | Standard oncological practice [VERIFY]
-- [3] Stage IB1/IB2 (tumour confined to cervix, <4 cm) — radical hysterectomy (Wertheim's) with bilateral pelvic lymphadenectomy is standard treatment in operable, fit women | Standard oncological practice [VERIFY]
+- [2] Stage IB1/IB2 (tumour confined to cervix, <4 cm) — radical hysterectomy (Wertheim's) with bilateral pelvic lymphadenectomy is standard treatment in operable, fit women | Standard oncological practice [VERIFY]
 - [2] Radical trachelectomy with pelvic lymphadenectomy as a fertility-sparing alternative for selected women with small (generally <2 cm) IB1 tumours who strongly desire fertility | Standard oncological practice [VERIFY]
 - [2] Sentinel lymph node biopsy increasingly used as an alternative to full pelvic lymphadenectomy in early-stage disease, reducing lymphoedema risk | Standard oncological practice [VERIFY]
 - [2] Bulky IB3 or locally advanced disease (stage IB3 and above) is generally treated with primary chemoradiation rather than surgery, since combining radical surgery and radiotherapy substantially increases morbidity | Standard oncological practice [VERIFY]
+- [2] lymph node assessment before doing tachylectomy
 - [2] Radical (chemo)radiotherapy is an alternative to surgery in early-stage disease when a woman is medically unfit for surgery, with broadly comparable oncological outcomes | Standard oncological practice [VERIFY]
 - [2] Adjuvant (chemo)radiotherapy given post-operatively for adverse pathological features — positive margins, parametrial involvement, or lymph-node metastasis (Peters' criteria), or combinations of intermediate-risk factors (Sedlis criteria) | Standard oncological practice [VERIFY]
 - [2] Ovarian conservation (with transposition out of the radiotherapy field if adjuvant radiotherapy is anticipated) considered in pre-menopausal women with squamous carcinoma | Standard oncological practice [VERIFY]
 - [2] Nerve-sparing radical hysterectomy technique used where feasible to reduce bladder, bowel and sexual dysfunction | Standard oncological practice [VERIFY]
-- [2] Pre-treatment counselling on fertility preservation options, and referral to fertility services where relevant | Standard oncological practice [VERIFY]
+- [1] Pre-treatment counselling on fertility preservation options, and referral to fertility services where relevant | Standard oncological practice [VERIFY]
 - [2] Pre-treatment counselling on sexual function, menopause (if ovaries removed/irradiated), and psychological support | Standard oncological practice [VERIFY]
 - [2] Vaginal vault brachytherapy boost as part of radical radiotherapy protocols for cervical cancer | Standard oncological practice [VERIFY]
-- [2] Treatment plan individualised and agreed at gynaecological-oncology MDT, factoring in stage, histology, fertility wishes, comorbidity and patient preference | Standard oncological practice [VERIFY]
+- [1] Treatment plan individualised and agreed at gynaecological-oncology MDT, factoring in stage, histology, fertility wishes, comorbidity and patient preference | Standard oncological practice [VERIFY]
 - [1] Regular follow-up post-treatment for recurrence surveillance and management of treatment-related morbidity | Standard oncological practice [VERIFY]
 calibration: Must-have safety points — the size/stage cut-off distinguishing surgical from primary chemoradiation approaches, radical hysterectomy with lymph-node assessment as the surgical standard for IB1/IB2, and that combining radical surgery with adjuvant radiotherapy should be avoided where possible because of cumulative morbidity. Common omissions: candidates omit fertility-sparing trachelectomy as an option, forget ovarian transposition/conservation, or fail to distinguish adjuvant indications (positive margins/nodes/parametrium) from primary treatment choice.
 
@@ -367,14 +369,13 @@ calibration: Must-have safety points — the size/stage cut-off distinguishing s
 model: Sri Lanka's national programme combines primary prevention through school-based HPV vaccination with secondary prevention through opportunistic and organised Pap-smear screening delivered via the Well Woman Programme, run by the Family Health Bureau through a nationwide network of Well Woman Clinics staffed with support from public health midwives.
 points:
 - [3] Population-based national cervical cancer screening programme has existed since 1996–1998, run through the Well Woman Programme of the Family Health Bureau, Ministry of Health | <cite index="21-1">Cervical cancer screening by Pap test established as a national programme in Sri Lanka in 1998; delivered through the Well Woman Programme and the Family Health Bureau, Ministry of Health Sri Lanka</cite> [SLCOG-CHECK]
-- [2] Screening delivered through a nationwide network of over 800 Well Woman Clinics at MOH (primary care) level | <cite index="21-1">Sri Lanka has implemented the Well Women Programme at primary health care level through a network of more than 800 well woman clinics</cite> [SLCOG-CHECK]
+- [2] Screening delivered through a nationwide network of Well Woman Clinics at MOH (primary care) level | <cite index="21-1">Sri Lanka has implemented the Well Women Programme at primary health care level through a network of more than 800 well woman clinics</cite> [SLCOG-CHECK]
 - [3] Conventional Pap smear cytology is the primary screening test currently used, offered free of charge to all eligible women through government MOH clinics | <cite index="23-1">Screening for cervical cancer with cytology is provided to all women aged 35 years or older, by well women clinics conducted by MOH units distributed across the island; HPV DNA testing is not yet routinely provided, though pilot feasibility studies have been conducted in some units</cite> [SLCOG-CHECK]
 - [3] Target screening cohorts are women aged 35 and 45 years — a "twice in a lifetime" screening model | <cite index="24-1">Women are screened with Pap smear examination in the national programme of Sri Lanka at the age of 35 years and 45 years</cite> [SLCOG-CHECK]
-- [1] The 45-year cohort was added to the programme in 2018, alongside the pre-existing 35-year cohort | <cite index="26-1">The target population for screening was the 35-year cohort, with the 45-year age cohort added in 2018</cite> [SLCOG-CHECK]
 - [2] Public health midwives play a key role in community-level identification and motivation of eligible women to attend Well Woman Clinics | <cite index="21-1">Public health midwives identify women aged 35–45 years and motivate them to attend the well woman clinics for routine primary and reproductive health care</cite> [SLCOG-CHECK]
-- [2] Women with a positive/abnormal Pap smear are referred on to a consultant gynaecologist for colposcopy and further management | <cite index="21-1">Those with positive Pap test results are referred to a consultant gynaecologist for colposcopy</cite> [SLCOG-CHECK]
-- [3] Primary prevention: HPV vaccination has been part of the national immunisation schedule since 10 July 2017, given free to all girls on completion of 10 years of age (Grade 6), as two doses of quadrivalent vaccine 6 months apart | <cite index="23-1">HPV vaccination was introduced to the national immunization schedule on July 10, 2017; two doses of recombinant quadrivalent vaccine are given 6 months apart to all girls on completion of 10 years of age (grade 6)</cite> [SLCOG-CHECK]
-- [2] HPV DNA testing has been piloted as a potential future primary screening test in Sri Lanka but is not yet part of the routine national programme | <cite index="23-1">HPV DNA testing is not routinely provided, although pilot feasibility studies were conducted in some units</cite> [SLCOG-CHECK]
+- [3] Women with a positive/abnormal Pap smear are referred on to a consultant gynaecologist for colposcopy and further management | <cite index="21-1">Those with positive Pap test results are referred to a consultant gynaecologist for colposcopy</cite> [SLCOG-CHECK]
+- [3] Primary prevention: HPV vaccination has been part of the national immunisation schedule, given free to all girls on completion of 10 years of age (Grade 6), as two doses of quadrivalent vaccine 6 months apart | <cite index="23-1">HPV vaccination was introduced to the national immunization schedule on July 10, 2017; two doses of recombinant quadrivalent vaccine are given 6 months apart to all girls on completion of 10 years of age (grade 6)</cite> [SLCOG-CHECK]
+- [2] HPV DNA testing has been introduced recently at the goverment sector | <cite index="23-1">HPV DNA testing is not routinely provided, although pilot feasibility studies were conducted in some units</cite> [SLCOG-CHECK]
 - [2] Screening participation/coverage remains a recognised weakness of the programme, historically well below target despite free availability | <cite index="22-1">The screening participation rate for cervical cancer in Sri Lanka is only 50–70%</cite>, and localised studies have shown coverage below 10% in some areas [SLCOG-CHECK]
 - [2] Late-stage presentation remains common, reflecting low screening uptake — a substantial proportion of cases are diagnosed at FIGO stage III or IV | <cite index="23-1">According to data from the National Cancer Registry, nearly 50% of cases are in stage III or IV at diagnosis, with only 10% of cases in stage I</cite> [SLCOG-CHECK]
 calibration: Must-have points — the Well Woman Programme/Family Health Bureau as the institutional framework, the specific 35/45-year twice-lifetime Pap smear model, and the July 2017 introduction of school-based HPV vaccination at age 10. Figures that must be exact: age 35 and 45 for screening; vaccination at completion of 10 years (Grade 6); two doses 6 months apart. Common omissions: candidates describe screening generically without naming the Well Woman Programme, or omit that HPV DNA testing is not yet the primary national screening modality.
@@ -386,9 +387,8 @@ points:
 - [2] Elimination is defined as reducing cervical cancer incidence to 4 or fewer cases per 100,000 women per year in every country | <cite index="10-1">The WHO Global strategy defines elimination as reducing the number of new cases annually to 4 or fewer cases per 100,000 women</cite>
 - [3] Target 1 (90): 90% of girls fully vaccinated with HPV vaccine by age 15 years | <cite index="10-1">90% of girls vaccinated with the HPV vaccine by age 15</cite>
 - [3] Target 2 (70): 70% of women screened with a high-performance test by age 35, and again by age 45 | <cite index="10-1">70% of women screened with a high-performance test by 35 years of age and again by 45 years of age</cite>
-- [3] Target 3 (90): 90% of women identified with cervical disease receive treatment — 90% of precancer treated, and 90% of invasive cancer managed | <cite index="6-1">90% of women identified with cervical disease receive treatment (90% of women with precancer treated, and 90% of women with invasive cancer managed)</cite>
-- [2] All three targets are to be met by 2030, to place every country on the pathway to elimination within the following century | <cite index="6-1">These are the 90–70–90 targets that must be met by 2030 for countries to be on the path towards cervical cancer elimination</cite>
-- [2] Modelling predicts that achieving the 90-70-90 targets could avert over 74 million new cases and over 62 million deaths by 2120, with 300,000 deaths averted by 2030 | <cite index="6-1">Median cumulative number of cervical cancer deaths averted will be 300,000 by 2030, over 14 million by 2070, and over 62 million by 2120, averting more than 74 million new cases of cervical cancer</cite>
+- [4] Target 3 (90): 90% of women identified with cervical disease receive treatment — 90% of precancer treated, and 90% of invasive cancer managed | <cite index="6-1">90% of women identified with cervical disease receive treatment (90% of women with precancer treated, and 90% of women with invasive cancer managed)</cite>
+- [3] All three targets are to be met by 2030, to place every country on the pathway to elimination within the following century | <cite index="6-1">These are the 90–70–90 targets that must be met by 2030 for countries to be on the path towards cervical cancer elimination</cite>
 calibration: Must-have points — the exact 90-70-90 figures correctly matched to vaccination/screening/treatment respectively, the 2030 target year, and the ≤4/100,000 elimination threshold. Common omission: candidates recall "90-70-90" as a slogan but transpose the figures (e.g. attaching 70% to vaccination) or omit the specific screening ages (35 and 45) and the 2030 deadline.
 
 ### GUIDELINES USED
@@ -425,8 +425,7 @@ model: Shoulder dystocia is a vaginal cephalic delivery that requires additional
 points:
 - [3] Definition: a vaginal cephalic delivery that requires additional obstetric manoeuvres to deliver the fetus after the head has delivered and gentle traction has failed | RCOG Green-top Guideline No. 42, 2012
 - [2] An objective definition of head-to-body delivery interval greater than 60 seconds has been proposed, though this is not routinely measured or documented in practice | RCOG GTG42
-- [2] Reported incidence in large series (34,800–267,228 deliveries) is between 0.58% and 0.70% | RCOG GTG42
-- [3] Risk factor present in this woman: a previous baby weighing 4.2 kg suggests a tendency toward larger infants, though this is below the definitive macrosomia cut-off of >4.5 kg used in the guideline | RCOG GTG42, Table 1
+- [3] Risk factor present in this woman: a previous baby weighing 4.2 kg suggests a tendency toward larger infants,
 - [2] No other definitive risk factors are stated in the scenario (no documented diabetes, maternal BMI, induction of labour, oxytocin augmentation, prolonged labour, or assisted vaginal delivery) — the risk factors actually present are therefore limited
 - [3] Full list of pre-labour risk factors: previous shoulder dystocia, macrosomia >4.5 kg, diabetes mellitus, maternal BMI >30 kg/m², induction of labour | RCOG GTG42, Table 1
 - [3] Full list of intrapartum risk factors: prolonged first stage of labour, secondary arrest, prolonged second stage of labour, oxytocin augmentation, assisted vaginal delivery | RCOG GTG42, Table 1
@@ -436,23 +435,20 @@ calibration: Must-have point: the candidate should recognise that this woman has
 ### SECTION 5.2 — Sequential management of shoulder dystocia (40 raw → 8.0 scaled)
 model: Management follows the RCOG systematic algorithm: call for help and clearly state the problem, discourage pushing, and avoid fundal pressure. McRoberts' manoeuvre with suprapubic pressure is performed first; if unsuccessful, internal rotational manoeuvres, delivery of the posterior arm, or the all-fours position are attempted, escalating to consultant-level involvement. Rare, high-morbidity third-line measures (cleidotomy, symphysiotomy, Zavanelli manoeuvre) are reserved for cases resistant to all standard measures.
 points:
-- [3] Call for help immediately: midwifery coordinator/additional experienced midwife, an experienced obstetrician, the neonatal resuscitation team, and an anaesthetist | RCOG GTG42
-- [2] State the problem clearly to the arriving team: "this is shoulder dystocia" | RCOG GTG42
-- [2] Discourage maternal pushing, as this may exacerbate impaction of the shoulders | RCOG GTG42
-- [2] Fundal pressure should never be used — associated with a high neonatal complication rate and risk of uterine rupture | RCOG GTG42
+
 - [3] McRoberts' manoeuvre performed first: lie the woman flat, remove pillows, hyperflex both hips so the thighs lie on the abdomen | RCOG GTG42
 - [2] Routine axial traction is applied to the fetal head to assess release; downward or lateral traction is avoided, as this increases the risk of brachial plexus injury | RCOG GTG42
 - [3] Suprapubic pressure applied together with McRoberts' to improve success, directed downward and laterally just above the symphysis pubis from the side of the fetal back | RCOG GTG42
-- [3] If McRoberts' and suprapubic pressure fail, proceed to internal manoeuvres or the all-fours position | RCOG GTG42
-- [2] For internal manoeuvres, vaginal access is gained posteriorly into the roomier sacral hollow | RCOG GTG42
-- [3] Internal rotational manoeuvres (Woods'/Rubin's screw): pressure applied to the anterior or posterior aspect of the posterior shoulder to rotate the shoulders into the wider oblique diameter | RCOG GTG42
-- [3] Delivery of the posterior arm: grasp the fetal wrist and gently withdraw the posterior arm in a straight line, reducing the effective shoulder diameter | RCOG GTG42
+- [4] If McRoberts' and suprapubic pressure fail, proceed to internal manoeuvres or the all-fours position | RCOG GTG42
+- [3] For internal manoeuvres, vaginal access is gained posteriorly into the roomier sacral hollow | RCOG GTG42
+- [6] Internal rotational manoeuvres (Woods'/Rubin's screw): pressure applied to the anterior or posterior aspect of the posterior shoulder to rotate the shoulders into the wider oblique diameter | RCOG GTG42
+- [4] Delivery of the posterior arm: grasp the fetal wrist and gently withdraw the posterior arm in a straight line, reducing the effective shoulder diameter | RCOG GTG42
 - [2] Episiotomy is considered only to facilitate internal vaginal access for manoeuvres, not because it relieves the bony obstruction itself | RCOG GTG42
-- [2] The all-fours position may be used as an alternative, particularly for a slim, mobile woman without epidural anaesthesia or in a community setting (reported 83% success in one series) | RCOG GTG42
+- [4] The all-fours position may be used as an alternative, particularly for a slim, mobile woman without epidural anaesthesia or in a community setting (reported 83% success in one series) | RCOG GTG42
 - [2] Inform the consultant obstetrician and anaesthetist if progressing beyond first-line manoeuvres | RCOG GTG42, Appendix 2 algorithm
-- [3] If first- and second-line manoeuvres fail, third-line measures (cleidotomy, symphysiotomy, Zavanelli manoeuvre) are considered very carefully, as they are rarely required and carry significant maternal morbidity risk, particularly in inexperienced hands | RCOG GTG42
+- [4] If first- and second-line manoeuvres fail, third-line measures (cleidotomy, symphysiotomy, Zavanelli manoeuvre) are considered very carefully, as they are rarely required and carry significant maternal morbidity risk, particularly in inexperienced hands | RCOG GTG42
 - [2] There is no fixed safe time limit, but hypoxic-ischaemic injury rates are low when the head-to-body delivery interval is under five minutes, so progression through manoeuvres should be efficient and systematic | RCOG GTG42
-- [1] All actions and their timing should be documented on a structured proforma and a clinical incident reporting form completed as part of the immediate response | RCOG GTG42, Appendix 2 algorithm
+- [2] All actions and their timing should be documented on a structured proforma and a clinical incident reporting form completed as part of the immediate response | RCOG GTG42, Appendix 2 algorithm
 calibration: Must-have safety points: calling for help and stating the problem clearly are the first actions and must precede any manoeuvre; fundal pressure and downward/lateral traction must be explicitly stated as contraindicated. A common candidate error is describing manoeuvres out of sequence or omitting the escalation to consultant involvement and third-line measures when first- and second-line manoeuvres fail.
 
 ### SECTION 5.3 — Maternal and neonatal complications (25 raw → 5.0 scaled)
@@ -513,17 +509,16 @@ A 29-year-old woman presents with 3 years of primary subfertility. Her partner's
 ### SECTION 6.1 — Investigations to assess tubal patency and function (25 raw → 5.0 scaled)
 model: Given her history of treated PID (a known risk factor and comorbidity for tubal disease), laparoscopy and dye testing is the investigation of choice rather than HSG, as it allows simultaneous assessment of other pelvic pathology such as adhesions or endometriosis. Baseline ovulatory and infective screening should still be completed despite regular cycles and a normal partner semen analysis.
 points:
-- [3] History of treated PID is a recognised risk factor for tubal damage, justifying formal tubal assessment | NICE NG257 (2026), 1.18.15
+- [4] History of treated PID is a recognised risk factor for tubal damage, justifying formal tubal assessment | NICE NG257 (2026), 1.18.15
 - [4] Because she has a known comorbidity (treated PID), laparoscopy and dye test is the investigation of choice rather than HSG | NICE NG257 (2026), 1.18.15
 - [3] Laparoscopy and dye allows concurrent assessment of other pelvic pathology (adhesions, endometriosis, hydrosalpinx) | NICE NG257 (2026), 1.18.15
 - [2] HSG is reserved as first-line screening for women without known comorbidities | NICE NG257 (2026), 1.18.13
 - [2] Hysterosalpingo-contrast-ultrasonography (HyCoSy) is an alternative to HSG where expertise is available, in low-risk women | NICE NG257 (2026), 1.18.14
 - [2] Screen for Chlamydia trachomatis before any uterine instrumentation | NICE NG257 (2026), 1.22.1
 - [2] If chlamydia positive, refer for treatment and contact tracing; consider prophylactic antibiotics if screening not done before instrumentation | NICE NG257 (2026), 1.22.1–1.22.3
-- [2] Confirm ovulation with mid-luteal (day 21) serum progesterone even with regular cycles | NICE NG257 (2026), 1.18.7
-- [2] Confirm partner's semen analysis meets WHO reference values; repeat only if doubt or gross abnormality | NICE NG257 (2026)/WHO laboratory manual reference values
-- [2] Do not use post-coital cervical mucus testing — no predictive value for pregnancy | NICE NG257 (2026), 1.18.1
-- [1] Reserve hysteroscopy for cases with clinically suspected uterine/endometrial abnormality | NICE NG257 (2026), 1.18.16
+- [2] saline sonography
+- [2] Hysterocontrast sonogaphy HyCoSy
+
 calibration: Must-have: recognising PID history changes the first-line test from HSG to laparoscopy and dye — this is the key safety-critical/discriminating point examiners look for. Common omission: candidates default to "HSG first" without accounting for the comorbidity, or forget chlamydia screening before instrumentation.
 
 ### SECTION 6.2 — Management options for tubal factor subfertility (30 raw → 6.0 scaled)
@@ -547,8 +542,6 @@ calibration: Must-have: staging management by severity (mild → surgery in expe
 model: This couple meets NHS/standard access criteria for IVF, as she has a diagnosed cause of infertility (tubal factor) for which surgery is unsuitable or has failed, and is under 40. She should be offered an initial 3 full cycles, with pre-treatment screening, single embryo transfer in the first cycle, and cryopreservation of surplus good-quality embryos.
 points:
 - [3] She meets criteria for IVF: diagnosed cause of infertility (tubal factor) for which other treatments are unsuitable/have failed | NICE NG257 (2026), 1.39.3
-- [2] Being under 40 years, she should be offered an initial 3 full cycles of IVF | NICE NG257 (2026), 1.39.6
-- [2] A "full cycle" = one episode of ovarian stimulation plus transfer of all resultant fresh and frozen embryos | NICE NG257 (2026), 1.39.4
 - [2] Take ovarian reserve (AMH or antral follicle count, not FSH) into account when counselling on IVF prognosis | NICE NG257 (2026), 1.18.4–1.18.5, 1.39.2
 - [2] Discuss risks/benefits of IVF in line with current regulatory/consent standards (HFEA Code of Practice / local SLCOG equivalent) | NICE NG257 (2026), 1.39.1; SLCOG (latest edition) [SLCOG-CHECK]
 - [2] Screen both partners for HIV, hepatitis B and hepatitis C before treatment | NICE NG257 (2026), 1.19.1
@@ -557,6 +550,8 @@ points:
 - [2] Never transfer more than 2 embryos in any cycle; discuss multiple pregnancy risk if double transfer is considered | NICE NG257 (2026), 1.49.8, 1.49.10
 - [2] Offer cryopreservation of remaining good-quality embryos after transfer | NICE NG257 (2026), 1.49.11
 - [3] ICSI is not indicated as semen parameters are normal; reserve for failed/very low fertilisation on a previous IVF cycle | NICE NG257 (2026), 1.50.2–1.50.3
+- [2] patient optimization regarding medical problems
+- [2] prevention OHSS
 calibration: Must-have: correctly stating she is eligible for 3 full cycles under 40, and that single embryo transfer is default in cycle 1 given her age. Common omission: forgetting viral screening, or wrongly recommending ICSI when there is no male factor indication.
 
 ### SECTION 6.4 — Ovarian hyperstimulation syndrome (OHSS) and its prevention (20 raw → 4.0 scaled)
