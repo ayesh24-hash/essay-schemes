@@ -404,6 +404,91 @@ calibration: Must-have points — the exact 90-70-90 figures correctly matched t
 - [SLCOG-CHECK] Sri Lanka screening-coverage figures cited (34.6–61.6% at various years; 50–70% participation; <10% in some district studies) are inconsistent across sources — flagged for editorial reconciliation rather than presented as a single current figure.
 - No RCOG Green-top Guideline specifically on cervical cancer management currently exists (management is generally covered via NICE NG12/local cancer-network protocols and BGCS guidance) — flagged so the group is aware this section cannot be anchored to a single RCOG GTG number, unlike other schemes in this library.
 
+## SCHEME_ID: M03-Q5
+- topic: Shoulder dystocia
+- subject: OBS
+- questionType: SEQ
+- totalMarks: 20
+- rawMarks: 100
+- schemeVersion: 1.0
+
+### QUESTION
+A 33-year-old woman, para 1, whose previous baby weighed 4.2 kg, is in the second stage of labour. After delivery of the head, the anterior shoulder fails to deliver with routine axial traction.
+
+5.1. Define shoulder dystocia and list the risk factors present in this woman. (20 marks)
+5.2. Describe, in sequence, the manoeuvres you would perform to relieve the shoulder dystocia. (40 marks)
+5.3. Outline the maternal and neonatal complications that may result. (25 marks)
+5.4. Discuss the documentation and risk-management following this event. (15 marks)
+
+### SECTION 5.1 — Definition and risk factors (20 raw → 4.0 scaled)
+model: Shoulder dystocia is a vaginal cephalic delivery that requires additional obstetric manoeuvres after the head has delivered and gentle traction has failed. In this woman, the only risk factor volunteered in the stem is a previous baby weighing 4.2 kg, which falls short of the definitive macrosomia threshold and is a relatively weak predictor; overall, risk-factor screening is poorly predictive, so all birth attendants must remain alert to the possibility of shoulder dystocia at every delivery.
+points:
+- [3] Definition: a vaginal cephalic delivery that requires additional obstetric manoeuvres to deliver the fetus after the head has delivered and gentle traction has failed | RCOG Green-top Guideline No. 42, 2012
+- [2] An objective definition of head-to-body delivery interval greater than 60 seconds has been proposed, though this is not routinely measured or documented in practice | RCOG GTG42
+- [2] Reported incidence in large series (34,800–267,228 deliveries) is between 0.58% and 0.70% | RCOG GTG42
+- [3] Risk factor present in this woman: a previous baby weighing 4.2 kg suggests a tendency toward larger infants, though this is below the definitive macrosomia cut-off of >4.5 kg used in the guideline | RCOG GTG42, Table 1
+- [2] No other definitive risk factors are stated in the scenario (no documented diabetes, maternal BMI, induction of labour, oxytocin augmentation, prolonged labour, or assisted vaginal delivery) — the risk factors actually present are therefore limited
+- [3] Full list of pre-labour risk factors: previous shoulder dystocia, macrosomia >4.5 kg, diabetes mellitus, maternal BMI >30 kg/m², induction of labour | RCOG GTG42, Table 1
+- [3] Full list of intrapartum risk factors: prolonged first stage of labour, secondary arrest, prolonged second stage of labour, oxytocin augmentation, assisted vaginal delivery | RCOG GTG42, Table 1
+- [2] Risk assessment for prediction of shoulder dystocia is insufficiently predictive: conventional risk factors predicted only 16% of shoulder dystocia resulting in infant morbidity, with low positive predictive value singly and in combination | RCOG GTG42
+calibration: Must-have point: the candidate should recognise that this woman has only a weak/soft risk factor and should not overstate the stem's findings by inventing risk factors not present (e.g. assuming diabetes or induction when not stated). A common omission is failing to state that risk-factor screening is poorly predictive overall, which is central to why every birth attendant must be prepared regardless of risk profile.
+
+### SECTION 5.2 — Sequential management of shoulder dystocia (40 raw → 8.0 scaled)
+model: Management follows the RCOG systematic algorithm: call for help and clearly state the problem, discourage pushing, and avoid fundal pressure. McRoberts' manoeuvre with suprapubic pressure is performed first; if unsuccessful, internal rotational manoeuvres, delivery of the posterior arm, or the all-fours position are attempted, escalating to consultant-level involvement. Rare, high-morbidity third-line measures (cleidotomy, symphysiotomy, Zavanelli manoeuvre) are reserved for cases resistant to all standard measures.
+points:
+- [3] Call for help immediately: midwifery coordinator/additional experienced midwife, an experienced obstetrician, the neonatal resuscitation team, and an anaesthetist | RCOG GTG42
+- [2] State the problem clearly to the arriving team: "this is shoulder dystocia" | RCOG GTG42
+- [2] Discourage maternal pushing, as this may exacerbate impaction of the shoulders | RCOG GTG42
+- [2] Fundal pressure should never be used — associated with a high neonatal complication rate and risk of uterine rupture | RCOG GTG42
+- [3] McRoberts' manoeuvre performed first: lie the woman flat, remove pillows, hyperflex both hips so the thighs lie on the abdomen | RCOG GTG42
+- [2] Routine axial traction is applied to the fetal head to assess release; downward or lateral traction is avoided, as this increases the risk of brachial plexus injury | RCOG GTG42
+- [3] Suprapubic pressure applied together with McRoberts' to improve success, directed downward and laterally just above the symphysis pubis from the side of the fetal back | RCOG GTG42
+- [3] If McRoberts' and suprapubic pressure fail, proceed to internal manoeuvres or the all-fours position | RCOG GTG42
+- [2] For internal manoeuvres, vaginal access is gained posteriorly into the roomier sacral hollow | RCOG GTG42
+- [3] Internal rotational manoeuvres (Woods'/Rubin's screw): pressure applied to the anterior or posterior aspect of the posterior shoulder to rotate the shoulders into the wider oblique diameter | RCOG GTG42
+- [3] Delivery of the posterior arm: grasp the fetal wrist and gently withdraw the posterior arm in a straight line, reducing the effective shoulder diameter | RCOG GTG42
+- [2] Episiotomy is considered only to facilitate internal vaginal access for manoeuvres, not because it relieves the bony obstruction itself | RCOG GTG42
+- [2] The all-fours position may be used as an alternative, particularly for a slim, mobile woman without epidural anaesthesia or in a community setting (reported 83% success in one series) | RCOG GTG42
+- [2] Inform the consultant obstetrician and anaesthetist if progressing beyond first-line manoeuvres | RCOG GTG42, Appendix 2 algorithm
+- [3] If first- and second-line manoeuvres fail, third-line measures (cleidotomy, symphysiotomy, Zavanelli manoeuvre) are considered very carefully, as they are rarely required and carry significant maternal morbidity risk, particularly in inexperienced hands | RCOG GTG42
+- [2] There is no fixed safe time limit, but hypoxic-ischaemic injury rates are low when the head-to-body delivery interval is under five minutes, so progression through manoeuvres should be efficient and systematic | RCOG GTG42
+- [1] All actions and their timing should be documented on a structured proforma and a clinical incident reporting form completed as part of the immediate response | RCOG GTG42, Appendix 2 algorithm
+calibration: Must-have safety points: calling for help and stating the problem clearly are the first actions and must precede any manoeuvre; fundal pressure and downward/lateral traction must be explicitly stated as contraindicated. A common candidate error is describing manoeuvres out of sequence or omitting the escalation to consultant involvement and third-line measures when first- and second-line manoeuvres fail.
+
+### SECTION 5.3 — Maternal and neonatal complications (25 raw → 5.0 scaled)
+model: Shoulder dystocia carries significant maternal morbidity, particularly postpartum haemorrhage and severe perineal tears, and fetal morbidity dominated by brachial plexus injury, most of which resolves without permanent disability. Complication rates are largely unaffected by the number or type of manoeuvres used to achieve delivery.
+points:
+- [3] Maternal postpartum haemorrhage occurs in approximately 11% of cases | RCOG GTG42
+- [3] Third- and fourth-degree perineal tears occur in approximately 3.8% of cases | RCOG GTG42
+- [2] Other maternal soft-tissue injuries: vaginal lacerations, cervical tears | RCOG GTG42
+- [2] Rare but serious maternal injuries: bladder rupture, uterine rupture | RCOG GTG42
+- [2] Maternal pelvic/musculoskeletal injuries: symphyseal separation, sacroiliac joint dislocation, and lateral femoral cutaneous neuropathy (the latter associated with McRoberts' positioning) | RCOG GTG42
+- [3] Brachial plexus injury is the most important fetal complication, complicating 2.3–16% of shoulder dystocia deliveries | RCOG GTG42
+- [2] Most brachial plexus injuries resolve without permanent disability; fewer than 10% result in permanent neurological dysfunction | RCOG GTG42
+- [2] Other neonatal fractures: humerus and clavicle fractures | RCOG GTG42
+- [2] Other neonatal complications: pneumothorax, hypoxic brain damage/hypoxic-ischaemic encephalopathy | RCOG GTG42
+- [2] Risk of hypoxic-ischaemic injury increases with a longer head-to-body delivery interval, though it remains low under five minutes; rarely, perinatal death can occur | RCOG GTG42
+- [2] Maternal and neonatal complication rates remain largely unchanged regardless of the number or type of manoeuvres required to effect delivery | RCOG GTG42
+calibration: Distinction-level answers separate maternal and neonatal complications clearly and give the specific quoted incidences (11% PPH, 3.8% severe tears, 2.3–16% BPI) rather than a vague list. A common omission is stating that brachial plexus injury is always due to excessive traction by the birth attendant — the guideline is explicit that complication rates are not simply a function of the manoeuvres performed, and posterior-shoulder BPI in particular may not be attributable to the attendant.
+
+### SECTION 5.4 — Documentation and risk management (15 raw → 3.0 scaled)
+model: Because shoulder dystocia carries major medico-legal significance, accurate and comprehensive documentation — ideally using a structured proforma — is essential, alongside completion of an incident report, annual skills-drill training for all maternity staff, and honest communication with the parents about what happened.
+points:
+- [3] Documentation should be accurate and comprehensive; poor documentation of shoulder dystocia has been highlighted as a recurrent problem with potential medico-legal consequences | RCOG GTG42; sixth CESDI annual report
+- [3] Use of a structured proforma is recommended to improve accurate record-keeping in the clinical setting | RCOG GTG42
+- [3] Key items to document: time of delivery of the head and of the body, identification of the anterior shoulder at the time of dystocia, manoeuvres performed with their timing and sequence, maternal perineal/vaginal examination findings, estimated blood loss, staff in attendance and their time of arrival, Apgar score, umbilical cord blood gas/acid-base measurements, and neonatal assessment | RCOG GTG42
+- [2] A clinical incident reporting form should be completed as part of risk management following the event | RCOG GTG42, Appendix 2 algorithm
+- [2] All maternity staff should undergo shoulder dystocia skills training/drills at least annually, jointly recommended by the RCOG and Royal College of Midwives and required under CNST maternity standards — a key risk-management and audit standard | RCOG GTG42
+- [2] An explanation of the delivery and events should be given to the parents, supported by an RCOG patient information leaflet on shoulder dystocia | RCOG GTG42
+calibration: Must-have point: candidates should identify at least the head-to-body delivery time, the manoeuvres used with sequence/timing, and cord blood gases as core documentation items, since these are the details most scrutinised in medico-legal review. A common omission is forgetting that annual skills-drill training is itself a suggested audit topic and risk-management standard, not merely an educational activity.
+
+---
+
+### GUIDELINES USED
+- Royal College of Obstetricians and Gynaecologists. Shoulder Dystocia. Green-top Guideline No. 42, 2nd Edition, March 2012
+
+### FLAGS
+- [VERIFY] RCOG Green-top Guideline No. 42 (2012) is the version supplied and used throughout this scheme; confirm whether a newer edition has since been published, as this guideline's stated review process was due to commence in 2015.
 
 
 ## SCHEME_ID: M03-Q6
